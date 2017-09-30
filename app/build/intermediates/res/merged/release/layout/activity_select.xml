@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/select_bg"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@color/whitesmoke"
+	android:gravity="center"
+	android:orientation="vertical">
+
+	<TextView
+		android:id="@+id/tv_menu"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_margin="20dp"
+		android:background="@drawable/liveshape"
+		android:gravity="center"
+		android:visibility="gone"
+		android:paddingBottom="@dimen/live_text_padding"
+		android:paddingTop="@dimen/live_text_padding"
+		android:textColor="@color/white"
+		android:textSize="@dimen/select_menu_text_size" />
+
+	<TextView
+		android:id="@+id/tv_other_menu"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_margin="20dp"
+		android:background="@drawable/liveshape"
+		android:gravity="center"
+		android:paddingBottom="@dimen/live_text_padding"
+		android:visibility="gone"
+		android:paddingTop="@dimen/live_text_padding"
+		android:textColor="@color/white"
+		android:textSize="@dimen/select_menu_text_size" />
+
+	<TextView
+		android:id="@+id/tv_rtmp"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_margin="20dp"
+		android:background="@drawable/liveshape"
+		android:gravity="center"
+		android:paddingBottom="@dimen/live_text_padding"
+		android:paddingTop="@dimen/live_text_padding"
+		android:textColor="@color/white"
+		android:textSize="@dimen/select_menu_text_size" />
+	<TextView
+		android:id="@+id/see_qq_live"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_margin="20dp"
+		android:background="@drawable/liveshape"
+		android:gravity="center"
+		android:paddingBottom="@dimen/live_text_padding"
+		android:paddingTop="@dimen/live_text_padding"
+		android:textColor="@color/white"
+		android:textSize="@dimen/select_menu_text_size" />
+
+</LinearLayout>

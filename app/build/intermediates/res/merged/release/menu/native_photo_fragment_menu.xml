@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item 
+        android:id="@+id/share_item"
+        android:title="@string/share"
+        android:icon="@drawable/ic_share"
+        android:showAsAction="always"/>
+        
+    <item 
+        android:id="@+id/glasses_item"
+        android:title="@string/glasses"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_glass"/>
+    
+    <item 
+        android:id="@+id/native_photo_delete_item"
+        android:title="@string/delete"
+        android:showAsAction="always"
+        android:icon="@drawable/ic_delete" />
+</menu>

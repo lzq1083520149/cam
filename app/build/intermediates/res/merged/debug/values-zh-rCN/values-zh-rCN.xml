@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="mode_entries">
+        <item>省电模式</item>
+        <item>实时模式</item>
+    </string-array>
+    <string-array name="native_photo_option">
+        <item>查看</item>
+        <item>分享</item>
+        <item>删除</item>
+    </string-array>
+    <string-array name="native_video_option">
+        <item>播放</item>
+        <item>分享</item>
+        <item>删除</item>
+    </string-array>
+    <string-array name="photo_pixel_entry">
+        <item>640*480</item>
+        <item>1024*768</item>
+        <item>1280*960</item>
+        <item>1600*1200</item>
+        <item>2048*1536</item>
+        <item>2576*1932</item>
+    </string-array>
+    <string-array name="photo_pixel_value">
+        <item>640*480</item>
+        <item>1024*768</item>
+        <item>1280*960</item>
+        <item>1600*1200</item>
+        <item>2048*1536</item>
+        <item>2576*1932</item>
+    </string-array>
+    <string-array name="remote_photo_option">
+        <item>查看</item>
+        <item>下载</item>
+        <item>删除</item>
+    </string-array>
+    <string-array name="remote_video_option_1">
+        <item>下载</item>
+        <item>删除</item>
+    </string-array>
+    <string-array name="remote_video_option_2">
+        <item>播放</item>
+        <item>删除</item>
+    </string-array>
+    <string-array name="vedio_durations">
+        <item>5分钟</item>
+        <item>10分钟</item>
+        <item>20分钟</item>
+        <item>30分钟</item>
+	<item>无限制</item>
+    </string-array>
+    <string-array name="vedio_durations_values">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="vedio_pixel_entry">
+        <item>768*432</item>
+        <item>1280*720</item>
+        <item>640*480</item>
+        <item>320*240</item>
+        <item>800*600</item>
+        <item>352*288</item>
+    </string-array>
+    <string-array name="vedio_pixel_value">
+        <item>768*432</item>
+        <item>1280*720</item>
+        <item>640*480</item>
+        <item>320*240</item>
+        <item>800*600</item>
+        <item>352*288</item>
+    </string-array>
+    <string name="abandon">放弃</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="about_glass">关于睐虫</string>
+    <string name="about_glasses">关于眼镜</string>
+    <string name="accepting">正在接听</string>
+    <string name="action_settings">设置</string>
+    <string name="address_info">设备的MAC地址：</string>
+    <string name="addtext">添加文字</string>
+    <string name="all_space">总共</string>
+    <string name="already_latest_version">已经是最新版本！</string>
+    <string name="android_version">Android 版本：</string>
+    <string name="app_label">睐虫智能Live</string>
+    <string name="app_name">睐虫智能Live</string>
+    <string name="app_version">App版本</string>
+    <string name="basic">基本</string>
+    <string name="bbbb">上次更新</string>
+    <string name="bettery">当前电量：</string>
+    <string name="bind_Glass">绑定眼镜</string>
+    <string name="bind_camlog">绑定眼镜</string>
+    <string name="bind_device">正在绑定...请稍后</string>
+    <string name="bind_fail">绑定失败</string>
+    <string name="bind_timeout">绑定设备超时，请重新搜索设备或尝试重新关闭，开启手机蓝牙。</string>
+    <string name="binding">已绑定的设备</string>
+    <string name="binding_camlog">绑定眼镜…</string>
+    <string name="blackandwhite">黑白</string>
+    <string name="bluetooth_a2dp">媒体音频</string>
+    <string name="bluetooth_a2dp_summary">开启关闭蓝牙音乐功能</string>
+    <string name="bluetooth_error">蓝牙连接已断开,请重试</string>
+    <string name="bluetooth_finded_devices">可连接的设备</string>
+    <string name="bluetooth_off">蓝牙没有开启，已退出眼睛助手应用</string>
+    <string name="bluetooth_pairing">"正在配对…"</string>
+    <string name="bluetooth_paring">配对中…</string>
+    <string name="bluetooth_phone">蓝牙电话</string>
+    <string name="bluetooth_phone_summary">开启关闭蓝牙电话功能</string>
+    <string name="bluetooth_preference_devices">可配对设备</string>
+    <string name="bluetooth_preference_paired_devices">可绑定设备</string>
+    <string name="bond">绑定 > </string>
+    <string name="bond_message">确定要绑定设备%1$s吗？</string>
+    <string name="bond_request">绑定请求</string>
+    <string name="bond_request_message">"要与<ns1:g id="DEVICE_NAME">%1$s</ns1:g>设备绑定吗？"</string>
+    <string name="brightness">亮度</string>
+    <string name="brown">褐色</string>
+    <string name="btn_bind_glass">绑定眼镜</string>
+    <string name="camera_state">相机正在被使用</string>
+    <string name="camlog_about">关 于</string>
+    <string name="camlog_comment">1. 请确保眼镜在附近，并已开机。\n\n2. 应用会自动绑定信号最强的眼镜。\n\n3. 请确保眼镜没有绑定其他手机。\n\n4. 如多次绑定失败，请尝试重启眼镜或手机蓝牙。</string>
+    <string name="camlog_live">直 播</string>
+    <string name="camlog_on_time_hour">眼镜已运行%1$d小时%2$d分%3$d秒</string>
+    <string name="camlog_on_time_minute">眼镜已运行%1$d分%2$d秒</string>
+    <string name="camlog_on_time_second">眼镜已运行%1$d秒</string>
+    <string name="camlog_photo">照 片</string>
+    <string name="camlog_power_state">眼镜当前电量:%1$d</string>
+    <string name="camlog_setting">设 置</string>
+    <string name="camlog_storage_state">总容量:%1$.0fGB,已用:%2$.2fGB,剩余:%3$s</string>
+    <string name="camlog_unbind">解 除 </string>
+    <string name="camlog_update">眼镜升级</string>
+    <string name="camlog_video">视 频</string>
+    <string name="camlog_video_state_hour">录像中(%1$d小时%2$d分%3$d秒)</string>
+    <string name="camlog_video_state_minute">录像中(%1$d分%2$d秒)</string>
+    <string name="camlog_video_state_second">录像中(%1$d秒)</string>
+    <string name="cancel">取消</string>
+    <string name="cancel_update">放弃更新</string>
+    <string name="check_file_failed">文件校验失败，请重新下载</string>
+    <string name="check_now">立即检查</string>
+    <string name="check_update">检查更新</string>
+    <string name="check_update_error">检查更新失败</string>
+    <string name="checking">正在检查</string>
+    <string name="checking_update">正在检查更新 . . .</string>
+    <string name="close_bluetooth_a2dp">关闭媒体音频</string>
+    <string name="close_wlan">关闭WLAN</string>
+    <string name="color">颜色</string>
+    <string name="color_flower">花色</string>
+    <string name="comic">漫画</string>
+    <string name="config_wifi">设置Wifi</string>
+    <string name="connect_error">连接错误</string>
+    <string name="contact">联系人</string>
+    <string name="contact_send_fail">联系人数据同步失败</string>
+    <string name="contrast">对比度</string>
+    <string name="controller_info">启动同步屏幕您可以向上（下、左、右）滑动、单击、长按等手势控制眼镜屏幕。</string>
+    <string name="current_power">眼镜当前电量</string>
+    <string name="current_version">当前版本:</string>
+    <string name="current_version_ps">（当前版本）</string>
+    <string name="cut">剪切</string>
+    <string name="cut1">1:1剪切</string>
+    <string name="cut2">3:2剪切</string>
+    <string name="cut3">4:3剪切</string>
+    <string name="cut4">16:9剪切</string>
+    <string name="default_click">默认设置</string>
+    <string name="deform">变形</string>
+    <string name="delete">删除</string>
+    <string name="delete_error">删除失败</string>
+    <string name="delete_fail_count">有%1$d个文件删除失败</string>
+    <string name="delete_message">要删除所选内容吗？</string>
+    <string name="delete_ok">删除成功</string>
+    <string name="delete_progress">正在删除...(%1$d/%2$d)</string>
+    <string name="deleting">删除中…</string>
+    <string name="description">说明:</string>
+    <string name="device">设备名: </string>
+    <string name="dialog_cancle">退出应用</string>
+    <string name="dialog_ok">现在就去</string>
+    <string name="dialog_title">绑定眼镜需要开启蓝牙</string>
+    <string name="disconnect">绑定失败，点击重试</string>
+    <string name="disconnecting">正在解绑...</string>
+    <string name="download">下载</string>
+    <string name="download_any_data">通过任何可用的数据连接进行下载</string>
+    <string name="download_description">下载升级所需要的更新文件</string>
+    <string name="download_messages">要下载所选内容吗？</string>
+    <string name="download_notification_title">Coldwave</string>
+    <string name="download_only_wifi">仅通过WLAN下载</string>
+    <string name="download_task_running">有未完成的任务</string>
+    <string name="download_title">下载升级文件</string>
+    <string name="downloading">正在下载升级包，请稍等...</string>
+    <string name="empty_ssid">请输入热点的SSID</string>
+    <string name="enhancement">图像增强</string>
+    <string name="eraser">橡皮擦</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_unknown">发送返回</string>
+    <string name="error_process">原始图片同步失败！</string>
+    <string name="exit_message">您可以随时从通知栏进入更新</string>
+    <string name="exit_title">稍后更新</string>
+    <string name="film">底片</string>
+    <string name="filter">滤镜</string>
+    <string name="finish">完成</string>
+    <string name="firstly"> 一 .</string>
+    <string name="font">字体</string>
+    <string name="fraffiti">涂鸦</string>
+    <string name="frame">边框</string>
+    <string name="freecutting">自由剪切</string>
+    <string name="get_file_list">下载媒体列表…</string>
+    <string name="get_glass_data_fail">获取数据失败，请重试</string>
+    <string name="get_power_timeout">获取电量超时</string>
+    <string name="get_state_timeout">获取状态超时</string>
+    <string name="get_storage_timeout">获取存储状态超时</string>
+    <string name="get_uptime_timeout">获取运行时间超时</string>
+    <string name="get_watch_failed">获取眼镜信息失败\n请检查和眼镜的蓝牙连接</string>
+    <string name="get_watch_info">正在获取手表版本信息</string>
+    <string name="get_wifi_state">正在获取眼镜端WLAN连接状态...</string>
+    <string name="get_wifi_state_timeout">获取眼镜端WLAN连接状态超时</string>
+    <string name="glass_ap_pw">眼镜热点密码</string>
+    <string name="glass_appw_summary">设置眼镜热点的密码</string>
+    <string name="glass_connect_phone_hotspot_success">眼镜连接手机热点成功</string>
+    <string name="glass_cpu">处理器</string>
+    <string name="glass_live">睐虫直播</string>
+    <string name="glass_model">型号</string>
+    <string name="glass_photo">睐虫照片</string>
+    <string name="glass_power">眼镜电量</string>
+    <string name="glass_ram">RAM</string>
+    <string name="glass_serial_number">序列号</string>
+    <string name="glass_ssid">眼镜热点SSID</string>
+    <string name="glass_ssid_summary">设置眼镜热点的ssid</string>
+    <string name="glass_state">眼镜状态</string>
+    <string name="glass_state_summary">正在获取眼镜状态…</string>
+    <string name="glass_storage">眼镜存储</string>
+    <string name="glass_up_time">运行时间</string>
+    <string name="glass_version">眼镜版本</string>
+    <string name="glass_video">睐虫视频</string>
+    <string name="glasses">镜端</string>
+    <string name="gps">位置信息</string>
+    <string name="gray">灰色</string>
+    <string name="groundglass">毛玻璃</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="high_clearity">超清（适合2mbps带宽）</string>
+    <string name="horizontally">水平翻转</string>
+    <string name="idle">空闲</string>
+    <string name="install">立即安装</string>
+    <string name="install_alerting">升级过程中您无法使用电话，也不能拨打紧急电话。在升级过程中请勿关闭电话，或者取出电池或存储卡。</string>
+    <string name="install_notices">更新前请备份数据(如，联系人，信息，通话记录等),并保证有足够的电量</string>
+    <string name="key_binding">搜索蓝牙设备</string>
+    <string name="language">语言设置</string>
+    <string name="language_summary">设置眼镜端的语言</string>
+    <string name="language_summary_app">设置App的语言</string>
+    <string name="later">稍后安装</string>
+    <string name="latest_version">最新版本:</string>
+    <string name="live">录像直播</string>
+    <string name="live_audio">本地直播音频</string>
+    <string name="live_audio_hint">有声直播需要关闭媒体音频</string>
+    <string name="live_audio_nosound">无声直播</string>
+    <string name="live_audio_summary">选择是否直播音频</string>
+    <string name="live_bt_disconnect">眼镜还没有连接上手机</string>
+    <string name="live_cancle">退出直播</string>
+    <string name="live_controller_info">启动录像直播您可以看见当前录像的屏幕。</string>
+    <string name="live_get_url">获取直播地址...</string>
+    <string name="live_loading">正在获取视频中，请稍等...</string>
+    <string name="live_network_disconnect">网络失去连接</string>
+    <string name="live_ok">现在就去</string>
+    <string name="live_open_bt">等待蓝牙开启...</string>
+    <string name="live_record">直播时保存视频</string>
+    <string name="live_record_summary">选择直播时眼镜端是否录像</string>
+    <string name="live_set_audio">去设置</string>
+    <string name="live_stream_down">直播连接失败</string>
+    <string name="live_wait_network_data">网络较差，数据加载中 ...</string>
+    <string name="live_wifi_ap_hint">直播需要开启wifi热点功能</string>
+    <string name="live_wifi_disconnect">眼镜无线网络未连接</string>
+    <string name="login">立即进入</string>
+    <string name="low_clearity">标清（适合500kbps带宽）</string>
+    <string name="low_power">低电提醒</string>
+    <string name="low_power_msg">眼镜电量过低,请及时充电</string>
+    <string name="luxiang">录像</string>
+    <string name="mac">MAC    :</string>
+    <string name="media">媒体浏览</string>
+    <string name="media_downloaded">已下载</string>
+    <string name="media_no">算了吧</string>
+    <string name="media_path">本地文件路径</string>
+    <string name="media_path_summary">SD卡/SmartGlasses/</string>
+    <string name="media_picture">图片</string>
+    <string name="media_pixel">分辨率</string>
+    <string name="media_tip">同步视频需要大量时间，确认同步吗？</string>
+    <string name="media_video">视频</string>
+    <string name="media_yes">同步</string>
+    <string name="message">短信</string>
+    <string name="mosaic">马赛克</string>
+    <string name="msg_camera_framework_bug">打开摄像头失败，请检查使用摄像头权限是否被禁止。</string>
+    <string name="name_info">已扫描到的设备：</string>
+    <string name="native_live">本地直播</string>
+    <string name="native_photo">本地照片</string>
+    <string name="native_photo_fragment">本地</string>
+    <string name="native_video">本地视频</string>
+    <string name="neon">霓虹</string>
+    <string name="network_not_avaliable">网络不可用！</string>
+    <string name="new_app_version">版本更新</string>
+    <string name="new_version_comment">1.修复已知Bug\n2.优化应用</string>
+    <string name="no_available_player">未找到可用播放器，请通过图库打开</string>
+    <string name="no_found_device">没有找到设备，点击重新扫描</string>
+    <string name="no_read_contact_permission">请开启读取联系人权限</string>
+    <string name="no_rollback_version">没有可回退的版本！</string>
+    <string name="nostalgia">怀旧</string>
+    <string name="not_camlog_glass">未发现眼镜</string>
+    <string name="not_need_update">你的版本已是最新,不需要更新</string>
+    <string name="notification_summary_settings">启/禁用超时通知</string>
+    <string name="notification_title_settings">超时通知</string>
+    <string name="offhook">通话中</string>
+    <string name="ok">确定</string>
+    <string name="open_bt">打开蓝牙</string>
+    <string name="operation_timeout">操作超时</string>
+    <string name="other_bind">无摄像头快捷绑定</string>
+    <string name="other_bind_info">一键绑定眼镜，需要您在眼镜开机后2分钟之内进行操作，否则将无法进行绑定。</string>
+    <string name="overexposure">过度曝光</string>
+    <string name="pair">配对 > </string>
+    <string name="pair_device">正在搜索...</string>
+    <string name="pair_fail">配对失败</string>
+    <string name="pair_success">配对成功</string>
+    <string name="paizhao">拍照</string>
+    <string name="password">密码:</string>
+    <string name="pencil">铅笔画</string>
+    <string name="pencil1">画笔1</string>
+    <string name="pencil2">画笔2</string>
+    <string name="pencilcolor">画笔颜色</string>
+    <string name="pencilsize">画笔大小</string>
+    <string name="pho_bind">摄像头绑定</string>
+    <string name="phone">手机音频</string>
+    <string name="photo">照片</string>
+    <string name="photo_pixel_summary">选择拍照的分辨率</string>
+    <string name="photo_sync_start">"照片同步开始"</string>
+    <string name="pic_water_mark">添加图片水印效果</string>
+    <string name="picture_nofind">没有找到眼镜设备上的图片资源</string>
+    <string name="play_audio_hint">播放本地视频需要关闭媒体音频</string>
+    <string name="play_error"> 没有找合适的应用程序进行播放 </string>
+    <string name="please_choose_version">请选择版本</string>
+    <string name="please_wait_moment">请稍等片刻</string>
+    <string name="position">地理位置</string>
+    <string name="power">电量：</string>
+    <string name="power_summary">正在获取当前电池状态…</string>
+    <string name="processing">正在加载...</string>
+    <string name="product">型号：</string>
+    <string name="progress">正在同步数据</string>
+    <string name="pullto_refresh">下拉搜索</string>
+    <string name="pw_hint">wifi密码</string>
+    <string name="pw_too_short">热点密码不能少于8位</string>
+    <string name="pwd_note">密码格式为6-32个字母、数字或字母与数字的组合</string>
+    <string name="qr_bind">二维码绑定</string>
+    <string name="ram">内存：</string>
+    <string name="read_me">------------------------------------\n
+  注意事项: \n
+  1. 确保已安装SD卡,且有足够的可用空间;\n
+  2. 确保网络连接;(推荐WLAN)\n
+  3. 成功下载升级文件后,重启.\n
+  ------------------------------------\n</string>
+    <string name="rebind_camlog">重新绑定</string>
+    <string name="reflush">点击刷新</string>
+    <string name="refreshing">搜索蓝牙设备</string>
+    <string name="release_refresh">松开搜索</string>
+    <string name="reminder">小提示:</string>
+    <string name="remote_live">远程直播</string>
+    <string name="remote_live_cancel_modify_password">取消修改</string>
+    <string name="remote_live_clear_history">清空历史记录</string>
+    <string name="remote_live_ensure_modify">确认修改</string>
+    <string name="remote_live_error_check_pwd">密码校验失败，请确认后再试</string>
+    <string name="remote_live_error_check_uid">UID校验失败，请确认后重试</string>
+    <string name="remote_live_error_close_by_remote">眼镜端已退出直播</string>
+    <string name="remote_live_error_device_offline">没有发现在线设备，请稍后再试</string>
+    <string name="remote_live_error_get_data">加载数据失败，请稍后再试</string>
+    <string name="remote_live_error_get_data_timeout">网络加载失败，请重试</string>
+    <string name="remote_live_error_get_videodata_failed">获取视频数据失败，请重试</string>
+    <string name="remote_live_error_max_seesion">直播设备已达上限，请稍后再试</string>
+    <string name="remote_live_error_record_too_short">说话时间太短</string>
+    <string name="remote_live_error_speaker_failed">语音对讲失败</string>
+    <string name="remote_live_error_videorecord_too_short">录像时间太短</string>
+    <string name="remote_live_history">历史记录</string>
+    <string name="remote_live_login">开始直播</string>
+    <string name="remote_live_modify_error">修改失败</string>
+    <string name="remote_live_modify_password">修改密码</string>
+    <string name="remote_live_modify_success">修改成功</string>
+    <string name="remote_live_modifying_pwd">正在修改</string>
+    <string name="remote_live_msg_check_uid">正在校验设备序号和密码</string>
+    <string name="remote_live_msg_get_data">正在加载数据，请稍后</string>
+    <string name="remote_live_new_pwd">新密码</string>
+    <string name="remote_live_new_pwd_ensure">再次确认</string>
+    <string name="remote_live_newpwd">请输入新密码并通过直播进行修改</string>
+    <string name="remote_live_nickname">昵称</string>
+    <string name="remote_live_no_name">请输入昵称</string>
+    <string name="remote_live_no_network">请检查网络连接，然后重试</string>
+    <string name="remote_live_no_pwd">请输入正确的密码</string>
+    <string name="remote_live_no_uid">请输入正确的设备序号</string>
+    <string name="remote_live_old_pwd">原密码</string>
+    <string name="remote_live_pwd">密码</string>
+    <string name="remote_live_pwd_inconsistent">密码不一致，请重新输入。</string>
+    <string name="remote_live_reset_password">重置密码</string>
+    <string name="remote_live_uid_vertify_fail">UID验证失败，请输入正确的序列号。</string>
+    <string name="remote_live_use_mobile_data">正在使用移动网络数据</string>
+    <string name="remote_live_uuid">UID</string>
+    <string name="remote_live_verify_pwd_error">原密码验证失败，请输入正确的密码。</string>
+    <string name="remote_live_video_record_fail">录像失败</string>
+    <string name="remote_live_video_save_fail">录像存储失败</string>
+    <string name="remote_photo">镜端照片</string>
+    <string name="remote_ring_msg">来自 ( %1$s ) 的远程控制.\n点击下面的按钮以停止</string>
+    <string name="remote_ring_title">远程响铃</string>
+    <string name="remote_video">镜端视频</string>
+    <string name="reselectimage">重新选择图片</string>
+    <string name="reset">重置</string>
+    <string name="retry_connect">连接中…</string>
+    <string name="retry_connect_failed">连接失败</string>
+    <string name="retry_connect_failed_with_no_address">失去远程设备</string>
+    <string name="retry_connect_success">连接成功</string>
+    <string name="ring">来电</string>
+    <string name="rollback_to_version">回退到版本：%s</string>
+    <string name="rom">存储：</string>
+    <string name="rotate">旋转</string>
+    <string name="round_video">循环录像</string>
+    <string name="round_video_summary">存储空间不足时自动覆盖早期录像</string>
+    <string name="rtmp_live">RTMP</string>
+    <string name="rtmp_live_closed">该直播已关闭</string>
+    <string name="rtmp_live_may_closed">加载数据失败,该直播可能已关闭</string>
+    <string name="rtmp_livelist_get_fail">加载直播列表失败，请检查网络</string>
+    <string name="rtmp_livelist_getting">正在加载直播列表，请稍后</string>
+    <string name="rtmp_livelist_none">当前时间暂无直播</string>
+    <string name="rtmp_playurl_get_fail">加载数据失败，请检查网络</string>
+    <string name="rtmp_qq_live">直播(打开/关闭)</string>
+    <string name="rtmp_talkurl_get_fail">请求对讲失败</string>
+    <string name="rtmp_talkurl_inused">该主播正在和其他观众对讲，请稍后重试</string>
+    <string name="rtmp_talkurl_requesting">正在请求对讲，请稍后</string>
+    <string name="run_update">执行更新</string>
+    <string name="runcut">执行剪切</string>
+    <string name="saturation">饱和度</string>
+    <string name="scan">扫一扫上面的二维码图案，绑定眼镜</string>
+    <string name="scan_device">正在查找眼镜设备进行配对</string>
+    <string name="scan_device_timeout">未发现眼镜</string>
+    <string name="scan_qrcode">将二维码放入框内，即可自动扫描</string>
+    <string name="scan_qrcode_hint">扫描二维码</string>
+    <string name="scheduled_check">定时检查</string>
+    <string name="screen_control">同屏控制</string>
+    <string name="screen_control_msg">共享眼镜屏幕并进行控制</string>
+    <string name="screen_transport_failed">眼镜屏幕同步失败，请重试</string>
+    <string name="sdcard_not_avaliable">存储卡不可用！</string>
+    <string name="search_bind">搜索绑定</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string name="secondly"> 二 .</string>
+    <string name="select_all">全选</string>
+    <string name="serching_camlog">搜索眼镜…</string>
+    <string name="serial_number_summary">ABCD123456789</string>
+    <string name="setting">设置</string>
+    <string name="share">分享</string>
+    <string name="sharepic">分享图片</string>
+    <string name="size">大小:%s bytes</string>
+    <string name="size_action">大小</string>
+    <string name="sketch">素描</string>
+    <string name="sms_send_fail">短信数据同步失败</string>
+    <string name="soften">柔化</string>
+    <string name="software_updates">软件更新</string>
+    <string name="ssid">SSID:</string>
+    <string name="ssid_hint">可用wifi的名称</string>
+    <string name="standard_clearity">高清（适合1mbps带宽）</string>
+    <string name="start">同步屏幕</string>
+    <string name="start_live">开启</string>
+    <string name="start_sync_photos">开始同步照片</string>
+    <string name="start_sync_videos">开始同步视频</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_live">停止</string>
+    <string name="storage_space">存储空间：</string>
+    <string name="storage_space_used">已用</string>
+    <string name="storage_summary">正在获取当前存储状态…</string>
+    <string name="sync_contact">联系人同步</string>
+    <string name="sync_contact_fail">同步联系人到眼镜失败</string>
+    <string name="sync_contact_success">联系人已同步到眼镜</string>
+    <string name="sync_contact_to_glass">开启/关闭同步联系人到眼镜</string>
+    <string name="sync_failed">同步失败！</string>
+    <string name="sync_media_done">同步结束(完成%1$d,失败%2$d)</string>
+    <string name="sync_phone_time_to_glass">开启/关闭同步手机时间</string>
+    <string name="sync_phone_wifi_hotspot">同步热点</string>
+    <string name="sync_phone_wifi_hotspot_success">连接成功</string>
+    <string name="sync_time">时间同步</string>
+    <string name="sync_to_play">下载到本地后即可播放</string>
+    <string name="syncing_contact">同步中…</string>
+    <string name="syncing_photos">照片同步中(%1$d/%2$d)…</string>
+    <string name="syncing_photos_done">照片同步结束</string>
+    <string name="syncing_videos">视频同步中(%1$d/%2$d)…</string>
+    <string name="syncing_videos_done">视频同步结束</string>
+    <string name="system_version">系统版本：</string>
+    <string name="take_photo">拍 照</string>
+    <string name="take_video">录像/停止</string>
+    <string name="takepictures">手机拍照</string>
+    <string name="tencent_live">观看直播</string>
+    <string name="textures">贴图</string>
+    <string name="thirdly"> 三 .</string>
+    <string name="time">时间</string>
+    <string name="time_noti_ticker">禁用同步自动连接</string>
+    <string name="timout_noti_content">已长时间失去蓝牙连接能力</string>
+    <string name="timout_noti_title">同步超时</string>
+    <string name="title_activity_glasses_fragment">GlassesFragmentActivity</string>
+    <string name="title_bind">绑定</string>
+    <string name="title_media">媒体</string>
+    <string name="title_screen">同屏</string>
+    <string name="title_sync">同步</string>
+    <string name="tttt">下拉刷新</string>
+    <string name="turn_off_bluetooth_a2dp">直播时关闭媒体音频</string>
+    <string name="turn_wifi_ap_off">关闭热点</string>
+    <string name="turn_wifi_ap_on">开启wifi热点</string>
+    <string name="turn_wifi_ap_on_now">现在开启</string>
+    <string name="turning_bluetoothheadset_off">关闭中…</string>
+    <string name="turning_bluetoothheadset_on">开启中…</string>
+    <string name="turning_wifi_ap_on">开启手机热点中…</string>
+    <string name="unbind">解除绑定</string>
+    <string name="unbind_dialog">解除绑定?</string>
+    <string name="unbond">解除当前绑定</string>
+    <string name="unbonding">正在解绑…</string>
+    <string name="up_time_summary">正在获取运行时间…</string>
+    <string name="update_bluetooth_error">蓝牙连接已断开,放弃升级.</string>
+    <string name="update_connect_wifi_timeout">尝试连接wifi超时，放弃升级。</string>
+    <string name="update_donwload_error">下载升级包失败，放弃升级。</string>
+    <string name="update_download_progress">正在下载升级包:</string>
+    <string name="update_fail">升级未完成，系统已恢复到升级前状态。</string>
+    <string name="update_invalid_package">无效的升级包，放弃升级。</string>
+    <string name="update_later">以后再说</string>
+    <string name="update_later_msg">点击进入系统更新</string>
+    <string name="update_now">现在更新</string>
+    <string name="update_power_shortage">电量不足，放弃升级。</string>
+    <string name="update_start">下载完成，开始升级。(如失败，请重启眼镜)</string>
+    <string name="update_start_download">开始下载升级包…</string>
+    <string name="update_storage_shortage">空间不足，放弃升级。</string>
+    <string name="update_success">眼镜升级成功，系统已更新。</string>
+    <string name="update_to_version">更新到版本：%s</string>
+    <string name="update_try_connect_wifi">正在尝试连接wifi。</string>
+    <string name="updates_note">\n检测到眼镜端程序有更新,是否更新.\n\n注意:更新眼镜端程序需要wifi网络.\n</string>
+    <string name="user_guide">操作说明</string>
+    <string name="user_guide_summary">点击查看眼镜操作说明</string>
+    <string name="vedio">录像</string>
+    <string name="vedio_duration">分段时长</string>
+    <string name="vedio_duration_summary">选择视频分段时长</string>
+    <string name="version">版本:</string>
+    <string name="version_back">版本回退</string>
+    <string name="version_code_summary">HanLang V1.0</string>
+    <string name="vertical">上下翻转</string>
+    <string name="video">视频</string>
+    <string name="video_file_name_format">"'LIVE_VID'_yyyyMMdd_HHmmss"</string>
+    <string name="video_live">直播</string>
+    <string name="video_nofind">没有找到眼镜设备上的视频资源</string>
+    <string name="video_sync_start">"视频同步开始"</string>
+    <string name="video_water_mark">添加视频水印效果</string>
+    <string name="voice_recog">语音识别</string>
+    <string name="voice_recog_summary">选择是否打开语音识别</string>
+    <string name="volume">媒体音量</string>
+    <string name="volume_summary">眼镜媒体音量控制</string>
+    <string name="wait_device_connect">等待眼镜连接…</string>
+    <string name="waiting_for_glass_connect">等待设备连接…</string>
+    <string name="waiting_for_glass_open_camera">眼镜端摄像头开启中…</string>
+    <string name="water_mark">水印效果</string>
+    <string name="water_mark_summary">添加眼镜端图片/视频的水印效果</string>
+    <string name="watermark">添加水印</string>
+    <string name="weibo_auth_canceled">取消微博授权</string>
+    <string name="weibo_auth_failed">微博授权失败</string>
+    <string name="weibo_auth_success">微博授权成功</string>
+    <string name="weibo_share_canceled">取消微博分享</string>
+    <string name="weibo_share_failed">微博分享失败</string>
+    <string name="weibo_share_success">微博分享成功</string>
+    <string name="weibo_share_title">正在发送微博</string>
+    <string name="welcome_use_camlog">欢迎使用睐虫眼镜</string>
+    <string name="whitening">美白</string>
+    <string name="wifi">WIFI同步</string>
+    <string name="wifi_ap">Wifi热点</string>
+    <string name="wifi_ap_hint">浏览眼镜内容需要开启wifi热点功能</string>
+    <string name="wifi_ap_hint_off">是否关闭手机热点并开启wifi？</string>
+    <string name="wifi_ap_setting">Wifi热点设置</string>
+    <string name="wifi_ap_summary">修改Wifi热点名称</string>
+    <string name="wifi_connect">可连接的WIFI热点</string>
+    <string name="wifi_connected">眼镜端WLAN已连接</string>
+    <string name="wifi_dialog_cancle">取消</string>
+    <string name="wifi_dialog_ok">确定</string>
+    <string name="wifi_dialog_title">请输入%1$s的密码</string>
+    <string name="wifi_free">可使用的WPS</string>
+    <string name="wifi_is_closed">眼镜端WLAN已关闭</string>
+    <string name="wifi_list_null">没有扫描到WIFI热点</string>
+    <string name="wifi_off">Wifi同步需要打开wifi</string>
+    <string name="wifi_open">此选项需要打开wifi</string>
+    <string name="wifi_scaning">正在扫描附近WiFi</string>
+    <string name="wifi_secured_first_item">通过<ns1:g id="wifi_security_short">%1$s</ns1:g>进行保护</string>
+    <string name="wifi_security_eap">802.1x EAP</string>
+    <string name="wifi_security_none">None</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wpa">WPA PSK</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_sync">WLAN同步</string>
+    <string name="wifi_sync_fail">连接失败</string>
+    <string name="wifi_sync_success">已连接</string>
+    <string name="wifi_syncing">正在连接%1$s...</string>
+    <string name="wifisync_summary">同步设置眼镜端WLAN</string>
+    <string name="wlan_dialog_tip">连接WLAN后，眼镜的待机时间会显著缩短，不使用WLAN功能时请及时关闭</string>
+    <string name="wlan_dialog_tip_title">小贴士</string>
+    <string name="wlan_sync_state_title">WLAN同步状态</string>
+    <string name="xiazaishibai">下载失败，请重试</string>
+    <string name="xiazaiwancheng">下载完成</string>
+    <string name="zhengzaixiazai">正在下载...</string>
+    <string name="zhibo">直播</string>
+</resources>

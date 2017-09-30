@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+  
+
+    
+    <Preference android:title="@string/glass_cpu"
+        android:key="cpu"/>
+    
+    <Preference android:title="@string/glass_ram"
+        android:key="ram"/>
+    
+    <Preference android:title="@string/glass_version"
+        android:key="version"/>
+    
+    <Preference android:title="@string/app_version"
+        android:key="app_version"/>
+    
+    <!-- <Preference 
+        android:title="@string/glass_serial_number"
+        android:key="serial"/> -->
+    
+    <Preference android:title="@string/glass_power"
+        android:key="power"
+        android:summary="@string/power_summary"/>
+    
+    <Preference android:title="@string/glass_storage"
+        android:key="storage"
+        android:summary="@string/storage_summary"/>
+    
+    <Preference android:title="@string/glass_up_time"
+        android:key="uptime"
+        android:summary="@string/up_time_summary"/>
+    
+    <Preference android:title="@string/media_path"
+        android:key="media_path"/>
+    
+    <Preference android:title="@string/glass_state"
+        android:key="state"
+        android:summary="@string/glass_state_summary"/>
+    
+    <Preference android:title="@string/user_guide"
+        android:key="guide"
+        android:summary="@string/user_guide_summary"/>
+
+</PreferenceScreen>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/image"
+            android:layout_width="match_parent"
+            android:layout_height="120dip"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/image_name_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dip"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progress"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:indeterminate="false"
+        android:max="100" />
+    <!-- style="@style/Widget.AppCompat.ProgressBar.Horizontal" -->
+
+    <TextView
+        android:id="@+id/downloaded_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|left"
+        android:textColor="@color/download_text_color"
+        android:textSize="10dp" />
+
+    <CheckBox
+        android:id="@+id/image_select_cb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|right"
+        android:background="@drawable/radiobutton_background"
+        android:visibility="gone" />
+
+    <CheckBox
+        android:id="@+id/video_share_cb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|right"
+        android:background="@drawable/radiobutton_background"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:visibility="gone"
+        android:id="@+id/rl_back"
+        android:layout_width="match_parent"
+        android:layout_height="120dip"
+        android:background="#6f0e0000">
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+
+            <TextView
+                android:text="@string/zhengzaixiazai"
+                android:id="@+id/xia_zai_zhuang_tai"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@android:color/white" />
+
+            <ProgressBar
+                android:id="@+id/download_pgb"
+                style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:progress="0" />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</FrameLayout>

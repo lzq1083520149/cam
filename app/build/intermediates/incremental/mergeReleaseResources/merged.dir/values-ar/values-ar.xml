@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="mode_entries">
+        <item> وضع توفير الطاقة </item>
+        <item> آنية </item>
+    </string-array>
+    <string-array name="native_photo_option">
+        <item> عرض </item>
+        <item> حصة </item>
+        <item> حذف </item>
+    </string-array>
+    <string-array name="native_video_option">
+        <item> اللعب </item>
+        <item> حصة </item>
+        <item> حذف </item>
+    </string-array>
+    <string-array name="photo_pixel_entry">
+        <item>640*480</item>
+        <item>1024*768</item>
+        <item>1280*960</item>
+        <item>1600*1200</item>
+        <item>2048*1536</item>
+        <item>2576*1932</item>
+    </string-array>
+    <string-array name="photo_pixel_value">
+        <item>640*480</item>
+        <item>1024*768</item>
+        <item>1280*960</item>
+        <item>1600*1200</item>
+        <item>2048*1536</item>
+        <item>2576*1932</item>
+    </string-array>
+    <string-array name="remote_photo_option">
+        <item> عرض </item>
+        <item> تحميل </item>
+        <item> حذف </item>
+    </string-array>
+    <string-array name="remote_video_option_1">
+        <item> تحميل </item>
+        <item> حذف </item>
+    </string-array>
+    <string-array name="remote_video_option_2">
+        <item> اللعب </item>
+        <item> حذف </item>
+    </string-array>
+    <string-array name="vedio_durations">
+        <item> 5 دقائق </item>
+        <item> 10 دقائق </item>
+        <item> 20 دقائق </item>
+        <item> 30 دقائق </item>
+	<item> غير محدود </item>
+    </string-array>
+    <string-array name="vedio_durations_values">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+	<item>0</item>
+    </string-array>
+    <string-array name="vedio_pixel_entry">
+        <item>768*432</item>
+        <item>1280*720</item>
+        <item>640*480</item>
+        <item>320*240</item>
+        <item>800*600</item>
+        <item>352*288</item>
+    </string-array>
+    <string-array name="vedio_pixel_value">
+        <item>768*432</item>
+        <item>1280*720</item>
+        <item>640*480</item>
+        <item>320*240</item>
+        <item>800*600</item>
+        <item>352*288</item>
+    </string-array>
+    <string name="abandon"> التخلي عن </string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s، %2$s، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"تشغيل"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="about_glass"> عن  نظارات </string>
+    <string name="about_glasses"> عن  النظارات </string>
+    <string name="accepting"> على الهاتف </string>
+    <string name="action_settings">إعدادات</string>
+    <string name="address_info"> العنوان ماك الجهاز  : </string>
+    <string name="all_app_tab"> كل </string>
+    <string name="all_app_tab_description"> جميع التطبيقات </string>
+    <string name="already_latest_version"> بالفعل  هو أحدث إصدار  ! </string>
+    <string name="android_version"> الروبوت الإصدار  : </string>
+    <string name="app_label"> نظارات ذكية </string>
+    <string name="app_name"> نظارات ذكية </string>
+    <string name="app_version"> الطبعة التطبيق </string>
+    <string name="application_manager_menu_title"> مدير التطبيقات </string>
+    <string name="bbbb"> آخر تحديث </string>
+    <string name="bind_Glass"> ملزمة  النظارات </string>
+    <string name="bind_camlog"> ملزمة  نظارات </string>
+    <string name="bind_device"> هي  ملزمة  ..  يرجى المحاولة في وقت لاحق </string>
+    <string name="bind_fail"> عدم ربط </string>
+    <string name="bind_timeout"> ربط  الجهاز مرة  ،  يرجى إعادة  جهاز البحث  أو  محاولة إعادة  إغلاق  فتح  بلوتوث الهاتف المحمول  . </string>
+    <string name="binding"> وقد تم  ربط الجهاز </string>
+    <string name="binding_camlog"> ملزمة  نظارات …</string>
+    <string name="bluetooth_a2dp">وسائل الإعلام السمعية</string>
+    <string name="bluetooth_a2dp_summary">إيقاف وظيفة الموسيقى بلوتوث</string>
+    <string name="bluetooth_connect_wrong_message"> البلوتوث  فشل الاتصال  يرجى الاتصال  ! </string>
+    <string name="bluetooth_error"> اتصال بلوتوث  منقطعة  ، يرجى المحاولة مرة أخرى </string>
+    <string name="bluetooth_finded_devices"> يمكن  توصيل الجهاز </string>
+    <string name="bluetooth_off"> بلوتوث  من دون  فتح  العين  ،  قد انسحبت من  تطبيق  مساعد </string>
+    <string name="bluetooth_pairing">" هو  الاقتران …"</string>
+    <string name="bluetooth_paring"> في  الاقتران …</string>
+    <string name="bluetooth_phone"> بلوتوث الهاتف </string>
+    <string name="bluetooth_phone_summary"> فتح وإغلاق  الهاتف  بلوتوث  وظيفة </string>
+    <string name="bluetooth_preference_devices"> يمكن  إقران الأجهزة </string>
+    <string name="bluetooth_preference_paired_devices"> يمكن  ربط  جهاز </string>
+    <string name="bond"> ملزمة  > </string>
+    <string name="bond_message"> تأكد من  ربط  الجهاز  %1$s  ؟ </string>
+    <string name="bond_request"> ربط طلب </string>
+    <string name="bond_request_message">"  و  <ns1:g id="DEVICE_NAME">%1$s</ns1:g>  الجهاز ملزمة  ؟  "</string>
+    <string name="btn_bind_glass">ملزمة نظارات</string>
+    <string name="camlog_about"> عن   نظارات </string>
+    <string name="camlog_comment"> 1-  يرجى التأكد من  نظارات  في الحي،  وقد تم  التمهيد.  \n  \  غ  -  تطبيق  ملزمة تلقائيا  إشارة  أقوى  من نظارات  \n  \n  رقم 3  -  تأكد من أن  نظارات  ليست ملزمة  الهواتف الأخرى  .  \n  \n  رقم 4  -  مثل  عدم ربط  عدة مرات  ، حاول  إعادة تشغيل  الهاتف المحمول بلوتوث  نظارات  أو  </string>
+    <string name="camlog_live">نظارات  بث مباشر </string>
+    <string name="camlog_on_time_hour"> نظارات  تم تشغيل  %1$d ساعات  %1$d  دقيقة %1$d  ثانية </string>
+    <string name="camlog_on_time_minute"> نظارات  تم تشغيل  %1$d  دقائق و %2$d ثانية </string>
+    <string name="camlog_on_time_second"> نظارات  تم تشغيل  %1$d ثانية </string>
+    <string name="camlog_photo">نظارات  صور </string>
+    <string name="camlog_power_state"> نظارات  البطارية الحالية  : %1$d </string>
+    <string name="camlog_setting">نظارات  إعدادات </string>
+    <string name="camlog_storage_state">مجموع:%1$.0fGB,تستخدم:%2$.2fGB,متاح:%3$s</string>
+    <string name="camlog_unbind"> رفع   HangLang </string>
+    <string name="camlog_update"> نظارات  الترقية </string>
+    <string name="camlog_video">نظارات  الفيديو </string>
+    <string name="camlog_video_state_hour"> في الفيديو  (%1$d  ساعات و %2$d  دقائق و %3$d ثانية  ) </string>
+    <string name="camlog_video_state_minute"> في الفيديو  (  %1$d  دقائق و %2$d ثانية  ) </string>
+    <string name="camlog_video_state_second"> في الفيديو  (%1$d  ثواني) </string>
+    <string name="cancel"> إلغاء </string>
+    <string name="cancel_update"> التخلي عن  تحديث </string>
+    <string name="check_file_failed"> فشل التحقق من صحة  الوثائق  ، يرجى  إعادة تحميل </string>
+    <string name="check_now"> على الفور التحقق من </string>
+    <string name="check_update"> التحقق من التحديثات </string>
+    <string name="check_update_error">تحقق من وجود تحديثات فشلت</string>
+    <string name="checking"> فحص </string>
+    <string name="checking_update"> ويجري  التحقق من التحديثات </string>
+    <string name="close_bluetooth_a2dp">انهيار الصوت وسائل الإعلام</string>
+    <string name="close_wlan">إغلاق الشبكات اللاسلكية</string>
+    <string name="config_wifi"> مجموعة  واي فاي </string>
+    <string name="connect_error"> خطأ في الاتصال </string>
+    <string name="contact"> الاتصال </string>
+    <string name="contact_send_fail"> بيانات الاتصال  فشل التزامن </string>
+    <string name="controller_info"> لبدء التزامن  الشاشة  يمكنك  (أسفل  ، يسار، يمين  )  ،  انقر فوق  الشريحة  ،  اضغط على  الشاشة  مثل  مراقبة لفتة  النظارات  . </string>
+    <string name="current_power"> نظارات  البطارية الحالية </string>
+    <string name="current_version"> النسخة الحالية  : </string>
+    <string name="current_version_ps"> (  النسخة الحالية  ) </string>
+    <string name="default_click"> الإعدادات الافتراضية </string>
+    <string name="delete"> حذف </string>
+    <string name="delete_error"> فشل الحذف </string>
+    <string name="delete_fail_count"> هناك %1$d  عدم حذف  الملف </string>
+    <string name="delete_message"> حذف  الاختيار  ؟ </string>
+    <string name="delete_ok"> حذف بنجاح </string>
+    <string name="delete_progress"> حذف. (%1$d/%2$d)</string>
+    <string name="deleting"> حذف …</string>
+    <string name="description"> الوصف: </string>
+    <string name="device"> اسم الجهاز  : </string>
+    <string name="dialog_cancle"> الخروج من  التطبيقات </string>
+    <string name="dialog_ok"> اذهب الآن </string>
+    <string name="dialog_title"> ملزمة  تحتاج إلى فتح  بلوتوث  نظارات </string>
+    <string name="disconnect"> ربط فشل  ، انقر فوق  إعادة المحاولة </string>
+    <string name="disconnecting"> الحل  هو  ربط  . </string>
+    <string name="download"> تحميل </string>
+    <string name="download_any_data"> المتاحة من خلال أي  اتصال البيانات  للتحميل </string>
+    <string name="download_description"> تحميل  الترقية المطلوبة  تحديث الملف </string>
+    <string name="download_message"> تحميل  ،  انتظر  ....... </string>
+    <string name="download_notification_title">Coldwave</string>
+    <string name="download_only_wifi"> فقط من خلال  الشبكات اللاسلكية  للتحميل </string>
+    <string name="download_task_running"> هناك  المهام التي لم تكتمل </string>
+    <string name="download_title"> تحميل  ملف الترقية </string>
+    <string name="downloading"> تحميل  حزمة الترقية،  يرجى الانتظار  ... </string>
+    <string name="empty_ssid"> الرجاء إدخال  نقطة  ساخنة </string>
+    <string name="errcode_cancel"> إرسال  إلغاء </string>
+    <string name="errcode_deny"> تم رفض  إرسال </string>
+    <string name="errcode_success"> أرسلت بنجاح </string>
+    <string name="errcode_unknown"> إرسال  إلى </string>
+    <string name="error_process"> الصورة الأصلية  فشل التزامن  ! </string>
+    <string name="exit_message"> يمكنك دائما  من  شريط الإخطار  إلى  تحديث </string>
+    <string name="exit_title"> تحديث لاحقا </string>
+    <string name="fail_addr_mismatch"> الزجاج  هو ربط  الأجهزة الأخرى،  يرجى  المحاولة مرة أخرى بعد  الحلول مرتبطة  ! </string>
+    <string name="fail_unknow"> خطأ غير معروف </string>
+    <string name="fail_ver_mismatch"> بروتوكول متزامن  نسخة غير  مطابقة </string>
+    <string name="finish"> الانتهاء من </string>
+    <string name="firstly"> واحد </string>
+    <string name="get_file_list"> في انتظار  اتصال  من النظارات …</string>
+    <string name="get_glass_data_fail"> فشل في الحصول على البيانات  ، يرجى المحاولة مرة أخرى </string>
+    <string name="get_power_timeout"> الحصول على  الكهرباء  مهلة </string>
+    <string name="get_state_timeout"> على  الدولة  ان  نظارات </string>
+    <string name="get_storage_timeout"> الحصول على  تخزين الدولة  مهلة </string>
+    <string name="get_uptime_timeout"> الحصول على تشغيل  في الوقت الإضافي </string>
+    <string name="get_watch_failed"> الحصول على  نظارات  المعلومات  الفشل  \n  الرجاء التحقق من  اتصال بلوتوث  و  النظارات </string>
+    <string name="get_watch_info"> ووتش  الحصول على  نسخة من المعلومات </string>
+    <string name="get_wifi_state">الحصول على النظارات \'WLAN علاقة الدولة...</string>
+    <string name="get_wifi_state_timeout">الحصول على النظارات \'WLAN مهلة الاتصال</string>
+    <string name="glass_ap_pw"> نظارات  الساخنة  كلمة السر </string>
+    <string name="glass_appw_summary"> نظارات  الساخنة  وضع  كلمة السر </string>
+    <string name="glass_connect_phone_hotspot_success">توصيل الهاتف نظارات الساخنة النجاح</string>
+    <string name="glass_cpu"> المعالج </string>
+    <string name="glass_live"> يعيش  نظارات </string>
+    <string name="glass_model"> نوع </string>
+    <string name="glass_photo"> نظارات  صور </string>
+    <string name="glass_power"> نظارات  الكهرباء </string>
+    <string name="glass_ram"> رام </string>
+    <string name="glass_serial_number"> رقم التسلسل </string>
+    <string name="glass_ssid"> نظارات  الساخنة  SSID </string>
+    <string name="glass_ssid_summary"> مجموعة  نظارات  الساخنة  SSID </string>
+    <string name="glass_state"> حالة  نظارات </string>
+    <string name="glass_state_summary"> في حالة  الحصول على  نظارات …</string>
+    <string name="glass_storage"> نظارات  تخزين </string>
+    <string name="glass_up_time"> وقت التشغيل </string>
+    <string name="glass_version"> نظارات  نسخة </string>
+    <string name="glass_video"> نظارات  فيديو </string>
+    <string name="glasses"> مرآة  نهاية </string>
+    <string name="gps"> معلومات الموقع </string>
+    <string name="hello_world">مرحبا  العالم  !</string>
+    <string name="high_clearity">فائقة الوضوح(لعرض النطاق الترددي 2mbps)</string>
+    <string name="horizontally">horizontal</string>
+    <string name="idle"> الخمول </string>
+    <string name="ime_delete"> حذف </string>
+    <string name="ime_notice"> بعد  تحديد  الإدخال  ، انقر فوق  إرسال إلى  نظارات </string>
+    <string name="ime_reconnect"> اعادة </string>
+    <string name="ime_title"> طريقة إدخال  بلوتوث </string>
+    <string name="install"> على الفور تركيب </string>
+    <string name="install_alerting"> في عملية الترقية  لا يمكنك استخدام  الهاتف  لا يمكن  الاتصال في حالات الطوارئ  .  أثناء الترقية  يرجى عدم  إغلاق  الهاتف  أو  إزالة البطارية  أو  بطاقة الذاكرة. </string>
+    <string name="install_app_tab"> تم تركيب </string>
+    <string name="install_app_tab_description"> جميع  التطبيقات المثبتة </string>
+    <string name="install_notices"> يرجى عمل نسخة احتياطية من  البيانات  قبل التحديث  (مثل  معلومات  الاتصال  ،  سجل المكالمات  ، الخ)،  وضمان وجود  ما يكفي من الكهرباء </string>
+    <string name="key_binding"> ابحث عن  جهاز بلوتوث </string>
+    <string name="language"> إعدادات اللغة </string>
+    <string name="language_summary"> مجموعة  نظارات  نهاية  اللغة </string>
+    <string name="language_us"> الإنجليزية </string>
+    <string name="language_zh"> الصينية </string>
+    <string name="later"> تثبيت في وقت لاحق </string>
+    <string name="latest_version"> أحدث إصدار  : </string>
+    <string name="live"> فيديو  بث مباشر </string>
+    <string name="live_audio">يعيش الصوت</string>
+    <string name="live_audio_hint">يحتاج الحية الصوت وإغلاق وسائل الإعلام السمعية</string>
+    <string name="live_audio_nosound">لتعيين</string>
+    <string name="live_audio_summary">اختيار ما إذا كان بث الصوت</string>
+    <string name="live_bt_disconnect"> نظارات  لا  اتصال  على  الهاتف </string>
+    <string name="live_cancle"> الانسحاب من  البث المباشر </string>
+    <string name="live_controller_info"> بدء  بث  الفيديو  يمكنك أن ترى  هذا  الفيديو من  الشاشة. </string>
+    <string name="live_get_url"> الحصول على  عنوان  البث المباشر  . </string>
+    <string name="live_loading"> الحصول على  الفيديو،  يرجى الانتظار  ... </string>
+    <string name="live_network_disconnect"> فقدان  اتصال  شبكة </string>
+    <string name="live_ok"> اذهب الآن </string>
+    <string name="live_open_bt"> في انتظار  فتح  بلوتوث  ... </string>
+    <string name="live_set_audio">لتعيين</string>
+    <string name="live_stream_down"> فشل اتصال  مباشر </string>
+    <string name="live_wait_network_data"> ضعف  الشبكة  ،  وتحميل البيانات  في...... </string>
+    <string name="live_wifi_ap_hint"> البث المباشر  يحتاج إلى فتح  نقطة ساخنة واي فاي  وظيفة </string>
+    <string name="live_wifi_disconnect"> نظارات  الشبكة اللاسلكية  غير متصل </string>
+    <string name="login">Enter now</string>
+    <string name="lost_bond_st"> تفقد  الدولة ملزمة </string>
+    <string name="lost_bond_st_content"> على  نهاية الجهاز  رفعت  مع  هذا الجهاز  ربط العلاقة </string>
+    <string name="low_clearity">SD(لعرض النطاق الترددي 500kbps)</string>
+    <string name="low_power"> منخفضة بطارية  تنبيه </string>
+    <string name="low_power_msg"> نظارات  الكهرباء  منخفضة جدا،  يرجى  شحن </string>
+    <string name="mac"> ماك     :</string>
+    <string name="media"> وسائل الاعلام  متصفح </string>
+    <string name="media_downloaded"> تحميل </string>
+    <string name="media_no"> هيا </string>
+    <string name="media_path"> مسار  الملفات المحلية </string>
+    <string name="media_path_summary">SD卡/SmartGlasses/</string>
+    <string name="media_picture"> صور </string>
+    <string name="media_pixel"> القرار </string>
+    <string name="media_tip"> الفيديو متزامن  يتطلب الكثير من الوقت  للتأكد من  تزامن  ؟ </string>
+    <string name="media_video"> الفيديو </string>
+    <string name="media_yes"> متزامن </string>
+    <string name="message"> الرسائل القصيرة </string>
+    <string name="msg_camera_framework_bug"> فشل  فتح  الكاميرا  ،  يرجى التحقق من  أذونات  استخدام  الكاميرا  إذا كانت  محظورة. </string>
+    <string name="name_info"> تم  مسح  المعدات: </string>
+    <string name="native_live">أنا أعيش المحلي</string>
+    <string name="native_photo"> صور  المحلية </string>
+    <string name="native_photo_fragment"> المحلية </string>
+    <string name="native_video"> الفيديو المحلية </string>
+    <string name="network_not_avaliable"> الشبكة  غير متوفرة  ! </string>
+    <string name="new_app_version">تحديثات الإصدار</string>
+    <string name="new_version_comment"> 1 -  إصلاح  البق معروف \n2-تحسين التطبيق</string>
+    <string name="no_application_infos"> أي  تطبيق </string>
+    <string name="no_available_player"> لم يتم العثور على  لاعب  المتاحة  ، يرجى  فتح  خلال  معرض </string>
+    <string name="no_found_device"> لا تجد جهاز  ، انقر فوق  تفحص </string>
+    <string name="no_read_contact_permission"> يرجى  فتح  أذونات  قراءة الأسماء </string>
+    <string name="no_rollback_version"> لا  يمكن  حذف  نسخة! </string>
+    <string name="not_camlog_glass"> لم يتم العثور على  نظارات </string>
+    <string name="not_need_update"> الإصدار الخاص بك  هو  أحدث  ،  لا  تحتاج إلى تحديث </string>
+    <string name="notification_summary_settings"> القس  /  تعطيل  مهلة  الإخطار </string>
+    <string name="notification_title_settings"> مهلة  الإخطار </string>
+    <string name="offhook"> في دعوة </string>
+    <string name="ok"> تحديد </string>
+    <string name="open_bt"> افتح بلوتوث </string>
+    <string name="operation_timeout"> انتهت مهلة العملية </string>
+    <string name="other_bind"> بدون كاميرا  سريعة  ملزمة </string>
+    <string name="other_bind_info"> مفتاح  ربط  النظارات،  تحتاج إلى  نظارات  2  دقائق  بعد بدء  التشغيل  ، وإلا  لن تكون  ملزمة  . </string>
+    <string name="other_device_dialog_content"> الطرف الثالث  :%1$s  طلب  معدات  ربط  هذه  الساعات،  هل  تقبل؟ </string>
+    <string name="pair"> الاقتران > </string>
+    <string name="pair_device"> يجري  البحث... </string>
+    <string name="pair_fail"> فشل الاقتران </string>
+    <string name="pair_success"> الاقتران بنجاح </string>
+    <string name="password"> كلمة السر: </string>
+    <string name="pho_bind"> ربط  الكاميرا </string>
+    <string name="phone"> الصوت من الهاتف </string>
+    <string name="photo"> صور </string>
+    <string name="photo_pixel_summary"> اختيار  صورة  القرار </string>
+    <string name="photo_sync_start"> "  مزامنة الصور  بدأت  " </string>
+    <string name="pic_water_mark">إضافة تأثير صورة العلامة المائية</string>
+    <string name="picture_nofind"> لم يتم العثور  على  نظارات معدات  صورة الموارد </string>
+    <string name="play_error"> لم  تجد  التطبيق المناسب  للعب  </string>
+    <string name="please_choose_version"> الرجاء اختيار  النسخة </string>
+    <string name="please_input"> الرجاء إدخال  المحتوى! </string>
+    <string name="please_wait_moment">يرجى الانتظار لحظة</string>
+    <string name="position"> الموقع الجغرافي </string>
+    <string name="power_summary"> الحصول على  حالة البطارية الحالية …</string>
+    <string name="processing"> تحميل  . </string>
+    <string name="product"> نموذج: </string>
+    <string name="progress"> مزامنة  البيانات </string>
+    <string name="pullto_refresh"> البحث في القائمة المنسدلة </string>
+    <string name="pw_hint"> واي فاي </string>
+    <string name="pw_too_short"> كلمة المرور  لا تقل عن  8 بت  الساخنة </string>
+    <string name="qr_bind"> بعدين قانون  ملزم </string>
+    <string name="read_me">------------------------------------\n
+         ملاحظة:  \n \n
+	 1 -  تأكد من  تثبيت  بطاقة الذاكرة الرقمية المؤمنة  ، وهناك  مساحة كافية  ،  \n 
+	 2  - ضمان  اتصال الشبكة  ،  (  التوصية  WLAN)  \n 
+	 3 -  تحميل  ملف الترقية  بنجاح  بعد  إعادة تشغيل  .......  \n 
+        ------------------------------------\n</string>
+    <string name="rebind_camlog"> إعادة  ربط </string>
+    <string name="reflush"> انقر على  تحديث </string>
+    <string name="refreshing"> ابحث عن  جهاز بلوتوث </string>
+    <string name="release_refresh"> الإفراج عن  البحث </string>
+    <string name="reminder"> نصيحة: </string>
+    <string name="remote_live">تسجيل الدخول</string>
+    <string name="remote_live_cancel_modify_password">تغيير كلمة المرور</string>
+    <string name="remote_live_clear_history">مسح المحفوظات</string>
+    <string name="remote_live_ensure_modify">تأكيد التغييرات</string>
+    <string name="remote_live_error_check_pwd">فشل التحقق من كلمة السر، يرجى المحاولة مرة أخرى تأكيد</string>
+    <string name="remote_live_error_check_uid">يرجى التأكد من  التحقق من  رمز  الفشل  بعد  المحاولة </string>
+    <string name="remote_live_error_close_by_remote"> نظارات  نهاية  انسحبت من  البث المباشر </string>
+    <string name="remote_live_error_device_offline">لم يتم العثور على الانترنت الجهاز، يرجى المحاولة مرة أخرى في وقت لاحق</string>
+    <string name="remote_live_error_get_data">فشل تحميل البيانات، يرجى المحاولة مرة أخرى في وقت لاحق</string>
+    <string name="remote_live_error_get_data_timeout">تحميل الشبكة فشل، يرجى المحاولة مرة أخرى</string>
+    <string name="remote_live_error_get_videodata_failed">الحصول فشلت بيانات الفيديو، يرجى المحاولة مرة أخرى</string>
+    <string name="remote_live_error_max_seesion">وقد وصلت معدات البث الحد، يرجى المحاولة مرة أخرى في وقت لاحق</string>
+    <string name="remote_live_error_record_too_short">وقت التحدث قصيرة جدا</string>
+    <string name="remote_live_error_speaker_failed">فشل صوت داخلي</string>
+    <string name="remote_live_error_videorecord_too_short">تسجيل الوقت قصير للغاية</string>
+    <string name="remote_live_history">تاريخ</string>
+    <string name="remote_live_login">بدء لايف</string>
+    <string name="remote_live_modify_error">فشل التعديل</string>
+    <string name="remote_live_modify_password">تغيير كلمة المرور</string>
+    <string name="remote_live_modify_success">تعديل بنجاح</string>
+    <string name="remote_live_modifying_pwd">تعديل</string>
+    <string name="remote_live_msg_check_uid">التحقق من رقم الجهاز المسلسل وكلمة المرور</string>
+    <string name="remote_live_msg_get_data"> تحميل البيانات، الرجاء الانتظار</string>
+    <string name="remote_live_new_pwd">كلمة السر الجديدة</string>
+    <string name="remote_live_new_pwd_ensure">تأكيد</string>
+    <string name="remote_live_newpwd">يرجى إدخال كلمة مرور جديدة وتعديل الهواء مباشرة</string>
+    <string name="remote_live_nickname">كنية</string>
+    <string name="remote_live_no_name">الرجاء إدخال اسم مستعار</string>
+    <string name="remote_live_no_network">تحقق من اتصال الشبكة وحاول مرة أخرى</string>
+    <string name="remote_live_no_pwd">يرجى إدخال كلمة المرور الصحيحة</string>
+    <string name="remote_live_no_uid">الرجاء إدخال الرقم التسلسلي للجهاز الصحيح</string>
+    <string name="remote_live_old_pwd">كلمة السر القديمة</string>
+    <string name="remote_live_pwd">كلمة المرور</string>
+    <string name="remote_live_pwd_inconsistent">كلمات السر لا تتطابق، يرجى إعادة إدخال.</string>
+    <string name="remote_live_reset_password">إعادة تعيين كلمة المرور</string>
+    <string name="remote_live_uid_vertify_fail">معرف فشل التحقق، وأدخل الرقم التسلسلي الصحيح</string>
+    <string name="remote_live_use_mobile_data">نحن باستخدام بيانات شبكة للهاتف المحمول</string>
+    <string name="remote_live_uuid">UID</string>
+    <string name="remote_live_verify_pwd_error">كلمة المرور الأصلية غير صحيحة، يرجى المحاولة مرة أخرى.</string>
+    <string name="remote_live_video_record_fail">فشل تسجيل</string>
+    <string name="remote_live_video_save_fail">فشل ذاكرة الفيديو</string>
+    <string name="remote_photo"> مرآة  نهاية  الصور </string>
+    <string name="remote_ring_msg"> (  %1$s  )  من  التحكم عن بعد  -  \n  انقر فوق  الزر أدناه  من أجل وقف </string>
+    <string name="remote_ring_title"> بعد  رنين </string>
+    <string name="remote_video"> مرآة  في نهاية  الفيديو </string>
+    <string name="reset">Reset</string>
+    <string name="retry_connect"> في  اتصال …</string>
+    <string name="retry_connect_failed"> فشل الاتصال </string>
+    <string name="retry_connect_failed_with_no_address"> فقدت  جهاز التحكم عن بعد </string>
+    <string name="retry_connect_success"> ربط النجاح </string>
+    <string name="ring"> المكالمات </string>
+    <string name="rollback_to_version"> العودة  إلى الإصدار  : %s </string>
+    <string name="rotate">Rotate</string>
+    <string name="round_video"> سجل القيادة </string>
+    <string name="round_video_summary"> فتح / إغلاق  سجل القيادة  واسطة </string>
+    <string name="run_update"> تنفيذ التحديث </string>
+    <string name="scan"> الاجتياح  فوق  بعدين رمز  نمط  ربط  النظارات </string>
+    <string name="scan_device"> أبحث عن  نظارات معدات  مطابقة </string>
+    <string name="scan_device_timeout"> لم يتم العثور على  نظارات </string>
+    <string name="scan_qrcode"> بعدين  رمز  في  مربع  ،  يمكن  تفحص تلقائيا </string>
+    <string name="scan_qrcode_hint"> مسح  رمز ثنائي الأبعاد </string>
+    <string name="scheduled_check"> توقيت  الفحص </string>
+    <string name="screen_control"> التحكم  في نفس الشاشة </string>
+    <string name="screen_control_msg"> تقاسم  نظارات  الشاشة و  التحكم </string>
+    <string name="screen_transport_failed"> نظارات  الشاشة  فشل التزامن  ، يرجى المحاولة مرة أخرى </string>
+    <string name="sdcard_not_avaliable"> بطاقة الذاكرة  غير متوفرة  ! </string>
+    <string name="search_bind"> ربط  البحث </string>
+    <string msgid="146198913615257606" name="search_menu_title">"البحث"</string>
+    <string name="secondly"> ثانيا </string>
+    <string name="select_all"> تحديد الكل </string>
+    <string name="serching_camlog"> البحث عن  نظارات …</string>
+    <string name="serial_number_summary">ABCD123456789</string>
+    <string name="service_msg"> متزامن  تشغيل خدمة </string>
+    <string name="setting"> إعدادات </string>
+    <string name="share"> حصة </string>
+    <string name="size"> الحجم:  %s  بايت </string>
+    <string name="sms_send_fail"> الرسائل القصيرة  تزامن البيانات  فشل </string>
+    <string name="software_updates"> تحديث البرمجيات </string>
+    <string name="ssid"> نقطة  : </string>
+    <string name="ssid_hint"> يمكن  واي فاي  اسم </string>
+    <string name="standard_clearity">HD(لعرض النطاق الترددي 1mbps)</string>
+    <string name="start"> تزامن  الشاشة </string>
+    <string name="start_live"> فتح </string>
+    <string name="start_sync_photos"> بدء مزامنة  الصور </string>
+    <string name="start_sync_videos"> بدء مزامنة  الفيديو </string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="stop_live"> توقف </string>
+    <string name="storage_summary"> الحصول على  مركز التخزين الحالية …</string>
+    <string name="sync_contact"> مزامنة جهات الاتصال </string>
+    <string name="sync_contact_fail"> مزامنة جهات الاتصال  إلى  نظارات  الفشل </string>
+    <string name="sync_contact_success"> وقد  تزامن  جهات الاتصال  إلى  نظارات </string>
+    <string name="sync_contact_to_glass"> فتح / إغلاق  مزامنة جهات الاتصال  إلى  نظارات </string>
+    <string name="sync_failed"> فشل التزامن  ! </string>
+    <string name="sync_media_done"> تزامن  نهاية  الانتهاء من  %1$d  %2$d  من الفشل  ) </string>
+    <string name="sync_phone_time_to_glass"> فتح / إغلاق  الهاتف المحمول  في وقت  متزامن </string>
+    <string name="sync_phone_wifi_hotspot">تزامن الساخنة</string>
+    <string name="sync_phone_wifi_hotspot_success">كان الاتصال ناجحا</string>
+    <string name="sync_time"> التزامن </string>
+    <string name="sync_to_play"> تحميل إلى المحلية  بعد  الاعاده </string>
+    <string name="syncing_contact"> التزامن …</string>
+    <string name="syncing_photos"> مزامنة الصور  في  (  %1$d  /  %2$d  ) …</string>
+    <string name="syncing_photos_done"> مزامنة الصور  انتهت </string>
+    <string name="syncing_videos"> تزامن الفيديو  (  %1$d  /  %2$d  ) …</string>
+    <string name="syncing_videos_done"> في نهاية  الفيديو متزامن </string>
+    <string name="system_version"> نسخة النظام  : </string>
+    <string name="take_photo"> الصور </string>
+    <string name="take_video"> فيديو /  وقف </string>
+    <string name="thirdly"> ثلاثة </string>
+    <string name="time"> الوقت </string>
+    <string name="time_noti_ticker"> تعطيل  المزامنة  الاتصال تلقائيا </string>
+    <string name="timer_format_hour" translatable="false"><ns1:g id="format">%02d:%02d:%02d</ns1:g></string>
+    <string name="timer_format_minute" translatable="false"><ns1:g id="format">%02d:%02d</ns1:g></string>
+    <string name="timout_noti_content"> قد  تفقد  اتصال بلوتوث  القدرة  لفترة طويلة </string>
+    <string name="timout_noti_title"> تزامن  وقت مستقطع </string>
+    <string name="title_activity_glasses_fragment">GlassesFragmentActivity</string>
+    <string name="title_bind"> ملزمة </string>
+    <string name="title_media"> وسائل الإعلام </string>
+    <string name="title_screen"> نفس الشاشة </string>
+    <string name="title_sync"> متزامن </string>
+    <string name="tttt"> ينزل  تحديث </string>
+    <string name="turn_off_bluetooth_a2dp">إغلاق  وسائل الإعلام السمعية </string>
+    <string name="turn_wifi_ap_off"> إغلاق  الساخنة </string>
+    <string name="turn_wifi_ap_on">فتح  واي فاي  الساخنة</string>
+    <string name="turn_wifi_ap_on_now"> مفتوح الآن </string>
+    <string name="turning_bluetoothheadset_off"> إغلاق  في …</string>
+    <string name="turning_bluetoothheadset_on"> فتح  في …</string>
+    <string name="turning_wifi_ap_on"> فتح  الهاتف المحمول  الساخنة  في …</string>
+    <string name="unbind"> رفع  ملزمة </string>
+    <string name="unbond"> رفع  ملزمة حاليا </string>
+    <string name="unbond_st"> الدولة  غير  ملزمة </string>
+    <string name="unbond_st_content"> ووتش  مع  أي جهاز  غير  ملزمة  بها </string>
+    <string name="unbonding"> الحل  هو  ربط …</string>
+    <string name="uninstall_dialog_cancel"> إلغاء </string>
+    <string name="uninstall_dialog_message"> هل أنت متأكد من أنك تريد  إلغاء تثبيت  هذا التطبيق  ؟ </string>
+    <string name="uninstall_dialog_ok"> تحديد </string>
+    <string name="uninstall_dialog_title"> تفريغ </string>
+    <string name="uninstall_message_send_failed"> تثبيت التطبيقات  فشل إرسال الرسالة  ! </string>
+    <string name="uninstall_success"> تم بنجاح تثبيت </string>
+    <string name="uninstall_toast"> إلغاء تثبيت  ، الرجاء  الانتظار... </string>
+    <string name="up_time_summary"> الحصول على  وقت التشغيل …</string>
+    <string name="update_bluetooth_error"> اتصال بلوتوث  منقطعة  عن  الترقية. </string>
+    <string name="update_connect_wifi_timeout"> محاولة الاتصال  واي فاي  مهلة  ،  التخلي عن  الترقية. </string>
+    <string name="update_donwload_error"> تحميل  حزمة الترقية  فشلت،  التخلي عن  الترقية. </string>
+    <string name="update_download_progress">تحميل حزمة الترقية:</string>
+    <string name="update_fail"> لم يكتمل  نظام  الترقية  ،  قد عاد  إلى  الدولة  قبل الترقية  . </string>
+    <string name="update_invalid_package"> صحيح  حزمة الترقية،  التخلي عن  الترقية. </string>
+    <string name="update_later"> في وقت لاحق </string>
+    <string name="update_later_msg"> انقر على  تحديث النظام </string>
+    <string name="update_now"> التحديث الآن </string>
+    <string name="update_power_shortage"> نقص الكهرباء،  التخلي عن  الترقية. </string>
+    <string name="update_start"> تحميل كاملة  ،  بدأت  تتصاعد.  مثل (  الفشل،  الرجاء إعادة تشغيل  نظارات  ) </string>
+    <string name="update_start_download"> بدأت في تحميل  حزمة الترقية …</string>
+    <string name="update_storage_shortage"> مساحة كافية،  التخلي عن  الترقية. </string>
+    <string name="update_success"> نظارات  نظارات  الترقية  بنجاح،  تم تحديث  النظام  . </string>
+    <string name="update_to_version"> تحديث  إلى الإصدار  : %s </string>
+    <string name="update_try_connect_wifi"> محاولة  اتصال  واي فاي  . </string>
+    <string name="updates_note"> \n  الكشف عن  النظارات  في نهاية البرنامج  هناك تحديث  هل  التحديث.  \n  \n  ملاحظة:  نظارات  نهاية  البرنامج يحتاج  تحديث  شبكة واي فاي  -  \n </string>
+    <string name="user_guide"> تعليمات التشغيل </string>
+    <string name="user_guide_summary"> انقر فوق عرض  نظارات  تعليمات التشغيل </string>
+    <string name="vedio"> فيديو </string>
+    <string name="vedio_duration"> مقطع  طويل </string>
+    <string name="vedio_duration_summary"> اختيار  تقسيم الفيديو  طول الوقت </string>
+    <string name="version"> النسخة: </string>
+    <string name="version_back"> النسخ  الاحتياطي </string>
+    <string name="version_code_summary">نظارات V1.0</string>
+    <string name="vertical">vertical</string>
+    <string name="video"> الفيديو </string>
+    <string name="video_file_name_format" translatable="false">"'LIVE_VID'_yyyyMMdd_HHmmss"</string>
+    <string name="video_live"> بث مباشر </string>
+    <string name="video_nofind"> لم يتم العثور على  نظارات  الفيديو على جهاز  الموارد </string>
+    <string name="video_sync_start"> "  مزامنة الفيديو  بدأت  " </string>
+    <string name="video_water_mark">إضافة تأثير الفيديو علامة مائية</string>
+    <string name="voice_recog">التعرف على الصوت</string>
+    <string name="voice_recog_summary">اختيار ما إذا كان لفتح التعرف الصوتي</string>
+    <string name="volume"> حجم الوسائط </string>
+    <string name="volume_summary"> النظارات  وسائل الإعلام  حجم السيطرة </string>
+    <string name="wait_device_connect"> في انتظار  اتصال  من النظارات …</string>
+    <string name="waiting_for_glass_connect"> في انتظار  توصيل الجهاز  …</string>
+    <string name="waiting_for_glass_open_camera"> نظارات  كاميرا  في  نهاية  فتح …</string>
+    <string name="water_mark">تأثير علامة مائية</string>
+    <string name="water_mark_summary">إضافة تأثير علامة مائية نظارات جنب الصور والفيديو</string>
+    <string name="weather_tip1"> من  الهاتف المحمول  هو  الحصول على  معلومات عن الطقس </string>
+    <string name="weather_tip2"> فشل شبكة اتصال  ، الرجاء التحقق من  إعدادات الشبكة الخاصة بك </string>
+    <string name="weibo_auth_canceled">إلغاء ترخيص تدوين القصير</string>
+    <string name="weibo_auth_failed">فشل تدوين التخويل</string>
+    <string name="weibo_auth_success">المدونات الصغيرة أذن بنجاح</string>
+    <string name="weibo_share_canceled"> إلغاء  تقاسم  المدونات الصغيرة </string>
+    <string name="weibo_share_failed"> الصغرى بلوق  لتقاسم  الفشل </string>
+    <string name="weibo_share_success">يبو النجاح</string>
+    <string name="weibo_share_title">تدوين إرسال</string>
+    <string name="welcome_use_camlog"> مرحبا بكم في  نظارات </string>
+    <string name="wifi"> واي فاي  المزامنة </string>
+    <string name="wifi_ap"> واي فاي  النقاط الساخنة </string>
+    <string name="wifi_ap_hint"> تصفح  محتويات  فتح  واي فاي  الساخنة  وظيفة  تحتاج إلى  نظارات </string>
+    <string name="wifi_ap_hint_off"> إذا كان  إغلاق  الهاتف المحمول  واي فاي  الساخنة  و فتح </string>
+    <string name="wifi_ap_setting"> النقاط الساخنة  واي فاي  إعدادات </string>
+    <string name="wifi_ap_summary"> تعديل  اسم  واي فاي  الساخنة </string>
+    <string name="wifi_connect"> يمكن الاتصال  من واي فاي النقاط الساخنة التي </string>
+    <string name="wifi_connected"> نهاية  قد  ربط  الشبكات المحلية اللاسلكية  النظارات </string>
+    <string name="wifi_dialog_cancle"> إلغاء </string>
+    <string name="wifi_dialog_ok"> تحديد </string>
+    <string name="wifi_dialog_title"> الرجاء إدخال  كلمة السر%1$s </string>
+    <string name="wifi_free">متاح WPS</string>
+    <string name="wifi_is_closed">النظارات \'WLAN أغلق بالفعل</string>
+    <string name="wifi_list_null"> لا  تفحص في  واي فاي النقاط الساخنة </string>
+    <string name="wifi_off"> واي فاي  المزامنة  يتطلب فتح  واي فاي </string>
+    <string name="wifi_open"> هذا الخيار  يتطلب فتح  واي فاي </string>
+    <string name="wifi_secured_first_item"> من خلال  حماية  <ns1:g id="wifi_security_short">%1$s</ns1:g> </string>
+    <string name="wifi_security_eap">802.1x EAP</string>
+    <string name="wifi_security_none">None</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wpa">WPA PSK</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_sync">الشبكات المحلية اللاسلكية  التزامن</string>
+    <string name="wifi_sync_fail">فشل الاتصال</string>
+    <string name="wifi_sync_success">ارتبطت بالفعل</string>
+    <string name="wifi_syncing">يتم الاتصال%1..</string>
+    <string name="wifisync_summary">إعدادات المزامنة  اللاسلكية  النظارات  نهاية </string>
+    <string name="wlan_dialog_tip">قوة الذئب وقت الانتظار سيكون انخفاض كبير بعد ربط الشبكات المحلية اللاسلكية، إيقاف في الوقت عندما كنت لا تستخدم وظيفة الشبكة المحلية اللاسلكية</string>
+    <string name="wlan_dialog_tip_title">نصيحة</string>
+    <string name="wlan_sync_state_title">الشبكات المحلية اللاسلكية التزامن الدولة</string>
+</resources>

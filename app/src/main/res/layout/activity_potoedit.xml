@@ -1,0 +1,200 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/common_bg">
+
+    <!--<android.support.v7.widget.Toolbar-->
+    <!--android:id="@+id/toolbar_photo"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="48dp"-->
+    <!--android:background="@android:color/background_light"-->
+    <!--/>-->
+
+    <LinearLayout
+        android:id="@+id/mainLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bottom_linear"
+        android:layout_below="@+id/toolbar"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/pictureShow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+
+
+
+
+<HorizontalScrollView
+    android:id="@+id/hs"
+    android:layout_width="wrap_content"
+    android:layout_height="70dp"
+    android:layout_alignParentBottom="true"
+    android:scrollbars="none"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/filter"
+            android:layout_marginRight="5dp"
+            android:gravity="center"
+            android:drawableTop="@drawable/icon_auto"
+            android:textColor="#117d55" />
+
+        <TextView
+            android:id="@+id/tv_2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/deform"
+            android:layout_marginRight="5dp"
+            android:drawableTop="@drawable/icon_auto"
+            android:textColor="#117d55"  />
+
+        <TextView
+            android:id="@+id/tv_3"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/frame"
+            android:gravity="center"
+            android:layout_marginRight="5dp"
+            android:drawableTop="@drawable/icon_auto"
+            android:textColor="#117d55"  />
+
+        <TextView
+            android:id="@+id/tv_4"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/fraffiti"
+            android:layout_marginRight="5dp"
+            android:drawableTop="@drawable/icon_auto"
+            android:textColor="#117d55" />
+
+        <TextView
+            android:id="@+id/tv_5"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/mosaic"
+            android:gravity="center"
+            android:layout_marginRight="5dp"
+            android:drawableTop="@drawable/icon_auto"
+            android:textColor="#117d55"  />
+
+        <TextView
+            android:id="@+id/tv_6"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/cut"
+            android:layout_marginRight="5dp"
+            android:drawableTop="@drawable/icon_auto"
+            android:textColor="#117d55" />
+
+        <TextView
+            android:id="@+id/tv_7"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/watermark"
+            android:gravity="center"
+            android:layout_marginRight="5dp"
+            android:drawableTop="@drawable/icon_auto"
+            android:textColor="#117d55"  />
+
+        <TextView
+            android:id="@+id/tv_8"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/enhancement"
+            android:layout_marginRight="5dp"
+            android:drawableTop="@drawable/icon_auto"
+            android:textColor="#117d55"  />
+
+        <TextView
+            android:id="@+id/tv_9"
+            android:layout_width="wrap_content"
+            android:gravity="center"
+            android:layout_height="match_parent"
+            android:text="@string/rotate"
+            android:layout_marginRight="5dp"
+            android:drawableTop="@drawable/icon_auto"
+            android:textColor="#117d55"  />
+
+        <TextView
+            android:id="@+id/tv_10"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/addtext"
+            android:layout_marginRight="5dp"
+            android:drawableTop="@drawable/icon_auto"
+            android:textColor="#117d55"  />
+    </LinearLayout>
+
+</HorizontalScrollView>
+
+
+
+    <com.getbase.floatingactionbutton.FloatingActionsMenu
+        android:layout_above="@id/hs"
+        android:id="@+id/multiple_actions"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="70dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        fab:fab_addButtonColorNormal="@color/white"
+        fab:fab_addButtonColorPressed="@color/white_pressed"
+        fab:fab_addButtonPlusIconColor="@color/half_black"
+        fab:fab_labelStyle="@style/menu_labels_style">
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/addPictureFromPhoto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="centerInside"
+            android:src="@drawable/about"
+            fab:backgroundTint="@color/common_bg"
+            fab:fab_colorNormal="@color/white"
+            fab:fab_colorPressed="@color/white_pressed"
+            fab:fab_title="@string/reselectimage" />
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/addPictureFromCamera"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="centerInside"
+            android:src="@drawable/about"
+            fab:backgroundTint="@color/common_bg"
+            fab:fab_colorNormal="@color/white"
+            fab:fab_colorPressed="@color/white_pressed"
+            fab:fab_title="@string/takepictures" />
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/testBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="centerInside"
+            android:src="@drawable/about"
+            fab:backgroundTint="@color/common_bg"
+            fab:fab_colorNormal="@color/white"
+            fab:fab_colorPressed="@color/white_pressed"
+            fab:fab_title="@string/sharepic" />
+
+    </com.getbase.floatingactionbutton.FloatingActionsMenu>
+
+</RelativeLayout>

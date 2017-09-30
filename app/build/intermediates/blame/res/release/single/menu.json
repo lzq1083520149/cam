@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\menu\\native_photo_fragment_menu.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\native_photo_fragment_menu.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_crop.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\menu_crop.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\menu\\remote_video_fragment_menu.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\remote_video_fragment_menu.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\menu\\base_toolbar_menu.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\base_toolbar_menu.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\menu\\native_video_fragment_menu.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\native_video_fragment_menu.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\menu\\side_navigation_menu.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\side_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\menu\\remote_photo_fragment_menu.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\remote_photo_fragment_menu.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\menu\\setting.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\setting.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_draw.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\menu_draw.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\menu\\glasses.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\glasses.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_mosaic.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\menu_mosaic.xml"
+    }
+]

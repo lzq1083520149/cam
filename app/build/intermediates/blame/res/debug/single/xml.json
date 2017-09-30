@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\xml\\modules.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\xml\\modules.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\xml\\setting_preference.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\xml\\setting_preference.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\xml\\lock_screen.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\xml\\lock_screen.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\xml\\showpic.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\xml\\showpic.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\xml\\water_mark.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\xml\\water_mark.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\xml\\about_preference.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\xml\\about_preference.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\xml\\sync_settings.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\xml\\sync_settings.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\xml\\process_bar.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\xml\\process_bar.xml"
+    }
+]

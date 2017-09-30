@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="mode_entries">
+        <item>โหมดประหยัดพลังงาน</item>
+        <item>โหมดเวลาจริง</item>
+    </string-array>
+    <string-array name="native_photo_option">
+        <item>ดู</item>
+        <item>แบ่งปัน</item>
+        <item>ลบ</item>
+    </string-array>
+    <string-array name="native_video_option">
+        <item>เล่น</item>
+        <item>แบ่งปัน</item>
+        <item>ลบ</item>
+    </string-array>
+    <string-array name="photo_pixel_entry">
+        <item>640*480</item>
+        <item>1024*768</item>
+        <item>1280*960</item>
+        <item>1600*1200</item>
+        <item>2048*1536</item>
+        <item>2576*1932</item>
+    </string-array>
+    <string-array name="photo_pixel_value">
+        <item>640*480</item>
+        <item>1024*768</item>
+        <item>1280*960</item>
+        <item>1600*1200</item>
+        <item>2048*1536</item>
+        <item>2576*1932</item>
+    </string-array>
+    <string-array name="remote_photo_option">
+        <item>ดู</item>
+        <item>ดาวน์โหลด</item>
+        <item>ลบ</item>
+    </string-array>
+    <string-array name="remote_video_option_1">
+        <item>ดาวน์โหลด</item>
+        <item>ลบ</item>
+    </string-array>
+    <string-array name="remote_video_option_2">
+        <item>เล่น</item>
+        <item>ลบ</item>
+    </string-array>
+    <string-array name="vedio_durations">
+        <item>5 นาที</item>
+        <item>10 นาที</item>
+        <item>20 นาที</item>
+        <item>30 นาที</item>
+        <item>ไม่ จำกัด</item>
+    </string-array>
+    <string-array name="vedio_durations_values">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+	<item>0</item>
+    </string-array>
+    <string-array name="vedio_pixel_entry">
+        <item>768*432</item>
+        <item>1280*720</item>
+        <item>640*480</item>
+        <item>320*240</item>
+        <item>800*600</item>
+        <item>352*288</item>
+    </string-array>
+    <string-array name="vedio_pixel_value">
+        <item>768*432</item>
+        <item>1280*720</item>
+        <item>640*480</item>
+        <item>320*240</item>
+        <item>800*600</item>
+        <item>352*288</item>
+    </string-array>
+    <string name="abandon">ยอมแพ้</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"นำทางไปหน้าแรก"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"นำทางขึ้น"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"ตัวเลือกอื่น"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"เสร็จสิ้น"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"ดูทั้งหมด"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"เลือกแอป"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ปิด"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"เปิด"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"ค้นหา…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"ล้างข้อความค้นหา"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"ข้อความค้นหา"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"ค้นหา"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ส่งข้อความค้นหา"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ค้นหาด้วยเสียง"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"แชร์กับ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"แชร์กับ %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"ยุบ"</string>
+    <string name="about_glass">เรื่องแว่นตา</string>
+    <string name="about_glasses">เกี่ยวกับแว่นตา</string>
+    <string name="accepting">จะผ่านไป</string>
+    <string name="action_settings">การตั้งค่า</string>
+    <string name="address_info">ที่อยู่ MAC ของอุปกรณ์:</string>
+    <string name="all_app_tab">ทั้งหมด</string>
+    <string name="all_app_tab_description">โปรแกรมทั้งหมด</string>
+    <string name="already_latest_version">เป็นเวอร์ชั่นใหม่ล่าสุด!</string>
+    <string name="android_version">รุ่นของ Android :</string>
+    <string name="app_label">แว่นตาอัจฉริยะ</string>
+    <string name="app_name">แว่นตาอัจฉริยะ</string>
+    <string name="app_version">App รุ่น</string>
+    <string name="application_manager_menu_title">โปรแกรมจัดการ</string>
+    <string name="bbbb">อัพเดทล่าสุด</string>
+    <string name="bind_Glass">กับแว่นตา</string>
+    <string name="bind_camlog">แว่นตาถูกผูกไว้</string>
+    <string name="bind_device">ค้นหาอุปกรณ์ทำคู่ของแว่นตา</string>
+    <string name="bind_fail">ความล้มเหลวที่จะผูก</string>
+    <string name="bind_timeout">อุปกรณ์ผูกหมดเวลาโปรดค้นหาอีกครั้งหรืออุปกรณ์ให้ลองปิดเปิด Bluetooth โทรศัพท์มือถือ</string>
+    <string name="binding">อุปกรณ์ที่ถูกผูกไว้</string>
+    <string name="binding_camlog">แว่นตาถูกผูกไว้…</string>
+    <string name="bluetooth_a2dp">Media Audio</string>
+    <string name="bluetooth_a2dp_summary">ปิดฟังก์ชั่นเพลงบลูทู ธ</string>
+    <string name="bluetooth_connect_wrong_message">บลูทูธเชื่อมต่อล้มเหลวกรุณาเชื่อมต่อใหม่อีกครั้ง !</string>
+    <string name="bluetooth_error">การเชื่อมต่อ บลูทูธ การเชื่อมต่อกรุณาลองใหม่อีกครั้ง</string>
+    <string name="bluetooth_finded_devices">อุปกรณ์สามารถเชื่อมต่อกับ</string>
+    <string name="bluetooth_off">ไม่ได้เปิด บลูทูธ  และได้ถอนตัวออกจากการเป็นผู้ช่วยของตา</string>
+    <string name="bluetooth_pairing">"มีการจับคู่…"</string>
+    <string name="bluetooth_paring">ในคู่ที่…</string>
+    <string name="bluetooth_phone">โทรศัพท์บลูทูธ</string>
+    <string name="bluetooth_phone_summary">การเปิดปิด Bluetooth โทรศัพท์</string>
+    <string name="bluetooth_preference_devices">ที่สามารถจับคู่อุปกรณ์</string>
+    <string name="bluetooth_preference_paired_devices">สามารถจะผูกพันกับอุปกรณ์</string>
+    <string name="bond">ผูก > </string>
+    <string name="bond_message">การกำหนดอุปกรณ์ที่คุณต้องการใช้ %1$s หรือไม่ ?</string>
+    <string name="bond_request">ขอมัด</string>
+    <string name="bond_request_message">"จะผูกพันกับอุปกรณ์<ns1:g id="DEVICE_NAME">%1$s</ns1:g>?</string>
+    <string name="btn_bind_glass">ผูกแว่นตา</string>
+    <string name="camlog_about">แว่นตา  เกี่ยวกับ</string>
+    <string name="camlog_comment">1.กรุณาตรวจสอบให้แน่ใจว่า แว่นตาในบริเวณใกล้เคียงและได้รับการบูต.\n\n 2.ที่มีสัญญาณแรงที่สุดโดยอัตโนมัติจะใช้ผูกกับแว่นตา.\n\n 3.กรุณาตรวจสอบให้แน่ใจว่าโทรศัพท์อื่นๆที่ไม่เชื่อมโยงกับแว่นตา. \n\n 4.เช่นซ้ำชนิดล้มเหลวให้ลองรีสตาร์ทหรือโทรศัพท์มือถือบลูทูธแว่นตา</string>
+    <string name="camlog_live">แว่นตา  ถ่ายทอดสด</string>
+    <string name="camlog_on_time_hour">แว่นตา มีการเรียกใช้ %1$d ชั่วโมง %2$d แบ่ง %3$d วินาที</string>
+    <string name="camlog_on_time_minute">แว่นตา มีการเรียกใช้ %1$d แบ่ง %2$d วินาที</string>
+    <string name="camlog_on_time_second">แว่นตา มีการเรียกใช้ %1$d วินาที</string>
+    <string name="camlog_photo">แว่นตา  ภาพถ่าย</string>
+    <string name="camlog_power_state">แว่นตาปัจจุบันไฟฟ้า:%1$d</string>
+    <string name="camlog_setting">แว่นตา  การตั้งค่า</string>
+    <string name="camlog_storage_state">กำลังการผลิตรวม:%1$.0fGB,มันได้ถูกนำมาใช้:%2$.2fGB,เหลือ:%3$s</string>
+    <string name="camlog_unbind">ยกเลิก  แว่นตา</string>
+    <string name="camlog_update">การอัพเกรดแว่นตา</string>
+    <string name="camlog_video">แว่นตา  วิดีโอ</string>
+    <string name="camlog_video_state_hour">ในวิดีโอ (%1$d ชั่วโมง %2$d คะแนน %3$d วินาที)</string>
+    <string name="camlog_video_state_minute">ในวิดีโอ (%1$d คะแนน %2$d วินาที)</string>
+    <string name="camlog_video_state_second">ในวิดีโอ (%1$d วินาที)</string>
+    <string name="cancel">การยกเลิก</string>
+    <string name="cancel_update">ให้ปรับปรุง</string>
+    <string name="check_file_failed">ดาวน์โหลดการตรวจสอบแฟ้มล้มเหลวอีกครั้ง</string>
+    <string name="check_now">ตรวจสอบได้ทันที</string>
+    <string name="check_update">ตรวจสอบการปรับปรุง</string>
+    <string name="check_update_error">ตรวจหาการปรับปรุงล้มเหลว</string>
+    <string name="checking">กำลังตรวจสอบ</string>
+    <string name="checking_update">. . . . . . . . . . . . . . . . . . . . . การตรวจสอบการปรับปรุง</string>
+    <string name="close_bluetooth_a2dp">ปิด Media Audio</string>
+    <string name="close_wlan">ปิด WLAN</string>
+    <string name="config_wifi">การตั้งค่า WiFi</string>
+    <string name="connect_error">ข้อผิดพลาดการเชื่อมต่อ</string>
+    <string name="contact">รายชื่อผู้ติดต่อ</string>
+    <string name="contact_send_fail">การประสานข้อมูลการติดต่อล้มเหลว</string>
+    <string name="controller_info">บนหน้าจอให้คุณสามารถซิงค์ (ลง,ซ้าย,ขวา)การเลื่อนและคลิกและกดยาวบนหน้าจอและการควบคุมท่าทางของแว่นตา</string>
+    <string name="current_power">แว่นตาปัจจุบันไฟฟ้า</string>
+    <string name="current_version">รุ่นปัจจุบัน :</string>
+    <string name="current_version_ps">( รุ่นปัจจุบัน )</string>
+    <string name="default_click">การตั้งค่าเริ่มต้น</string>
+    <string name="delete">ลบ</string>
+    <string name="delete_error">การลบล้มเหลว</string>
+    <string name="delete_fail_count">ลบแฟ้ม %1$d ล้มเหลว</string>
+    <string name="delete_message">ต้องการลบรายการที่เลือก?</string>
+    <string name="delete_ok">ลบความสำเร็จ</string>
+    <string name="delete_progress">กำลังลบ...(%1$d/%2$d)</string>
+    <string name="deleting">ลบ…</string>
+    <string name="description">คําแนะนําการใช้:</string>
+    <string name="device">ชื่ออุปกรณ์ :</string>
+    <string name="dialog_cancle">ออกจากโปรแกรม</string>
+    <string name="dialog_ok">ไปเดี๋ยวนี้</string>
+    <string name="dialog_title">จะต้องเปิดใช้งาน บลูทูธ กับแว่นตา</string>
+    <string name="disconnect">คลิกที่ถูกผูกไว้ล้มเหลวอีกครั้ง</string>
+    <string name="disconnecting">กำลังแก้มัด . . . . . . .</string>
+    <string name="download">ดาวน์โหลด</string>
+    <string name="download_any_data">เชื่อมต่อข้อมูลผ่านใดๆที่พร้อมใช้งานเพื่อดาวน์โหลด</string>
+    <string name="download_description">ดาวน์โหลดที่จำเป็นในการอัพเกรดปรับปรุงแฟ้ม</string>
+    <string name="download_message">กำลังโหลดโปรดรอสักครู่</string>
+    <string name="download_notification_title">Coldwave</string>
+    <string name="download_only_wifi">ดาวน์โหลดผ่านทาง WLAN เท่านั้น</string>
+    <string name="download_task_running">มีงานที่ยังไม่เสร็จ</string>
+    <string name="download_title">ดาวน์โหลดไฟล์อัพเกรด</string>
+    <string name="downloading">ดาวน์โหลดชุดอัพเกรด , โปรดรอสักครู่</string>
+    <string name="empty_ssid">กรุณาป้อน SSID ที่ร้อน</string>
+    <string name="errcode_cancel">ส่งการยกเลิก</string>
+    <string name="errcode_deny">ส่งถูกปฏิเสธ</string>
+    <string name="errcode_success">ส่งเรียบร้อยแล้ว</string>
+    <string name="errcode_unknown">ส่งมาส่งกลับ</string>
+    <string name="error_process">ภาพต้นฉบับการล้มเหลว!</string>
+    <string name="exit_message">คุณสามารถเข้าสู่จากแถบการแจ้งเตือนการปรับปรุง</string>
+    <string name="exit_title">ต่อมามีการปรับปรุง</string>
+    <string name="fail_addr_mismatch">แก้วที่ถูกผูกไว้กับโซลูชั่นของอุปกรณ์อื่นๆโปรดลองอีกครั้ง!</string>
+    <string name="fail_unknow">ข้อผิดพลาดที่ไม่รู้จัก</string>
+    <string name="fail_ver_mismatch">รุ่นที่ไม่ตรงกันในการประสานข้อตกลง</string>
+    <string name="finish">เสร็จสมบูรณ์</string>
+    <string name="firstly">1</string>
+    <string name="get_file_list">แว่นตาเชื่อมต่อกับรอ…</string>
+    <string name="get_glass_data_fail">การเข้าถึงข้อมูลที่ล้มเหลวโปรดลองใหม่อีกครั้ง</string>
+    <string name="get_power_timeout">รับแบตเตอรี่หมดเวลา</string>
+    <string name="get_state_timeout">ของรัฐสำหรับแว่นตาหมดเวลาแก้ตัว</string>
+    <string name="get_storage_timeout">รับเก็บสถานะการหมดเวลา</string>
+    <string name="get_uptime_timeout">หมดเวลาที่จะเรียกใช้</string>
+    <string name="get_watch_failed">รับข้อมูลล้มเหลว\n เช็คและแว่นตาบลูทูธ</string>
+    <string name="get_watch_info">กำลังดึงข้อมูลรุ่นของนาฬิกา</string>
+    <string name="get_wifi_state">รับแว่นตา \'WLAN การเชื่อมต่อรัฐ...</string>
+    <string name="get_wifi_state_timeout">รับแว่นตา \'WLAN หมดเวลาการเชื่อมต่อรัฐ</string>
+    <string name="glass_ap_pw">รหัสแว่นตาร้อน</string>
+    <string name="glass_appw_summary">การตั้งค่ารหัสผ่านของแก้วร้อน</string>
+    <string name="glass_connect_phone_hotspot_success">เชื่อมต่อโทรศัพท์ของความสำเร็จแว่นตาฮอตสปอตของคุณ</string>
+    <string name="glass_cpu">โปรเซสเซอร์</string>
+    <string name="glass_live">แว่นตาถ่ายทอดสด</string>
+    <string name="glass_model">รุ่น</string>
+    <string name="glass_photo">รูปแว่นตา</string>
+    <string name="glass_power">แว่นตาไฟฟ้า</string>
+    <string name="glass_ram">บุรีรัมย์</string>
+    <string name="glass_serial_number">หมายเลขลำดับ</string>
+    <string name="glass_ssid">แว่นตา SSID ที่ร้อน</string>
+    <string name="glass_ssid_summary">การตั้งค่าฮอตสปอต ssid แว่นตา</string>
+    <string name="glass_state">ปกป้องสถานะของแว่นตา</string>
+    <string name="glass_state_summary">การปกป้องสถานะของแว่นตา…</string>
+    <string name="glass_storage">แว่นตาที่จัดเก็บ</string>
+    <string name="glass_up_time">เวลาทํางาน</string>
+    <string name="glass_version">แว่นตารุ่น</string>
+    <string name="glass_video">แว่นตาคลิป</string>
+    <string name="glasses">ปลายกระจก</string>
+    <string name="gps">ข้อมูลตำแหน่ง</string>
+    <string name="hello_world">สวัสดีโลก!</string>
+    <string name="high_clearity">อัลตร้าที่ชัดเจน(แบนด์วิดธ์ 2mbps)</string>
+    <string name="horizontally">horizontal</string>
+    <string name="idle">ฟรี</string>
+    <string name="ime_delete">ลบ</string>
+    <string name="ime_notice">หลังจากใส่แว่นและคลิกส่ง</string>
+    <string name="ime_reconnect">เชื่อมต่อใหม่</string>
+    <string name="ime_title">บลูทูธวิธีการป้อนข้อมูล</string>
+    <string name="install">ติดตั้งได้ทันที</string>
+    <string name="install_alerting">ในการอัพเกรดที่คุณสามารถใช้โทรศัพท์ที่สามารถโทรฉุกเฉิน ในระหว่างการอัพเกรดไม่ต้องปิดโทรศัพท์หรือการ์ดหน่วยความจำหรือแบตเตอรี่ออก</string>
+    <string name="install_app_tab">มีการติดตั้ง</string>
+    <string name="install_app_tab_description">ติดตั้งโปรแกรมทั้งหมด</string>
+    <string name="install_notices">โปรดสำรองก่อนปรับปรุงข้อมูล ( เช่นข้อความ , บันทึกการโทร , รายชื่อ , ฯลฯ ) , และให้แน่ใจว่ามันมีพอไฟฟ้า</string>
+    <string name="key_binding">ค้นหาอุปกรณ์บลูทูธ</string>
+    <string name="language">การตั้งค่าภาษา</string>
+    <string name="language_summary">การตั้งค่าภาษาของแว่นตาปลาย</string>
+    <string name="language_us">ในภาษาอังกฤษ</string>
+    <string name="language_zh">ภาษาจีน</string>
+    <string name="later">ติดตั้งในภายหลัง</string>
+    <string name="latest_version">รุ่นล่าสุด :</string>
+    <string name="live">ซิงค์หน้าจอ</string>
+    <string name="live_audio">เสียงสด</string>
+    <string name="live_audio_hint">เสียงสดและจำเป็นต้องปิด Media Audio</string>
+    <string name="live_audio_nosound">ในการตั้งค่า</string>
+    <string name="live_audio_summary">เลือกว่าจะถ่ายทอดเสียง</string>
+    <string name="live_bt_disconnect">แว่นตาที่ยังไม่ได้เชื่อมต่อบนโทรศัพท์มือถือ</string>
+    <string name="live_cancle">ถอนเงินสด</string>
+    <string name="live_controller_info">เริ่มการถ่ายทอดสดวิดีโอคุณสามารถดูวิดีโอบนหน้าจอปัจจุบัน</string>
+    <string name="live_get_url">ที่อยู่รับการถ่ายทอดสด</string>
+    <string name="live_loading">กำลังดึงในวิดีโอนี้ , โปรดรอสักครู่.</string>
+    <string name="live_network_disconnect">สูญเสียการเชื่อมต่อเครือข่าย</string>
+    <string name="live_ok">ไปเดี๋ยวนี</string>
+    <string name="live_open_bt">รอเปิดบลูทูธ</string>
+    <string name="live_set_audio">ในการตั้งค่า</string>
+    <string name="live_stream_down">สดเชื่อมต่อล้มเหลว</string>
+    <string name="live_wait_network_data">โหลดข้อมูลในเครือข่ายที่ไม่ดี</string>
+    <string name="live_wifi_ap_hint">การถ่ายทอดสดจะต้องเปิดใช้งาน WiFi hotspot ฟังก์ชัน</string>
+    <string name="live_wifi_disconnect">แว่นตาที่ไม่ได้เชื่อมต่อเครือข่ายแบบไร้สาย</string>
+    <string name="login">Enter now</string>
+    <string name="lost_bond_st">สูญเสียสถานะผูกพัน</string>
+    <string name="lost_bond_st_content">กับอุปกรณ์ปลายทางได้ยกเลิกผูกสัมพันธ์กับอุปกรณ์นี้.</string>
+    <string name="low_clearity">SD(แบนด์วิดธ์ 500kbps)</string>
+    <string name="low_power">การแจ้งเตือนแบตเตอรี่ต่ำ</string>
+    <string name="low_power_msg">แว่นตาชาร์จแบตเตอรี่ความจุต่ำทันที</string>
+    <string name="mac">สำหรับ Mac:   :</string>
+    <string name="media">เรียกดูสื่อ</string>
+    <string name="media_downloaded">ที่ได้รับการดาวน์โหลด</string>
+    <string name="media_no">ไม่เอาน่า</string>
+    <string name="media_path">ไปยังแฟ้มท้องถิ่น</string>
+    <string name="media_path_summary">SD卡/SmartGlasses/</string>
+    <string name="media_picture">รูปภาพ</string>
+    <string name="media_pixel">ความละเอียด</string>
+    <string name="media_tip">ซิงค์ซิงค์วิดีโอต้องการมากของเวลาและยืนยันว่า ?</string>
+    <string name="media_video">วิดีโอ</string>
+    <string name="media_yes">ซิงค์</string>
+    <string name="message">ข้อความสั้นๆ</string>
+    <string name="msg_camera_framework_bug">เปิดตัวกล้องล้มเหลวโปรดตรวจสอบสิทธิ์ที่เคยถูกห้ามใช้กล้อง</string>
+    <string name="name_info">ที่ได้รับการสแกนไปยังอุปกรณ์ที่:</string>
+    <string name="native_live">ฉันอาศัยอยู่ในท้องถิ่น</string>
+    <string name="native_photo">ภาพท้องถิ่น</string>
+    <string name="native_photo_fragment">ท้องถิ่น</string>
+    <string name="native_video">วิดีโอท้องถิ่น</string>
+    <string name="network_not_avaliable">เครือข่ายไม่สามารถใช้งานได้!</string>
+    <string name="new_app_version">รุ่นที่ปรับปรุง</string>
+    <string name="new_version_comment">1. แก้ไขข้อบกพร่องที่รู้จัก\n2.เพิ่มประสิทธิภาพของโปรแกรมประยุกต์</string>
+    <string name="no_application_infos">ไม่มีการใช้</string>
+    <string name="no_available_player">ไม่พบเพลงโปรดไปผ่านการเปิดใช้งานเครื่องเล่น</string>
+    <string name="no_found_device">อุปกรณ์ที่ไม่พบให้คลิกที่การสแกนอีกครั้ง</string>
+    <string name="no_read_contact_permission">กรุณาเปิดอ่านรายชื่อสิทธิ์</string>
+    <string name="no_rollback_version">ไม่มีการรุ่น !</string>
+    <string name="not_camlog_glass">ไม่พบแว่นตา</string>
+    <string name="not_need_update">รุ่นที่คุณใช้อยู่ไม่ต้องปรับปรุงใหม่ล่าสุด,</string>
+    <string name="notification_summary_settings">เปิด/ปิดการใช้งานการแจ้งเตือนการหมดเวลา</string>
+    <string name="notification_title_settings">หมดเวลาการแจ้งเตือน</string>
+    <string name="offhook">ในการสนทนา</string>
+    <string name="ok">แน่ใจว่า</string>
+    <string name="open_bt">เปิดบลูทูธ</string>
+    <string name="operation_timeout">หมดเวลา</string>
+    <string name="other_bind">ไม่มีกล้องใช้ทางลัด</string>
+    <string name="other_bind_info">ปุ่มที่คุณต้องการใช้เลนส์แว่นตา 2 นาทีหลังจากเปิดใช้งานหรือคุณจะไม่ได้ถูกมัด,</string>
+    <string name="other_device_dialog_content">อุปกรณ์ของบุคคลที่สาม:%1$s จะขอผูกนาฬิกานี้จะยอมรับ?</string>
+    <string name="pair">การจับคู่ > </string>
+    <string name="pair_device">กำลังอยู่ระหว่างการค้นหา</string>
+    <string name="pair_fail">คู่ที่ล้มเหลว</string>
+    <string name="pair_success">จับคู่ได้สำเร็จ</string>
+    <string name="password">รหัสผ่าน :</string>
+    <string name="pho_bind">กล้องผูก</string>
+    <string name="phone">เสียงโทรศัพท์มือถือ</string>
+    <string name="photo">ภาพถ่าย</string>
+    <string name="photo_pixel_summary">เลือกความละเอียดของภาพ</string>
+    <string name="photo_sync_start">ภาพ " การเริ่มต้น "</string>
+    <string name="pic_water_mark">เพิ่มลักษณะพิเศษลายน้ำรูปภาพ</string>
+    <string name="picture_nofind">ไม่พบรูปภาพบนอุปกรณ์แว่นตาทรัพยากร</string>
+    <string name="play_error">หาโปรแกรมที่เหมาะสมเพื่อเล่น</string>
+    <string name="please_choose_version">กรุณาเลือกรุ่น</string>
+    <string name="please_input">กรุณาใส่ข้อความ !</string>
+    <string name="please_wait_moment"> โปรดรอสักครู่ </string>
+    <string name="position">ตําแหน่งทางภูมิศาสตร์</string>
+    <string name="power_summary">สถานะของแบตเตอรี่จะได้รับในปัจจุบัน…</string>
+    <string name="processing">กำลังโหลด </string>
+    <string name="product">รุ่น :</string>
+    <string name="progress">คือการซิงโครไนซ์ข้อมูล</string>
+    <string name="pullto_refresh">การค้นหาแบบเลื่อนลง</string>
+    <string name="pw_hint">รหัสผ่าน WiFi</string>
+    <string name="pw_too_short">รหัสผ่านไม่ควรน้อยกว่า 8 บิตร้อน</string>
+    <string name="qr_bind">รวมโค้ดสองมิติ</string>
+    <string name="read_me">------------------------------------\n
+        หมายเหตุ : \n
+	1.ให้แน่ใจว่าได้ติดตั้ง SD card และมีพื้นที่ว่างเพียงพอ;\n
+	2.ให้แน่ใจว่าการเชื่อมต่อเครือข่าย;( แนะนำให้ใช้ WLAN )\n
+	3.ความสำเร็จในการอัพเกรด ดาวน์โหลดไฟล์เมื่อเริ่มต้น . \n
+        ------------------------------------\n</string>
+    <string name="rebind_camlog">รวมอีกครั้ง</string>
+    <string name="reflush">คลิกรีเฟรช</string>
+    <string name="refreshing">ค้นหาอุปกรณ์บลูทูธ</string>
+    <string name="release_refresh">ยกเลิกการค้นหา</string>
+    <string name="reminder">เคล็ดลับ:</string>
+    <string name="remote_live">สดจากระยะไกล</string>
+    <string name="remote_live_cancel_modify_password">ยกเลิกการเปลี่ยนแปลง</string>
+    <string name="remote_live_clear_history">ล้างประวัติ</string>
+    <string name="remote_live_ensure_modify">ยืนยันการเปลี่ยนแปลง</string>
+    <string name="remote_live_error_check_pwd">ตรวจสอบรหัสผ่านล้มเหลวโปรดลองอีกครั้งยืนยัน</string>
+    <string name="remote_live_error_check_uid">ตรวจสอบการโพสต์ล้มเหลวโปรดลองอีกครั้งได้รับการยืนยัน</string>
+    <string name="remote_live_error_close_by_remote">แว่นตา End ออกสด</string>
+    <string name="remote_live_error_device_offline">อุปกรณ์ไม่พบออนไลน์โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="remote_live_error_get_data">ไม่สามารถโหลดข้อมูลโปรดลองอีกครั้งในภายหลัง</string>
+    <string name="remote_live_error_get_data_timeout">โหลดเครือข่ายล้มเหลวโปรดลองอีกครั้ง</string>
+    <string name="remote_live_error_get_videodata_failed">ได้รับข้อมูลวิดีโอล้มเหลวโปรดลองอีกครั้ง</string>
+    <string name="remote_live_error_max_seesion">อุปกรณ์การออกอากาศได้ถึงขีด จำกัด โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="remote_live_error_record_too_short">เวลาพูดคุยสั้นเกินไป</string>
+    <string name="remote_live_error_speaker_failed">ความล้มเหลวของอินเตอร์คอมเสียง</string>
+    <string name="remote_live_error_videorecord_too_short">บันทึกเวลาสั้นเกินไป</string>
+    <string name="remote_live_history">ประวัติศาสตร์</string>
+    <string name="remote_live_login">เริ่มต้นสด</string>
+    <string name="remote_live_modify_error">การปรับเปลี่ยนล้มเหลว</string>
+    <string name="remote_live_modify_password">เปลี่ยนรหัสผ่าน</string>
+    <string name="remote_live_modify_success">แก้ไขเรียบร้อย</string>
+    <string name="remote_live_modifying_pwd">การปรับเปลี่ยน</string>
+    <string name="remote_live_msg_get_data"> ข้อมูลกรุณารอสักครู่</string>
+    <string name="remote_live_new_pwd">รหัสผ่านใหม่</string>
+    <string name="remote_live_new_pwd_ensure">ยืนยัน</string>
+    <string name="remote_live_newpwd">กรุณากรอกรหัสผ่านใหม่และปรับเปลี่ยนสดโดย</string>
+    <string name="remote_live_nickname">ชื่อเล่น</string>
+    <string name="remote_live_no_name">กรุณากรอกชื่อเล่น</string>
+    <string name="remote_live_no_network">ตรวจสอบการเชื่อมต่อเครือข่ายของคุณและลองอีกครั้ง</string>
+    <string name="remote_live_no_pwd">กรุณากรอกรหัสผ่านที่ถูกต้อง</string>
+    <string name="remote_live_no_uid">โปรดป้อนหมายเลขซีเรียลของอุปกรณ์ที่ถูกต้อง</string>
+    <string name="remote_live_old_pwd">รหัสผ่านเดิม</string>
+    <string name="remote_live_pwd">รหัสผ่าน</string>
+    <string name="remote_live_pwd_inconsistent">รหัสผ่านไม่ตรงกันอีกครั้งโปรดใส่</string>
+    <string name="remote_live_reset_password">รีเซ็ตรหัสผ่าน</string>
+    <string name="remote_live_uid_vertify_fail">รหัสตรวจสอบล้มเหลวใส่หมายเลขที่ถูกต้อง</string>
+    <string name="remote_live_use_mobile_data">เราจะใช้ข้อมูลเครือข่ายมือถือ</string>
+    <string name="remote_live_uuid">UID</string>
+    <string name="remote_live_verify_pwd_error">รหัสผ่านเดิมไม่ถูกต้องโปรดลองอีกครั้ง</string>
+    <string name="remote_live_video_record_fail">บันทึกความล้มเหลว</string>
+    <string name="remote_live_video_save_fail">ความล้มเหลวของหน่วยความจำวิดีโอ</string>
+    <string name="remote_photo">รูปปลายกระจก</string>
+    <string name="remote_ring_msg">จากการควบคุมระยะไกล (1$s) \n คลิกที่ปุ่มด้านล่างเพื่อหยุด</string>
+    <string name="remote_ring_title">เสียงระยะไกล</string>
+    <string name="remote_video">ปลายกระจกมีวิดีโอ</string>
+    <string name="reset">Reset</string>
+    <string name="retry_connect">ในการเชื่อมต่อ…</string>
+    <string name="retry_connect_failed">เชื่อมต่อล้มเหลว</string>
+    <string name="retry_connect_failed_with_no_address">เสียอุปกรณ์ระยะไกล</string>
+    <string name="retry_connect_success">เชื่อมต่อสำเร็จ</string>
+    <string name="ring">โทร</string>
+    <string name="rollback_to_version">ย้อนกลับไปรุ่น:%s</string>
+    <string name="rotate">Rotate</string>
+    <string name="round_video">การลงทะเบียน</string>
+    <string name="round_video_summary">เปิด/ปิดโหมดการบันทึกการจราจร</string>
+    <string name="run_update">ดำเนินการปรับปรุง</string>
+    <string name="scan">กวาดลวดลายบนโค้ดสองมิติ , แว่นตาผูก</string>
+    <string name="scan_device">ค้นหาอุปกรณ์ทำคู่ของแว่นตา</string>
+    <string name="scan_device_timeout">ไม่พบแว่นตา</string>
+    <string name="scan_qrcode">จะใส่ในช่องโค้ดสองมิติสามารถสแกนโดยอัตโนมัติ</string>
+    <string name="scan_qrcode_hint">สแกนบาร์โค้ดสองมิติ</string>
+    <string name="scheduled_check">ตรวจสอบเวลา</string>
+    <string name="screen_control">กับการควบคุมหน้าจอ</string>
+    <string name="screen_control_msg">แว่นตาที่ใช้ร่วมกันหน้าจอและการควบคุม</string>
+    <string name="screen_transport_failed">แว่นตาจอตรงกันล้มเหลวโปรดลองใหม่อีกครั้ง</string>
+    <string name="sdcard_not_avaliable">การ์ดหน่วยความจำไม่สามารถใช้งานได้!</string>
+    <string name="search_bind">ถูกผูกไว้ในการค้นหา</string>
+    <string msgid="146198913615257606" name="search_menu_title">"ค้นหา"</string>
+    <string name="secondly"> 2.</string>
+    <string name="select_all">เลือกทั้งหมด</string>
+    <string name="serching_camlog">ในการค้นหาแว่นตา…</string>
+    <string name="serial_number_summary">ABCD123456789</string>
+    <string name="service_msg">การประสานบริการกําลังทํางาน</string>
+    <string name="setting">การตั้งค่า</string>
+    <string name="share">แบ่งปัน</string>
+    <string name="size">ขนาด:%s ไบต์</string>
+    <string name="sms_send_fail">การประสานข้อมูลการส่งข้อความล้มเหลว</string>
+    <string name="software_updates">การปรับปรุงซอฟต์แวร์</string>
+    <string name="ssid">SSID:</string>
+    <string name="ssid_hint">ที่ใช้ชื่อ</string>
+    <string name="standard_clearity">HD(แบนด์วิดธ์ 1mbps)</string>
+    <string name="start">ซิงค์หน้าจอ</string>
+    <string name="start_live">เปิด</string>
+    <string name="start_sync_photos">เริ่มการซิงค์ภาพถ่าย</string>
+    <string name="start_sync_videos">เริ่มการซิงค์วิดีโอ</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_live">หยุด</string>
+    <string name="storage_summary">รับเก็บสถานะปัจจุบัน…</string>
+    <string name="sync_contact">ซิงค์ติดต่อ</string>
+    <string name="sync_contact_fail">ล้มเหลวในการประสานการติดต่อกับแว่นตา</string>
+    <string name="sync_contact_success">ได้ติดต่อประสานกับแว่นตา</string>
+    <string name="sync_contact_to_glass">เปิด/ปิดการติดต่อกับแว่นตา</string>
+    <string name="sync_failed">การล้มเหลว!</string>
+    <string name="sync_media_done">จบ(จบแบบ %1$d, ล้มเหลว:%2$d)</string>
+    <string name="sync_phone_time_to_glass">เปิด/ปิดเวลาตรงกันโทรศัพท์มือถือ</string>
+    <string name="sync_phone_wifi_hotspot">ซิงค์ร้อน</string>
+    <string name="sync_phone_wifi_hotspot_success">การเชื่อมต่อจะประสบความสำเร็จ</string>
+    <string name="sync_time">เวลาที่ตรงกัน</string>
+    <string name="sync_to_play">คุณสามารถเล่นดาวน์โหลดเพื่อท้องถิ่น</string>
+    <string name="syncing_contact">ในการซิงค์…</string>
+    <string name="syncing_photos">ในการซิงค์รูปภาพ (%1$d/%2$d)…</string>
+    <string name="syncing_photos_done">ภาพการสิ้นสุดลง</string>
+    <string name="syncing_videos">ในการซิงค์วิดีโอ (%1$d/%2$d)…</string>
+    <string name="syncing_videos_done">ซิงค์วิดีโอสิ้นสุด</string>
+    <string name="system_version">รุ่นของระบบ :</string>
+    <string name="take_photo">ถ่ายรูป</string>
+    <string name="take_video">วิดีโอ / หยุด</string>
+    <string name="thirdly"> 3.</string>
+    <string name="time">เวลา</string>
+    <string name="time_noti_ticker">ปิดการใช้งานแบบเชื่อมต่อโดยอัตโนมัติ</string>
+    <string name="timer_format_hour" translatable="false"><ns1:g id="format">%02d:%02d:%02d</ns1:g></string>
+    <string name="timer_format_minute" translatable="false"><ns1:g id="format">%02d:%02d</ns1:g></string>
+    <string name="timout_noti_content">นานสูญเสียความสามารถในการเชื่อมต่อบลูทูธ</string>
+    <string name="timout_noti_title">การหมดเวลา</string>
+    <string name="title_activity_glasses_fragment">GlassesFragmentActivity</string>
+    <string name="title_bind">ผูก</string>
+    <string name="title_media">สื่อ</string>
+    <string name="title_screen">ในหน้าจอเดียวกัน</string>
+    <string name="title_sync">ซิงค์</string>
+    <string name="tttt">รีเฟรชแบบหล่นลง</string>
+    <string name="turn_off_bluetooth_a2dp">ปิดสื่อเสียงเมื่อใช้งานจริง</string>
+    <string name="turn_wifi_ap_off">ปิดร้อน</string>
+    <string name="turn_wifi_ap_on">เปิด Wifi</string>
+    <string name="turn_wifi_ap_on_now">ตอนนี้เปิด</string>
+    <string name="turning_bluetoothheadset_off">ในการปิด…</string>
+    <string name="turning_bluetoothheadset_on">เปิด…</string>
+    <string name="turning_wifi_ap_on">เปิดโทรศัพท์ในความร้อน…</string>
+    <string name="unbind">การรวม</string>
+    <string name="unbond">ยกเลิกผูกในปัจจุบัน</string>
+    <string name="unbond_st">ไม่ผูกพันรัฐ</string>
+    <string name="unbond_st_content">ไม่มีอุปกรณ์ใดๆที่เกี่ยวข้องผูกพันกับนาฬิกา</string>
+    <string name="unbonding">กำลังแก้มัด…</string>
+    <string name="uninstall_dialog_cancel">การยกเลิก</string>
+    <string name="uninstall_dialog_message">คุณแน่ใจว่าคุณต้องการที่จะถอนการติดตั้งโปรแกรม ?</string>
+    <string name="uninstall_dialog_ok">แน่ใจว่า</string>
+    <string name="uninstall_dialog_title">ถอนการติดตั้ง</string>
+    <string name="uninstall_message_send_failed">โปรแกรมถอนการติดตั้งล้มเหลวในการส่งข้อมูลที่!</string>
+    <string name="uninstall_success">ถอนการติดตั้งสำเร็จ</string>
+    <string name="uninstall_toast">ถอนการติดตั้ง , โปรดรอสักครู่ </string>
+    <string name="up_time_summary">เวลาที่ใช้ในการรับ…</string>
+    <string name="update_bluetooth_error">การเชื่อมต่อบลูทูธถูกตัดทิ้ง . . . . . . . การอัพเกรด</string>
+    <string name="update_connect_wifi_timeout">การพยายามที่จะเชื่อมต่อกับ Wi-Fi หมดเวลาเลิกอัพเกรด</string>
+    <string name="update_donwload_error">ดาวน์โหลดชุดอัพเกรดล้มเหลวและยกเลิกการอัพเกรด</string>
+    <string name="update_download_progress">ดาวน์โหลดแพคเกจการปรับรุ่น:</string>
+    <string name="update_fail">การอัพเกรดจะไม่สมบูรณ์ได้คืนสู่สภาพก่อนการอัพเกรดระบบ</string>
+    <string name="update_invalid_package">ไม่ถูกต้องยกเลิกการอัพเกรดชุดอัพเกรด</string>
+    <string name="update_later">ค่อยคุยกันทีหลัง</string>
+    <string name="update_later_msg">คลิกเข้าไปปรับปรุงระบบ</string>
+    <string name="update_now">ตอนนี้กำลังปรับปรุง</string>
+    <string name="update_power_shortage">ให้อัพเกรดในระดับต่ำ,</string>
+    <string name="update_start">การดาวน์โหลดเสร็จสมบูรณ์เริ่มต้นการอัพเกรด(ถ้ามันไม่รีสตาร์ทแว่นตา)</string>
+    <string name="update_start_download">เพื่อเริ่มต้นการดาวน์โหลดอัพเกรดแพคเกจ…</string>
+    <string name="update_storage_shortage">มีพื้นที่ไม่เพียงพอให้อัพเกรด</string>
+    <string name="update_success">แว่นตาแว่นอัพเกรดระบบที่ได้รับการปรับปรุง</string>
+    <string name="update_to_version">การปรับปรุงเพื่อให้รุ่น:%s</string>
+    <string name="update_try_connect_wifi">คือการพยายามที่จะเชื่อมต่อกับ WiFi</string>
+    <string name="updates_note">\n ตรวจพบโปรแกรมฝั่งแว่นใหม่ . ว่าคุณได้ปรับปรุง\n\n หมายเหตุ:การปรับปรุงโปรแกรมฝั่ง . แว่นต้องเครือข่าย Wi-Fi ของ \n</string>
+    <string name="user_guide">การอธิบาย</string>
+    <string name="user_guide_summary">คลิกเพื่อดูคำแนะนำแว่นตา</string>
+    <string name="vedio">วิดีโอ</string>
+    <string name="vedio_duration">เป็นช่วงเวลานาน</string>
+    <string name="vedio_duration_summary">เลือกวิดีโอเป็นช่วงเวลานาน</string>
+    <string name="version">รุ่น :</string>
+    <string name="version_back">รุ่นเสริม</string>
+    <string name="version_code_summary">แว่นตา V1.0</string>
+    <string name="vertical">vertical</string>
+    <string name="video">วิดีโอ</string>
+    <string name="video_file_name_format" translatable="false">"'LIVE_VID'_yyyyMMdd_HHmmss"</string>
+    <string name="video_live">ถ่ายทอดสด</string>
+    <string name="video_nofind">ไม่พบวิดีโอบนอุปกรณ์แว่นตาทรัพยากร</string>
+    <string name="video_sync_start">"วิดีโอการเริ่มต้น"</string>
+    <string name="video_water_mark">เพิ่มลักษณะพิเศษลายน้ำวิดีโอ</string>
+    <string name="voice_recog">การรู้จำเสียง</string>
+    <string name="voice_recog_summary">เลือกว่าจะเปิดการรับรู้เสียง</string>
+    <string name="volume">สื่อเสียง</string>
+    <string name="volume_summary">แว่นตาของการควบคุมปริมาณการสื่อ</string>
+    <string name="wait_device_connect">แว่นตาเชื่อมต่อกับรอ…</string>
+    <string name="waiting_for_glass_connect">รอสำหรับอุปกรณ์ที่เชื่อมต่อ…</string>
+    <string name="waiting_for_glass_open_camera">กล้องแว่นตาปลายเปิด…</string>
+    <string name="water_mark">ลักษณะลายน้ำ</string>
+    <string name="water_mark_summary">เพิ่มลักษณะพิเศษลายน้ำรูปภาพแว่นตาข้าง</string>
+    <string name="weather_tip1">กำลังรับข้อมูลสภาพอากาศจากโทรศัพท์มือถือ</string>
+    <string name="weather_tip2">เครือข่ายการเชื่อมต่อล้มเหลว , โปรดตรวจสอบการตั้งค่าเครือข่ายของคุณ</string>
+    <string name="weibo_auth_canceled">ยกเลิกการอนุญาตให้บริการ</string>
+    <string name="weibo_auth_failed">ไมโครบล็อกที่ได้รับอนุญาต</string>
+    <string name="weibo_auth_success">ไมโครบล็อกประสบความสําเร็จที่ได้รับอนุญาต</string>
+    <string name="weibo_share_canceled">ยกเลิกเชียง</string>
+    <string name="weibo_share_failed">แบ่งปัน Tweet ล้มเหลว</string>
+    <string name="weibo_share_success">ไมโครบล็อกประสบความสําเร็จร่วมกัน</string>
+    <string name="weibo_share_title">ส่งทวีต</string>
+    <string name="welcome_use_camlog">ยินดีต้อนรับสู่แว่นตา</string>
+    <string name="wifi">แบบไร้สาย</string>
+    <string name="wifi_ap">ฮอตสปอต WiFi</string>
+    <string name="wifi_ap_hint">เนื้อหาที่ต้องเปิดดูแว่นตา Wi-Fi hotspot ฟังก์ชัน</string>
+    <string name="wifi_ap_hint_off">จะปิดและเปิดโทรศัพท์มือถือ Wi-Fi hotspot</string>
+    <string name="wifi_ap_setting">การตั้งค่าฮอตสปอต WiFi</string>
+    <string name="wifi_ap_summary">การแก้ไขชื่อของฮอตสปอต WiFi</string>
+    <string name="wifi_connect">สามารถเชื่อมต่อกับฮอตสปอต WiFi</string>
+    <string name="wifi_connected">แว่นตาปลาย WLAN เชื่อมต่อ</string>
+    <string name="wifi_dialog_cancle">การยกเลิก</string>
+    <string name="wifi_dialog_ok">แน่ใจว่า</string>
+    <string name="wifi_dialog_title">กรุณาใส่รหัสผ่านของ%1$s</string>
+    <string name="wifi_free">สามารถใช้ WPS</string>
+    <string name="wifi_is_closed">แว่นตา \'WLAN ปิดไปแล้ว</string>
+    <string name="wifi_list_null">ไม่มีการสแกนไปยังฮอตสปอต WiFi</string>
+    <string name="wifi_off">ต้องเปิด WiFi WiFi ซิงค์</string>
+    <string name="wifi_open">ตัวเลือกนี้จะต้องเปิด ไร้สาย</string>
+    <string name="wifi_secured_first_item">โดย<ns1:g id="wifi_security_short">%1$s</ns1:g>ที่ได้รับการปกป้อง</string>
+    <string name="wifi_security_eap">802.1x EAP</string>
+    <string name="wifi_security_none">None</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wpa">WPA PSK</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_sync">ซิงค์ WLAN</string>
+    <string name="wifi_sync_fail">เชื่อมต่อล้มเหลว</string>
+    <string name="wifi_sync_success">แล้วเชื่อมต่อ</string>
+    <string name="wifi_syncing">คือการเชื่อมต่อ % 1$S...</string>
+    <string name="wifisync_summary">End WLAN แว่นตาตั้งค่าการซิงค์</string>
+    <string name="wlan_dialog_tip">พลังงานหมาป่า เวลาสแตนด์บายจะลดลงหลังจากเชื่อมต่อ WLAN , ปิดในเวลาเมื่อคุณไม่ได้ใช้ฟังก์ชัน WLAN</string>
+    <string name="wlan_dialog_tip_title">เคล็ดลับ</string>
+    <string name="wlan_sync_state_title">WLAN ประสานรัฐ</string>
+</resources>

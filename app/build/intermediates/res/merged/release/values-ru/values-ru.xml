@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="mode_entries">
+        <item> режим энергосбережения </item>
+        <item> в режиме реального времени </item>
+    </string-array>
+    <string-array name="native_photo_option">
+        <item> просмотреть </item>
+        <item>подели</item>
+        <item> Удалить </item>
+    </string-array>
+    <string-array name="native_video_option">
+        <item>игра</item>
+        <item>подели</item>
+        <item> Удалить </item>
+    </string-array>
+    <string-array name="photo_pixel_entry">
+        <item>640*480</item>
+        <item>1024*768</item>
+        <item>1280*960</item>
+        <item>1600*1200</item>
+        <item>2048*1536</item>
+        <item>2576*1932</item>
+    </string-array>
+    <string-array name="photo_pixel_value">
+        <item>640*480</item>
+        <item>1024*768</item>
+        <item>1280*960</item>
+        <item>1600*1200</item>
+        <item>2048*1536</item>
+        <item>2576*1932</item>
+    </string-array>
+    <string-array name="remote_photo_option">
+        <item> просмотреть </item>
+        <item>Загруз</item>
+        <item> Удалить </item>
+    </string-array>
+    <string-array name="remote_video_option_1">
+        <item>Загрузить </item>
+        <item> Удалить </item>
+    </string-array>
+    <string-array name="remote_video_option_2">
+        <item>игра</item>
+        <item> Удалить </item>
+    </string-array>
+    <string-array name="vedio_durations">
+        <item> 5  минут </item>
+        <item> 10  минут </item>
+        <item> 20  минут </item>
+        <item> 30  минут </item>
+	<item>неограниченный</item>
+    </string-array>
+    <string-array name="vedio_durations_values">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+	<item>0</item>
+    </string-array>
+    <string-array name="vedio_pixel_entry">
+        <item>768*432</item>
+        <item>1280*720</item>
+        <item>640*480</item>
+        <item>320*240</item>
+        <item>800*600</item>
+        <item>352*288</item>
+    </string-array>
+    <string-array name="vedio_pixel_value">
+        <item>768*432</item>
+        <item>1280*720</item>
+        <item>640*480</item>
+        <item>320*240</item>
+        <item>800*600</item>
+        <item>352*288</item>
+    </string-array>
+    <string name="abandon"> отказаться от </string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="about_glass"> о  очки </string>
+    <string name="about_glasses"> О , очки </string>
+    <string name="accepting">на</string>
+    <string name="action_settings">параметры</string>
+    <string name="address_info">мак  MAC - адрес устройства  : </string>
+    <string name="all_app_tab"> все </string>
+    <string name="all_app_tab_description"> Все  Приложения </string>
+    <string name="already_latest_version"> уже  является последней версии  ! </string>
+    <string name="android_version"> Android версии  : </string>
+    <string name="app_label"> умные  очки </string>
+    <string name="app_name"> умные  очки </string>
+    <string name="app_version"> App  версии </string>
+    <string name="application_manager_menu_title"> применение  manager </string>
+    <string name="bbbb"> Последнее обновление </string>
+    <string name="bind_Glass"> обязательный  очки </string>
+    <string name="bind_camlog"> обязательный  умные  очки </string>
+    <string name="bind_device"> Пожалуйста  , обязательным является  позже  ... </string>
+    <string name="bind_fail"> Ошибка привязки </string>
+    <string name="bind_timeout"> Таймаут  обязательного  оборудования  ,  пожалуйста,  вновь  поиск оборудования  или  пытается вновь  открыть  закрыть  ,  мобильных телефонов bluetooth  . </string>
+    <string name="binding"> уже  обязательного  оборудования </string>
+    <string name="binding_camlog"> обязательный  умные  очки …</string>
+    <string name="bluetooth_a2dp">Media Audio</string>
+    <string name="bluetooth_a2dp_summary">Выключите функцию Bluetooth музыку</string>
+    <string name="bluetooth_connect_wrong_message"> Ошибка подключения bluetooth  ,  пожалуйста,  подключиться  ! </string>
+    <string name="bluetooth_error"> Bluetooth  отключен  , пожалуйста, попробуйте снова </string>
+    <string name="bluetooth_finded_devices"> оборудование может быть подключен </string>
+    <string name="bluetooth_off"> Bluetooth  не  открыть  глаза  ,  уже  выход  помощник  применение </string>
+    <string name="bluetooth_pairing">" В настоящее время  в паре  …"</string>
+    <string name="bluetooth_paring"> в  паре …</string>
+    <string name="bluetooth_phone"> Bluetooth телефон </string>
+    <string name="bluetooth_phone_summary"> открыть  закрыть  bluetooth  телефонные функции </string>
+    <string name="bluetooth_preference_devices"> Может  подсоединения  оборудования </string>
+    <string name="bluetooth_preference_paired_devices"> может  связать  оборудования </string>
+    <string name="bond"> связывать  > </string>
+    <string name="bond_message"> Уверен, что хочешь  обязательного  оборудования %1$s?</string>
+    <string name="bond_request"> обязательный  просьбы </string>
+    <string name="bond_request_message">"  с  <ns1:g id="DEVICE_NAME">%1$s</ns1:g>  обязательного  оборудования  ?  " </string>
+    <string name="btn_bind_glass">Binding очки</string>
+    <string name="camlog_about"> О  очки  </string>
+    <string name="camlog_comment">1.убедитесь,что очки неподалеку, и уже загрузки.\n\n2.я  автоматически  связывать  сигнал  сильнейших  очки.\n\n3.убедитесь,что очки не связывать других мобильных телефонов.\n\n4.Если соединение не несколько раз,Попробуйте перезагрузить очки или Bluetooth мобильного телефона .\n</string>
+    <string name="camlog_live"> в прямом эфире </string>
+    <string name="camlog_on_time_hour">  очки  уже  %1$d  часа  %2$d минуты  %3$d  секунд  операции </string>
+    <string name="camlog_on_time_minute"> очки уже запущен  %1$d  минуты %2$d секунд </string>
+    <string name="camlog_on_time_second">  очки уже запущен  %1$d секунд </string>
+    <string name="camlog_photo"> очки   фото </string>
+    <string name="camlog_power_state"> умные  очки В настоящее время  электроэнергии  :%1$d </string>
+    <string name="camlog_setting">  очки   Настройки </string>
+    <string name="camlog_storage_state">общий мощность:%1$.0fGB,Используется:%2$.2fGB,остальные:%3$s</string>
+    <string name="camlog_unbind"> разоружение  очки </string>
+    <string name="camlog_update"> умные  очки и модернизации </string>
+    <string name="camlog_video"> очки   видео </string>
+    <string name="camlog_video_state_hour"> видео  (%1$d  часа  %2$d  минуты %3$d  секунд  ) </string>
+    <string name="camlog_video_state_minute"> видео  ( %1$d  минуты %2$d  секунд  ) </string>
+    <string name="camlog_video_state_second"> видео  ( %1$d  секунд  ) </string>
+    <string name="cancel"> отменить </string>
+    <string name="cancel_update"> отказаться от  обновления </string>
+    <string name="check_file_failed"> Ошибка проверки файлов  ,  пожалуйста,  заново скачать </string>
+    <string name="check_now"> Немедленно  проверьте </string>
+    <string name="check_update"> проверить обновления </string>
+    <string name="check_update_error">Проверить наличие обновлений не удалось</string>
+    <string name="checking"> проверка </string>
+    <string name="checking_update"> проверка  обновления  .</string>
+    <string name="close_bluetooth_a2dp">Закрыть Media Audio</string>
+    <string name="close_wlan">рядом)</string>
+    <string name="config_wifi"> Настройки  WiFi </string>
+    <string name="connect_error"> Ошибка соединения </string>
+    <string name="contact"> контакты </string>
+    <string name="contact_send_fail"> провал  контакта  синхронизации данных </string>
+    <string name="controller_info"> Вы можете  начать  синхронизации  экран  вверх  (  вниз, слева  ,  справа)  ,  секретаря  , таких, как  слайд  ,  нажмите  на  жест  контроля  очки  экрана. </string>
+    <string name="current_power"> очки  электроэнергии</string>
+    <string name="current_version"> текущая версия  :</string>
+    <string name="current_version_ps"> (  текущая версия  ) </string>
+    <string name="default_click"> Настройки по умолчанию </string>
+    <string name="delete"> Удалить </string>
+    <string name="delete_error"> Исключить неудачи </string>
+    <string name="delete_fail_count"> Невозможно удалить файл  %1$d </string>
+    <string name="delete_message"> Удалить  выбранный  содержание  ? </string>
+    <string name="delete_ok"> Удалить  успеха </string>
+    <string name="delete_progress"> Удалить ...(%1$d/%2$d)</string>
+    <string name="deleting"> Удалить …</string>
+    <string name="description"> Пояснение: </string>
+    <string name="device"> имя устройства  :  </string>
+    <string name="dialog_cancle"> выйти из  приложения </string>
+    <string name="dialog_ok"> Теперь иди </string>
+    <string name="dialog_title"> обязательный  очки  нужно  открыть  bluetooth </string>
+    <string name="disconnect"> Ошибка привязки  ,  нажмите кнопку  повторить </string>
+    <string name="disconnecting"> В настоящее время  решение  связать  ... </string>
+    <string name="download"> Загрузить</string>
+    <string name="download_any_data"> соединения  через  любые имеющиеся  данные  для загрузки </string>
+    <string name="download_description"> Загрузить  обновление  нужно  обновить файл </string>
+    <string name="download_message"> Загрузка  ,  пожалуйста, подождите  . </string>
+    <string name="download_notification_title">Coldwave</string>
+    <string name="download_only_wifi"> только через  wlan  скачать </string>
+    <string name="download_task_running"> есть  незавершенной  задачи </string>
+    <string name="download_title"> Загрузить  обновление файла </string>
+    <string name="downloading"> Загрузка  пакетов обновления  ,  пожалуйста, подождите  ... </string>
+    <string name="empty_ssid"> Пожалуйста, введите  горячих  ssid </string>
+    <string name="errcode_cancel"> отправить  отменить </string>
+    <string name="errcode_deny"> Отправлять  отказ </string>
+    <string name="errcode_success"> Отправка успешно </string>
+    <string name="errcode_unknown"> отправить  обратно </string>
+    <string name="error_process"> оригинальные фотографии  синхронизации не  ! </string>
+    <string name="exit_message"> Вы можете  в любое время из  панель уведомлений  в  обновление </string>
+    <string name="exit_title"> позднее обновление </string>
+    <string name="fail_addr_mismatch"> стекло  уже  другие  решения  связать  обязательного  оборудования  ,  пожалуйста,  попробуйте снова  ! </string>
+    <string name="fail_unknow"> Неизвестная ошибка </string>
+    <string name="fail_ver_mismatch"> Версия протокола  не соответствует  синхронизации </string>
+    <string name="finish"> завершить </string>
+    <string name="firstly"> один  .</string>
+    <string name="get_file_list"> Загрузить  список  средств массовой информации …</string>
+    <string name="get_glass_data_fail"> Не удалось получить данные  , пожалуйста, попробуйте снова </string>
+    <string name="get_power_timeout"> время ожидания  для получения  электроэнергии </string>
+    <string name="get_state_timeout"> умные  очки государства  получить  сверхурочные </string>
+    <string name="get_storage_timeout"> Тайм - аут  , сохранённое  государства </string>
+    <string name="get_uptime_timeout"> получить  время  тайм - аут </string>
+    <string name="get_watch_failed"> Не удалось  получить  очки  информации  \n  проверьте  и  очки  bluetooth соединение </string>
+    <string name="get_watch_info"> получение  информации  часы  версии </string>
+    <string name="get_wifi_state">все очки \'WLAN связи государства.</string>
+    <string name="get_wifi_state_timeout">все очки \'WLAN связи государства тайм - аут</string>
+    <string name="glass_ap_pw"> очки  в горячих точках  пароль </string>
+    <string name="glass_appw_summary"> настройки  горячих  пароль  очки </string>
+    <string name="glass_connect_phone_hotspot_success">Подключите телефон точки доступа очки успеха</string>
+    <string name="glass_cpu"> процессор </string>
+    <string name="glass_live">в прямом эфире</string>
+    <string name="glass_model"> тип </string>
+    <string name="glass_photo">  очки   фотографии  </string>
+    <string name="glass_power"> очки  электроэнергии </string>
+    <string name="glass_ram">рам</string>
+    <string name="glass_serial_number"> серийный номер </string>
+    <string name="glass_ssid"> горячие  ssid  очки </string>
+    <string name="glass_ssid_summary"> настройки  горячих  SSID  очки </string>
+    <string name="glass_state"> получение  очки  государства </string>
+    <string name="glass_state_summary"> получение  очки  государства …</string>
+    <string name="glass_storage"> очки  хранения </string>
+    <string name="glass_up_time"> время работы </string>
+    <string name="glass_version">  умные  очки версии </string>
+    <string name="glass_video">  очки   видео </string>
+    <string name="glasses"> очки  конец </string>
+    <string name="gps"> расположение информации </string>
+    <string name="hello_world">привет мир!</string>
+    <string name="high_clearity">Ультра-ясный(для полосы пропускания 2mбит)</string>
+    <string name="horizontally">horizontal</string>
+    <string name="idle"> свободное </string>
+    <string name="ime_delete"> Удалить </string>
+    <string name="ime_notice"> После  ввода  , нажмите кнопку ОК,  отправить на  очки </string>
+    <string name="ime_reconnect"> вес  даже </string>
+    <string name="ime_title"> Bluetooth  метод ввода </string>
+    <string name="install"> немедленно установить </string>
+    <string name="install_alerting"> в процессе  обновления,  вы не можете использовать  телефон  , также не может  набрать  телефон экстренной связи  .  В ходе процесса обновления  не выключать  телефон  ,  или  вынуть аккумулятор  или  карты памяти  . </string>
+    <string name="install_app_tab"> установлен </string>
+    <string name="install_app_tab_description"> все  уже установленных приложений </string>
+    <string name="install_notices"> Пожалуйста, резервное копирование  данных  до обновления  (например  , контакты  ,  информации  ,  звонков  и т.д.), и  обеспечить достаточное  количество </string>
+    <string name="key_binding"> Поиск  устройств bluetooth </string>
+    <string name="language"> Настройки языка </string>
+    <string name="language_summary"> Настройки  языка  очки  конец </string>
+    <string name="language_us"> на английском языке </string>
+    <string name="language_zh"> китайский </string>
+    <string name="later"> установки позже </string>
+    <string name="latest_version"> В последней версии  :</string>
+    <string name="live"> видео  в прямом эфире </string>
+    <string name="live_audio">Живой звук</string>
+    <string name="live_audio_hint">Живой звук и необходимо закрыть Media Audio</string>
+    <string name="live_audio_nosound">Тихий Живая</string>
+    <string name="live_audio_summary">Выберите, нужно ли транслировать аудио</string>
+    <string name="live_bt_disconnect"> очки  не  на  мобильный телефон  связи </string>
+    <string name="live_cancle"> выход  в прямом эфире </string>
+    <string name="live_controller_info"> видео  вы можете  увидеть  в прямом эфире  в настоящее время  загрузки  видео  на экране. </string>
+    <string name="live_get_url"> получить  в прямом эфире  адрес  ... </string>
+    <string name="live_loading"> получение  видео,  пожалуйста, подождите  ... </string>
+    <string name="live_network_disconnect"> потерять  связи  сети </string>
+    <string name="live_ok"> Теперь иди </string>
+    <string name="live_open_bt"> ждать  bluetooth  открыть  ... </string>
+    <string name="live_set_audio">Для того, чтобы установить</string>
+    <string name="live_stream_down"> Ошибка подключения  в прямом эфире </string>
+    <string name="live_wait_network_data"> бедных  загрузки данных  в  сети  ,  ... </string>
+    <string name="live_wifi_ap_hint"> нужно  открыть  в прямом эфире  wifi hotspot  функции </string>
+    <string name="live_wifi_disconnect"> очки  беспроводной  сети не подключены </string>
+    <string name="login">Enter now</string>
+    <string name="lost_bond_st"> потерять  связывать  государство </string>
+    <string name="lost_bond_st_content"> на  конец  этого  оборудования  и  оборудования  уже  отменил  обязательные отношения </string>
+    <string name="low_clearity">SD(для ширины полосы частот 500kbps)</string>
+    <string name="low_power"> низкой электрической  напомнить </string>
+    <string name="low_power_msg"> очки  электроэнергии  является слишком низким,  пожалуйста,  своевременно  зарядки </string>
+    <string name="mac">мак    :</string>
+    <string name="media"> Просмотр в средствах массовой информации </string>
+    <string name="media_downloaded"> Загрузить </string>
+    <string name="media_no"> Давай </string>
+    <string name="media_path"> локальный  путь </string>
+    <string name="media_path_summary">SD卡/SmartGlasses/</string>
+    <string name="media_picture"> картина </string>
+    <string name="media_pixel"> Резолюции </string>
+    <string name="media_tip"> синхронизация видео  требует много времени  ,  подтверждения  синхронизации  ? </string>
+    <string name="media_video"> видео </string>
+    <string name="media_yes"> синхронный </string>
+    <string name="message"> SMS </string>
+    <string name="msg_camera_framework_bug"> Не удалось  открыть  камеру  , пожалуйста, проверьте  , если права  использовать  камеры  запрещены. </string>
+    <string name="name_info"> уже  сканирование  на  оборудование  : </string>
+    <string name="native_live">Местные Живая я</string>
+    <string name="native_photo"> местные  фотографии </string>
+    <string name="native_photo_fragment"> местных </string>
+    <string name="native_video"> местные видео </string>
+    <string name="network_not_avaliable"> сеть  не имеется  ! </string>
+    <string name="new_app_version"> обновления версии </string>
+    <string name="new_version_comment">1. исправить известной ошибки\n2. оптимизировать приложения</string>
+    <string name="no_application_infos"> без каких - либо  применение </string>
+    <string name="no_available_player"> не  найти  доступные  через  галерея  открывает  плеер  , пожалуйста </string>
+    <string name="no_found_device"> устройство не обнаружено  , нажмите на  повторное сканирование </string>
+    <string name="no_read_contact_permission"> Пожалуйста,  открыть  разрешения  чтения  контактов </string>
+    <string name="no_rollback_version"> не  может быть  запасной  вариант  ! </string>
+    <string name="not_camlog_glass"> не было установлено, что очки </string>
+    <string name="not_need_update"> Ты  уже  является последней  версии  ,  не нужно обновлять </string>
+    <string name="notification_summary_settings"> Таймаут  уведомления  Кай  /  отключить </string>
+    <string name="notification_title_settings"> Таймаут  уведомления </string>
+    <string name="offhook"> призыв </string>
+    <string name="ok"> Определения </string>
+    <string name="open_bt"> открыть  bluetooth </string>
+    <string name="operation_timeout"> Истекло время ожидания операции </string>
+    <string name="other_bind"> камера  быстро  без  привязки </string>
+    <string name="other_bind_info"> ключ  обязательного  очки  ,  нужно  вам  очки  после загрузки  в  операции  2  минут  , иначе  будет не в состоянии осуществлять  обязательные  . </string>
+    <string name="other_device_dialog_content"> третья сторона  оборудования  :  %1  запрашивает  связывать  эти часы  ,  принимать ли  ? </string>
+    <string name="pair"> в паре  > </string>
+    <string name="pair_device"> поиск. </string>
+    <string name="pair_fail"> в паре  не удалось </string>
+    <string name="pair_success"> Успешное соединение </string>
+    <string name="password"> Пароль: </string>
+    <string name="pho_bind"> камера  привязки </string>
+    <string name="phone"> телефон  аудио </string>
+    <string name="photo"> фото </string>
+    <string name="photo_pixel_summary"> Выбрать  фотографии  резолюции </string>
+    <string name="photo_sync_start"> "  фотографии  синхронизации  начал  " </string>
+    <string name="pic_water_mark">Добавить рисунок подложки эффект</string>
+    <string name="picture_nofind"> не  найти  очки  оборудования на фото  ресурсов </string>
+    <string name="play_error"> не  найти  подходящих  приложений  для воспроизведения  </string>
+    <string name="please_choose_version"> Пожалуйста, выберите  вариант </string>
+    <string name="please_input"> Пожалуйста, введите  содержание  ! </string>
+    <string name="please_wait_moment">Пожалуйста, подождите минуту</string>
+    <string name="position"> географическое положение </string>
+    <string name="power_summary"> получение  нынешнего  состояния батареи …</string>
+    <string name="processing"> Загрузка  ... </string>
+    <string name="product"> модель: </string>
+    <string name="progress"> синхронизация  данных </string>
+    <string name="pullto_refresh"> выпадающий  поиска </string>
+    <string name="pw_hint"> WiFi  пароль </string>
+    <string name="pw_too_short"> горячие  пароль  не менее  8 бит </string>
+    <string name="qr_bind">сканирования</string>
+    <string name="read_me">------------------------------------\n
+         Примечание:  \n
+         1.  убедитесь, что  установлен  sd карт,  и  есть  достаточно свободного  пространства; \n
+         2.  обеспечить  подключение к сети  (рекомендуется  wlan  );\n
+         з.агрузить  файл  3.  успех  модернизации  после  возобновления .\n
+        ------------------------------------\n</string>
+    <string name="rebind_camlog"> вновь  связывать </string>
+    <string name="reflush"> Нажмите кнопку  Обновить </string>
+    <string name="refreshing"> Поиск  устройств bluetooth </string>
+    <string name="release_refresh"> Отменить  поиск </string>
+    <string name="reminder"> Небольшой  совет: </string>
+    <string name="remote_live">Remote Live</string>
+    <string name="remote_live_cancel_modify_password">Изменение пароля</string>
+    <string name="remote_live_clear_history">Очистить историю</string>
+    <string name="remote_live_ensure_modify">Подтвердите изменения</string>
+    <string name="remote_live_error_check_pwd">Проверка пароля не удалась, попробуйте еще раз подтвердить</string>
+    <string name="remote_live_error_check_uid">UID проверка не удалась, попробуйте еще раз подтвердил,</string>
+    <string name="remote_live_error_close_by_remote">Конечные очки вышли Живая</string>
+    <string name="remote_live_error_device_offline">Ни одно устройство найти в Интернете, пожалуйста, повторите попытку позже</string>
+    <string name="remote_live_error_get_data">Не удалось загрузить данные, повторите попытку позже</string>
+    <string name="remote_live_error_get_data_timeout">Сетевая загрузка не удалась, попробуйте еще раз</string>
+    <string name="remote_live_error_get_videodata_failed">Получить видео данные не удалось, попробуйте еще раз</string>
+    <string name="remote_live_error_max_seesion">Broadcast оборудование достигли предела, пожалуйста, повторите попытку позже</string>
+    <string name="remote_live_error_record_too_short">Время разговора слишком коротка</string>
+    <string name="remote_live_error_speaker_failed">Отказ селекторной Voice</string>
+    <string name="remote_live_error_videorecord_too_short">Время записи является слишком коротким</string>
+    <string name="remote_live_history">история</string>
+    <string name="remote_live_login">Начать Живая</string>
+    <string name="remote_live_modify_error">Модификация терпит неудачу</string>
+    <string name="remote_live_modify_password">Изменение пароля</string>
+    <string name="remote_live_modify_success">Успешно изменен</string>
+    <string name="remote_live_modifying_pwd">Изменение</string>
+    <string name="remote_live_msg_check_uid">Проверка серийного номера устройства и пароль</string>
+    <string name="remote_live_msg_get_data">Загрузка данных, пожалуйста, подождите</string>
+    <string name="remote_live_new_pwd">Новый пароль</string>
+    <string name="remote_live_new_pwd_ensure">подтверждать</string>
+    <string name="remote_live_newpwd">Пожалуйста, введите новый пароль и изменить в прямом эфире</string>
+    <string name="remote_live_nickname">кличка</string>
+    <string name="remote_live_no_name">Пожалуйста, введите ник</string>
+    <string name="remote_live_no_network">Проверьте подключение к сети и повторите попытку</string>
+    <string name="remote_live_no_pwd">Пожалуйста, введите правильный пароль</string>
+    <string name="remote_live_no_uid">Пожалуйста, введите правильный серийный номер устройства</string>
+    <string name="remote_live_old_pwd">Старый пароль</string>
+    <string name="remote_live_pwd">пароль</string>
+    <string name="remote_live_pwd_inconsistent">Пароли не совпадают, пожалуйста, введите его заново.</string>
+    <string name="remote_live_reset_password">Сброс пароля</string>
+    <string name="remote_live_uid_vertify_fail">UID верификация завершается неудачно, введите правильный серийный номер</string>
+    <string name="remote_live_use_mobile_data">Мы используем мобильных сетевых данных</string>
+    <string name="remote_live_uuid">UID</string>
+    <string name="remote_live_verify_pwd_error">Оригинальный пароль не является правильным, пожалуйста, попробуйте еще раз.</string>
+    <string name="remote_live_video_record_fail">отказ записи</string>
+    <string name="remote_live_video_save_fail">Отказ видеопамяти</string>
+    <string name="remote_photo"> зеркало  конец  фотографии </string>
+    <string name="remote_ring_msg"> (  %1$s  )  из  дистанционного  контроля  .\n  нажмите кнопку ниже  , чтобы остановить </string>
+    <string name="remote_ring_title"> дистанционное  кольцо </string>
+    <string name="remote_video"> зеркало  в конце  видео </string>
+    <string name="reset">Reset</string>
+    <string name="retry_connect"> в  связи  …</string>
+    <string name="retry_connect_failed"> Ошибка соединения </string>
+    <string name="retry_connect_failed_with_no_address"> потерять  дистанционного  оборудования </string>
+    <string name="retry_connect_success"> Успешное соединение </string>
+    <string name="ring"> звонок </string>
+    <string name="rollback_to_version"> откат  к  версии  :  %s</string>
+    <string name="rotate">Rotate</string>
+    <string name="round_video"> Записи поездок </string>
+    <string name="round_video_summary"> открыть  /  закрыть  кран  режим записи </string>
+    <string name="run_update"> выполнить обновление </string>
+    <string name="scan"> трите  выше  схеме  привязки  двухмерные коды  ,  очки </string>
+    <string name="scan_device"> поиск  очки  для  подсоединения  оборудования </string>
+    <string name="scan_device_timeout"> не было установлено, что очки </string>
+    <string name="scan_qrcode"> двухмерный  код  будет  в  рамы  ,  может автоматически  сканировать </string>
+    <string name="scan_qrcode_hint"> сканирования  двумерных кодов </string>
+    <string name="scheduled_check"> Сроки  проверки </string>
+    <string name="screen_control"> тот же  экран контроля </string>
+    <string name="screen_control_msg"> очки  для  контроля  и  обмена  экран </string>
+    <string name="screen_transport_failed"> экран  синхронизации не  очки  ,  пожалуйста, попробуйте снова </string>
+    <string name="sdcard_not_avaliable"> сеть  не имеется  ! </string>
+    <string name="search_bind"> поиск  очки </string>
+    <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
+    <string name="secondly"> Ii.</string>
+    <string name="select_all"> Выбрать все </string>
+    <string name="serching_camlog"> поиск очки …</string>
+    <string name="serial_number_summary">ABCD123456789</string>
+    <string name="service_msg"> синхронный  служба работает </string>
+    <string name="setting"> Настройки </string>
+    <string name="share"> поделиться </string>
+    <string name="size"> размер:  %s  байт </string>
+    <string name="sms_send_fail"> синхронизация данных  не  SMS </string>
+    <string name="software_updates">обновление программного обеспечения</string>
+    <string name="ssid">SSID:</string>
+    <string name="ssid_hint"> Имеется  WiFi  имя </string>
+    <string name="standard_clearity">HD(для полосы пропускания 1mбит)</string>
+    <string name="start"> синхронный  экран </string>
+    <string name="start_live"> открыть </string>
+    <string name="start_sync_photos"> начало синхронизации  фото </string>
+    <string name="start_sync_videos"> начал  синхронизация видео </string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stop_live"> прекратить </string>
+    <string name="storage_summary"> В настоящее время  государство  получает в настоящее время  хранения …</string>
+    <string name="sync_contact"> синхронизация контактов </string>
+    <string name="sync_contact_fail"> Синхронизировать контакты  на  очки  не </string>
+    <string name="sync_contact_success"> Синхронизировать  контакты  уже  на  очки </string>
+    <string name="sync_contact_to_glass"> открыть  /  закрыть  Синхронизировать контакты  на  очки </string>
+    <string name="sync_failed"> синхронный  провал! </string>
+    <string name="sync_media_done">  синхронный  конец  (  закончить  %1$d ,  не  конец %2$d ) </string>
+    <string name="sync_phone_time_to_glass"> открыть  /  закрыть  телефон  время  синхронизации </string>
+    <string name="sync_phone_wifi_hotspot">Горячая синхронизация</string>
+    <string name="sync_phone_wifi_hotspot_success">Соединение успешно</string>
+    <string name="sync_time"> время синхронизации </string>
+    <string name="sync_to_play"> после  загрузки на местном  может  играть </string>
+    <string name="syncing_contact"> синхронизации …</string>
+    <string name="syncing_photos"> синхронизация  в  фотографии  (  %1$d/%2$d  ) …</string>
+    <string name="syncing_photos_done"> конец  фотографии  синхронизации </string>
+    <string name="syncing_videos"> в  видео  синхронизации  (  %1$d/%2$d  ) …</string>
+    <string name="syncing_videos_done"> В конце  видео  синхронизации </string>
+    <string name="system_version"> система версии  : </string>
+    <string name="take_photo">фотографировать</string>
+    <string name="take_video">видео/прекратить</string>
+    <string name="thirdly"> три  .</string>
+    <string name="time"> время </string>
+    <string name="time_noti_ticker"> Отключить  автоматическое подключение  синхронизации </string>
+    <string name="timer_format_hour" translatable="false"><ns1:g id="format">%02d:%02d:%02d</ns1:g></string>
+    <string name="timer_format_minute" translatable="false"><ns1:g id="format">%02d:%02d</ns1:g></string>
+    <string name="timout_noti_content"> уже  долгое время  возможности  потерять  bluetooth соединение </string>
+    <string name="timout_noti_title"> синхронный  timeout </string>
+    <string name="title_activity_glasses_fragment">GlassesFragmentActivity</string>
+    <string name="title_bind"> связывать </string>
+    <string name="title_media"> средства массовой информации </string>
+    <string name="title_screen"> тот же  экран </string>
+    <string name="title_sync"> синхронный </string>
+    <string name="tttt"> выпадающий  обновить </string>
+    <string name="turn_off_bluetooth_a2dp">Закрыть Аудио СМИ, когда в прямом эфире</string>
+    <string name="turn_wifi_ap_off"> закрыть  в горячих точках </string>
+    <string name="turn_wifi_ap_on"> открыть  wifi hotspot </string>
+    <string name="turn_wifi_ap_on_now"> Теперь  открыт </string>
+    <string name="turning_bluetoothheadset_off"> закрыть  в …</string>
+    <string name="turning_bluetoothheadset_on"> Открыть  в …</string>
+    <string name="turning_wifi_ap_on"> Включите телефон  в  горячих точках …</string>
+    <string name="unbind"> развязать </string>
+    <string name="unbond"> В настоящее время  обязательного  разоружения </string>
+    <string name="unbond_st"> несвязанных  государства </string>
+    <string name="unbond_st_content"> часы  без  обязательного  оборудования  и  любой  ассоциации </string>
+    <string name="unbonding"> В настоящее время  решение  связать …</string>
+    <string name="uninstall_dialog_cancel"> отменить </string>
+    <string name="uninstall_dialog_message"> Вы уверены, что хотите  удалить  приложение  ? </string>
+    <string name="uninstall_dialog_ok"> Определения </string>
+    <string name="uninstall_dialog_title"> Удалить </string>
+    <string name="uninstall_message_send_failed"> для удаления приложений  передачи информации  не! </string>
+    <string name="uninstall_success"> успешно Удалить </string>
+    <string name="uninstall_toast"> В настоящее время удалить  ,  пожалуйста, подождите  ... </string>
+    <string name="up_time_summary"> получение  рабочего времени …</string>
+    <string name="update_bluetooth_error"> Bluetooth  отключен  ,  отказаться от  модернизации  . </string>
+    <string name="update_connect_wifi_timeout"> Попытка  подключения  WiFi  , тайм - аут  ,  отказаться от  модернизации. </string>
+    <string name="update_donwload_error"> Не удалось  загрузить  пакет обновления  ,  отказаться от  модернизации. </string>
+    <string name="update_download_progress">Загрузка пакета обновления:</string>
+    <string name="update_fail"> Обновление  системы  уже  не завершена,  восстановить  до модернизации  государства. </string>
+    <string name="update_invalid_package"> Неверный  обновить пакет  ,  отказаться от  модернизации. </string>
+    <string name="update_later"> позже </string>
+    <string name="update_later_msg"> Нажмите на  обновление системы </string>
+    <string name="update_now"> обновить сейчас </string>
+    <string name="update_power_shortage"> нехватка электроэнергии  ,  отказаться от  модернизации. </string>
+    <string name="update_start"> Загрузка завершена,  начать обновление  .  (например,  провал  , Перезагрузите  очки  ) </string>
+    <string name="update_start_download"> Начать загрузку  обновления пакетов …</string>
+    <string name="update_storage_shortage"> недостаточно пространства  ,  отказаться от  модернизации. </string>
+    <string name="update_success"> умные  очки  модернизации  системы  уже  успешно  ,  обновления  . </string>
+    <string name="update_to_version"> обновление  до версии  : %s</string>
+    <string name="update_try_connect_wifi"> попытки  подключения  WiFi  . </string>
+    <string name="updates_note"> \n  обнаружения  на  очки  в конце процедуры  обновления  ,  обновления  .\n\n  ли  внимание  : обновление  очки  в конце процедуры  нужно  .\n  WiFi  сеть </string>
+    <string name="user_guide"> инструкции по эксплуатации </string>
+    <string name="user_guide_summary"> Нажмите для просмотра умные  очки инструкции по эксплуатации </string>
+    <string name="vedio"> видео </string>
+    <string name="vedio_duration"> кусочно -  когда  секретаря </string>
+    <string name="vedio_duration_summary"> Выбрать видео  при сегментации  секретаря </string>
+    <string name="version"> Версия: </string>
+    <string name="version_back"> версии  откат </string>
+    <string name="version_code_summary">camlog V1.0</string>
+    <string name="vertical">seesaw</string>
+    <string name="video"> видео </string>
+    <string name="video_file_name_format" translatable="false">"'LIVE_VID'_yyyyMMdd_HHmmss"</string>
+    <string name="video_live"> в прямом эфире </string>
+    <string name="video_nofind"> очки  не  найти  видео на устройство  ресурсов </string>
+    <string name="video_sync_start"> "  видео синхронизации  начал  " </string>
+    <string name="video_water_mark">Добавить видео водяной знак эффект</string>
+    <string name="voice_recog">распознавание голоса</string>
+    <string name="voice_recog_summary">выбор в пользу открытого распознавания голоса</string>
+    <string name="volume"> объем средств массовой информации </string>
+    <string name="volume_summary"> очки  медиа -  регулятор громкости </string>
+    <string name="wait_device_connect"> ждать  , очки и  связи; …</string>
+    <string name="waiting_for_glass_connect"> ждать  оборудования  связи …</string>
+    <string name="waiting_for_glass_open_camera"> очки  в  камеру  открыть  терминал …</string>
+    <string name="water_mark">Водяной знак эффект</string>
+    <string name="water_mark_summary">Добавить очки стороне изображение/видео водяной знак эффект</string>
+    <string name="weather_tip1"> В настоящее время  из телефона  для получения информации о погоде </string>
+    <string name="weather_tip2"> не сети связи  ,  пожалуйста, проверьте  настройки сети </string>
+    <string name="weibo_auth_canceled"> отменить  миниблог  разрешения </string>
+    <string name="weibo_auth_failed"> миниблог  разрешения неудачи </string>
+    <string name="weibo_auth_success"> миниблог  разрешение успех </string>
+    <string name="weibo_share_canceled"> отменить  миниблог  поделиться </string>
+    <string name="weibo_share_failed"> миниблог  поделиться  провал </string>
+    <string name="weibo_share_success"> миниблог  обмен успешным </string>
+    <string name="weibo_share_title"> отправка  миниблог </string>
+    <string name="welcome_use_camlog"> Добро пожаловать </string>
+    <string name="wifi"> WiFi  синхронизации </string>
+    <string name="wifi_ap"> WiFi  в горячих точках </string>
+    <string name="wifi_ap_hint"> просматривать  содержание  wifi hotspot  функции  нужно  открыть  очки </string>
+    <string name="wifi_ap_hint_off"> ли закрыть  и открыть  телефон  горячей  WiFi </string>
+    <string name="wifi_ap_setting"> WiFi  горячих  настройки </string>
+    <string name="wifi_ap_summary"> Изменить  имя  WiFi  в горячих точках </string>
+    <string name="wifi_connect"> могут быть связаны  , wifi hotspot </string>
+    <string name="wifi_connected">Очки конец WLAN подключен</string>
+    <string name="wifi_dialog_cancle"> отменить </string>
+    <string name="wifi_dialog_ok"> Определения </string>
+    <string name="wifi_dialog_title"> Пожалуйста, введите  пароль  %1$s </string>
+    <string name="wifi_free"> может использовать  WPS </string>
+    <string name="wifi_is_closed">очки \'WLAN уже закрыто</string>
+    <string name="wifi_list_null"> не  сканирование  , wifi hotspot </string>
+    <string name="wifi_off"> нужно  открыть  WiFi  WiFi  синхронизации </string>
+    <string name="wifi_open"> Этот вариант  необходимо открыть  WiFi </string>
+    <string name="wifi_secured_first_item"> для  защиты  через  <ns1:g id="wifi_security_short">%1$s</ns1:g> </string>
+    <string name="wifi_security_eap">802.1x EAP</string>
+    <string name="wifi_security_none">None</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wpa">WPA PSK</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_sync">WLAN синхронизации</string>
+    <string name="wifi_sync_fail">связаться не удалось</string>
+    <string name="wifi_sync_success">уже подключены</string>
+    <string name="wifi_syncing">это соединение% 1 $.</string>
+    <string name="wifisync_summary">Конец WLAN очки настройки синхронизации</string>
+    <string name="wlan_dialog_tip">власть волк ожидания будут существенно сокращены после подключения WLAN, отключить его в момент, когда вы не используете WLAN функция</string>
+    <string name="wlan_dialog_tip_title">совет</string>
+    <string name="wlan_sync_state_title">беспроводной синхронизации государство</string>
+</resources>

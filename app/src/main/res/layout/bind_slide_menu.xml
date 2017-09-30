@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/application_bg"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/sync_photo_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:drawableLeft="@drawable/picture"
+        android:drawablePadding="10dp"
+        android:drawableRight="@drawable/arrow_right"
+        android:gravity="center|left"
+        android:padding="10dp"
+        android:text="@string/glass_photo"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/lineColor" />
+
+    <TextView
+        android:id="@+id/sync_video_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:drawableLeft="@drawable/video"
+        android:drawablePadding="10dp"
+        android:drawableRight="@drawable/arrow_right"
+        android:gravity="center|left"
+        android:padding="10dp"
+        android:text="@string/glass_video"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/lineColor" />
+
+    <TextView
+        android:id="@+id/live"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:drawableLeft="@drawable/live"
+        android:drawablePadding="10dp"
+        android:drawableRight="@drawable/arrow_right"
+        android:gravity="center|left"
+        android:padding="10dp"
+        android:text="@string/native_live"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/lineColor" />
+
+    <TextView
+        android:id="@+id/remote_live_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:drawableLeft="@drawable/remote_live"
+        android:drawablePadding="10dp"
+        android:drawableRight="@drawable/arrow_right"
+        android:gravity="center|left"
+        android:padding="10dp"
+        android:text="@string/remote_live"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/lineColor" />
+
+
+    <TextView
+        android:id="@+id/about_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:drawableLeft="@drawable/about"
+        android:drawablePadding="10dp"
+        android:drawableRight="@drawable/arrow_right"
+        android:gravity="center|left"
+        android:padding="10dp"
+        android:text="@string/about_glass"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/lineColor" />
+
+    <TextView
+        android:id="@+id/unbind_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:drawableLeft="@drawable/unbind"
+        android:drawablePadding="10dp"
+        android:drawableRight="@drawable/arrow_right"
+        android:gravity="center|left"
+        android:padding="10dp"
+        android:text="@string/unbind"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/lineColor" />
+</LinearLayout>

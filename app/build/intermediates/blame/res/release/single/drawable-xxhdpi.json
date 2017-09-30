@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\no_select.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-xxhdpi\\no_select.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\zhibo.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-xxhdpi\\zhibo.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\extend_menu.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-xxhdpi\\extend_menu.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\paizhao.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-xxhdpi\\paizhao.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_drawer.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\ic_qr_code.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_qr_code.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\back_main.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-xxhdpi\\back_main.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\selected.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-xxhdpi\\selected.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\drawer_shadow.9.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\button_login_delete.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\button_login_delete.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\show_pwd.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\show_pwd.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\setting_main.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-xxhdpi\\setting_main.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi\\luxiang.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-xxhdpi\\luxiang.png"
+    }
+]

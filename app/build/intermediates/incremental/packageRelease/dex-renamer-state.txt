@@ -1,0 +1,4 @@
+#Fri Sep 29 11:31:18 CST 2017
+base.0=D\:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

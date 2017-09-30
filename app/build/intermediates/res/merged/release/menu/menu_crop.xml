@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_freedom"
+        android:title="@string/freecutting"
+        />
+    <item android:id="@+id/action_1_1"
+        android:title="@string/cut1"
+        />
+    <item android:id="@+id/action_3_2"
+        android:title="@string/cut2"
+        />
+    <item android:id="@+id/action_4_3"
+        android:title="@string/cut3"
+        />
+    <item android:id="@+id/action_16_9"
+        android:title="@string/cut4"
+        />
+    <item android:id="@+id/action_rotate"
+        android:title="@string/rotate"
+        />
+    <item android:id="@+id/action_up_down"
+        android:title="@string/vertical"
+        />
+    <item android:id="@+id/action_left_right"
+        android:title="@string/horizontally"
+        />
+
+    <item android:id="@+id/action_crop"
+        android:title="@string/runcut"
+        />
+
+</menu>

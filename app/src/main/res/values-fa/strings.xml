@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_label">عینک</string>
+    <string name="app_name">عینک</string>
+    <string name="bond">اتصال > </string>
+    <string name="pair_fail">جفت شدن را شکست خورده</string>
+    <string name="pair_success">مسابقات موفق</string>
+    <string name="pair">جفت شدن> </string>
+    <string name="bond_message">تعیین تجهیزات اتصال %1$s انجام?</string>
+    <string name="open_bt">روشن کردن بلوتوث</string>
+    <string name="bluetooth_preference_paired_devices">تجهیزات نوار اتصال</string>
+    <string name="bluetooth_preference_devices">دستگاه های زوج</string>
+    <string name="bluetooth_pairing">"تطبیق&#8230;"</string>
+
+    <!-- state of call, -->
+    <string name="idle">رایگان</string>
+    <string name="accepting">جواب داد</string>
+    <string name="ring">تماس</string>
+    <string name="offhook">تماس</string>
+    <string name="disconnecting">راه حل های را به گره خورده است...</string>
+
+    <!-- for ota update -->
+    <string name="current_version">نسخه فعلی:</string>
+    <string name="latest_version">آخرین نسخه:</string>
+    <string name="firstly">1.</string>
+    <string name="check_update">بررسی برای به روز رسانی</string>
+    <string name="check_update_error">بررسی برای به روز رسانی شکست خورده</string>
+    <string name="secondly"> 2.</string>
+    <string name="download">دانلود</string>
+    <string name="thirdly"> 3.</string>
+    <string name="run_update">انجام بروز رسانی</string>
+    <string name="not_need_update">نسخه به روز است, شما لازم نیست برای به روز رسانی</string>
+    <string name="checking_update">بررسی برای نسخه های به روز است...</string>
+    <string name="download_title">دانلود فایل ارتقاء</string>
+    <string name="download_description">دانلود به روز رسانی فایل های مورد نیاز برای ارتقاء</string>
+    <string name="read_me">------------------------------------\n      
+    یادداشت: \n
+    1. مطمئن شوید که کارت SD نصب شده است و آزاد کافی وجود دارد فضای; \n
+    2. اتصال (توصیه می شود نسل سوم) شبکه اطمینان حاصل شود که\n
+    3. پس از دانلود موفق پرونده ارتقاء، راه اندازی مجدد. \n
+        ------------------------------------\n</string> 
+    <!-- check update -->
+    <string name="check_now">چک</string>
+    <string name="get_watch_failed">عینک اطلاعات \n لطفا بررسی اتصال بلوتوث و عینک دریافت نشد</string>
+    <string name="scheduled_check">به طور منظم چک کنید</string>
+    <string name="software_updates">نرم افزار به روز رسانی</string>
+    <string name="later">بعد نصب</string>
+    <string name="ok">تایید</string>
+    <string name="cancel">لغو</string>
+    <string name="install">هم اکنون نصب کنید</string>
+    <string name="abandon">رها کردن</string>
+    <string name="sync_failed">همگام سازی انجام نشد!</string>
+    <string name="already_latest_version">در حال حاضر آخرین نسخه است!</string>
+    <string name="no_rollback_version">هیچ نسخه ذخیره!</string>
+    <string name="checking">چک کردن</string>
+    <string name="version_back">نسخهٔ عقبگرد</string>
+    <string name="product">مدل:</string>
+    <string name="android_version">نسخه آندروید:</string>
+    <string name="system_version">نسخه سیستم:</string>
+    <string name="update_to_version">به روز رسانی به نسخه:%s</string>
+    <string name="rollback_to_version">سقوط به نسخه:%s</string>
+    <string name="current_version_ps">(نسخه فعلی)</string>
+    <string name="please_choose_version">لطفا نسخه را انتخاب کنید</string>
+    <string name="please_wait_moment">لطفا کمی صبر کنید</string>
+    <!-- update download -->
+    <string name="downloading">دانلود کیت ارتقاء داده شده، لطفا صبر کنید...</string>
+    <string name="download_any_data">از طریق هر یک از اتصال داده های موجود برای دانلود</string>
+    <string name="download_only_wifi">تنها از طریق بلوتوث دانلود</string>
+    <string name="version">نسخه:</string>
+    <string name="size">اندازه:%s کلمه در ادامه متن</string>
+    <string name="description">معرفی:</string>
+    <string name="network_not_avaliable">شبکه موجود نیست!</string>
+
+    <!-- update install -->
+    <string name="sdcard_not_avaliable">کارت حافظه در دسترس نیست!</string>
+    <string name="get_watch_info">گرفتن اطلاعات نسخه پخش</string>
+    <string name="install_alerting">در روند ارتقاء شما قادر به استفاده از تلفن یا برقراری تماس اضطراری. نه خاموش کردن تلفن در طول فرآیند ارتقاء یا باتری یا حافظه کارت را.</string>
+    <string name="install_notices">قبل از به روز رسانی, لطفا (مانند تماس با ما پیام تاریخ تماس، و غیره) پشتیبان گیری داده ها و اطمینان حاصل شود که وجود قدرت کافی است</string>
+    <string name="update_later_msg">برای ورود به سیستم به روز رسانی کلیک کنید</string>
+    <string name="exit_title">بعد به روز رسانی</string>
+    <string name="exit_message">شما می توانید در هر زمان از نوار اطلاع رسانی به روز رسانی</string>
+    <string name="check_file_failed">فایل تأیید انجام نشده، لطفا دوباره دانلود</string>
+
+   
+    <!--seeting toast-->
+    <string name="sms_send_fail">اس ام اس داده های همگام سازی انجام نشد</string>
+    <string name="contact_send_fail">همگام سازی داده های تماس ناموفق بود</string>
+    <string name="wifi_off">فای همگام سازی نیاز به روشن کردن WiFi</string>
+    <!-- 模式设置 -->
+    <string-array name="mode_entries">
+        <item>قدرت حالت صرفه جویی</item>
+        <item>حالت زمان واقعی</item>
+    </string-array>
+
+
+    <!-- System -->
+    <string name="bond_request">درخواست اتصال</string>
+    <string name="bond_request_message">"آیا اتصال به دستگاه(<xliff:g id="DEVICE_NAME">%1$s</xliff:g>)?"</string>
+    <string name="notification_title_settings">اطلاع رسانی به تایم</string>
+    <string name="notification_summary_settings">شروع/اطلاع وقفه غیر فعال کردن</string>
+    <string name="timout_noti_title">هماهنگ سازی زمان بندی شده</string>
+    <string name="timout_noti_content">اتصال بلوتوث برای مدت طولانی از دست داده است</string>
+    <string name="time_noti_ticker">همگام سازی خودکار غیر فعال کردن اتصال</string>
+    <string name="retry_connect">اتصال&#8230;</string>
+    <string name="retry_connect_success">ایجاد اتصال با موفقیت</string>
+    <string name="retry_connect_failed">اتصال انجام نشد</string>
+    <string name="retry_connect_failed_with_no_address">دستگاه کنترل از راه دور را از دست داده</string>
+
+    <!-- remote control -->
+    <string name="remote_ring_title">بل از راه دور</string>
+    <string name="remote_ring_msg">(%1$s) از کنترل از راه دور است. \n کلیک کنید زیر را فشار دهید برای جلوگیری از</string>
+    <!-- for app manager -->
+    <string name="install_app_tab">نصب شده</string>
+    <string name="install_app_tab_description">تمام برنامه های نصب شده</string>
+    <string name="all_app_tab">همه آن</string>
+    <string name="all_app_tab_description">تمام برنامه های کاربردی</string>
+    <string name="no_application_infos">هیچ برنامه کاربردی</string>
+    <string name="application_manager_menu_title">مدیر برنامه</string>
+    <string name="bluetooth_connect_wrong_message">اتصال بلوتوث شکست خورده، لطفا سعی کنید اتصال!</string>
+    <string name="download_message">بارگذاری، لطفا صبر کنید.</string>
+    <string name="uninstall_dialog_title">لغو نصب</string>
+    <string name="uninstall_dialog_message">می خواهید برنامه حذف شود؟</string>
+    <string name="uninstall_dialog_ok">تایید</string>
+    <string name="uninstall_dialog_cancel">لغو</string>
+    <string name="uninstall_message_send_failed">حذف یک پیام درخواست ارسال ناموفق!</string>
+    <string name="uninstall_toast">لغو نصب، لطفا صبر کنید...</string>
+    <string name="uninstall_success">لغو نصب موفق</string>
+
+    <!-- ime -->
+    <string name="ime_title">روش های ورودی بلوتوث</string>
+    <string name="ime_notice">هنگامی که وارد, کلیک کنید خوب برای ارسال عینک</string>
+    <string name="ime_reconnect">Rewiring</string>
+    <string name="please_input">لطفا مطالب را وارد کنید!</string>
+    <string name="ime_delete">حذف</string>
+
+    <!-- weixin info -->
+    <string name="errcode_success">با موفقیت ارسال</string>
+    <string name="errcode_cancel">لغو فرستادن</string>
+    <string name="errcode_deny">ارسال رد</string>
+    <string name="errcode_unknown">ارسال بازگشت</string>
+    <!-- multimedia process -->
+    <string name="processing">در حال بارگذاری...</string>
+    <string name="error_process">هماهنگ سازی تصویر اصلی انجام نشد!</string>
+    <string name="finish">پایان</string>
+    <string name="media_tip">ویدیو طول می کشد بسیاری از زمان به تأیید همگام سازی همگام سازی?</string>
+    <string name="media_yes">همگام سازی</string>
+    <string name="media_no">اجازه دهید آن</string>	
+    <!-- bluetooth -->
+    <string name="scan">اسکن کد اسکن QR بالا الگوی محدود عینک</string>
+    <string name="binding">دستگاه های محدود</string>
+
+    <string name="device">نام دستگاه:</string>
+    <string name="mac">مک&#160;&#160;&#160;:</string>
+
+    <string name="picture_nofind">تصاویر عینک به یافت نشد در منابع دستگاه</string>
+    <string name="video_nofind">عینک ویدئو به یافت نشد در منابع دستگاه</string>
+    <!-- setting -->
+    <string name="default_click">تنظیمات پیش فرض</string>
+    <string name="time">زمان</string>
+    <string name="message">اس ام اس</string>
+    <string name="media_picture">تصاویر</string>
+    <string name="media_video">ویدیو</string>
+    <string name="position">محل</string>
+    <string name="phone">صوتی موبایل</string>
+    <string name="wifi">فای همگام سازی</string>
+    <string name ="gps">اطلاعات مکان</string>
+    <string name="contact">تماس با ما</string>
+    <string name="screen_control">صفحه کنترل</string>
+    <string name="screen_control_msg">شیشه و کنترل روی صفحه نمایش به اشتراک گذاری</string>
+    <string name="screen_transport_failed">همگام سازی صفحه نمایش شیشه ای شکست خورده، لطفا دوباره</string>
+    <string name="progress">همگام سازی داده ها</string>
+    <string name="reflush">روی نوسازی کلیک کنید</string>
+    <!-- main_menu -->
+    <string name="setting">مجموعه</string>
+    <string name="media">رسانه اکسپلورر</string>
+    <string name="bind_Glass">شیشه ای محدود</string>
+    <string name="glass_photo">تصاویر عینک</string>
+    <string name="glass_video">عینک ویدئو</string>
+    <string name="glass_live">عینک مستقیم بذر</string>
+    <string name="take_photo">عکس ها</string>
+    <string name="take_video">ویدئو/توقف</string>
+    <string name="unbond">بلند کردن اتصال فعلی</string>
+    <!-- <string name="welcome">for Glass</string> -->
+    <!-- <string name="welcome_text">Copyright © 2014 Ingenic.\n All rights reserved.</string> -->
+    <string name="other_bind">هیچ دوربین دیررس میانبر</string>
+    <string name="pho_bind">دوربین سر اتصال</string>
+    <string name="other_bind_info">اتصال کلید شیشه، شما نیاز به عینک خود را در عرض 2 دقیقه پس از شروع عملیات، الزام آور نخواهد بود.</string>
+    <string name="reminder">نکته:</string>
+    <string name="key_binding">جستجو برای دستگاه های بلوتوث</string>
+    <string name="scan_device">دنبال عینک جفت سازی دستگاه</string>
+    <string name="bind_device">موظف است... لطفاً منتظر بمانید</string>
+    <string name="disconnect">اتصال با شکست مواجه، کلیک کنید دوباره امتحان کنید</string>
+    <string name="title_bind">اتصال</string>
+    <string name="title_sync">همگام سازی</string>
+    <string name="title_media">رسانه ها</string>
+    <string name="title_screen">روی صفحه نمایش همان</string>
+    
+    <string name="pair_device">جستجو برای...</string>
+    <string name="no_found_device">دستگاه یافت نمی شود، کلیک کنید دستخورده</string>
+    <string name="name_info">اسکن دستگاه:</string>
+    <string name="address_info">مک آدرس دستگاه:</string>
+    <!-- screen_controller -->	
+    <string name="start">همگام سازی صفحه نمایش</string>
+    <string name="live">ویدئو زنده</string>
+    <string name="controller_info">آغاز همگام سازی شما می توانید تا اسلاید روی صفحه نمایش (پایین، چپ، راست) کلیک کنید، طولانی حرکات روی صفحه نمایش مانند عینک را فشار دهید.</string>
+    <string name="live_controller_info">شروع به زندگی می کنند ویدئویی که می بینید روی صفحه نمایش برای ویدیو فعلی.</string>
+    <!-- video play error toast -->
+    <string name="play_error">نه پیدا کردن برنامه مناسب برای بازی</string>
+
+    <!-- the dialog of live -->
+    <string name="live_ok">حالا برو</string>
+    <string name="live_cancle">خروج زنده</string>
+    <string name="live_open_bt">در حال انتظار برای باز کردن بلوتوث...</string>
+    <string name="live_get_url">دریافت آدرس...</string>
+    <string name="live_loading">گرفتن ویدئو, لطفا صبر کنید...</string>
+    <string name="live_audio_hint">زنده صوتی و نیاز به بستن رسانه های صوتی</string>
+    <string name="live_audio_nosound">زنده خاموش</string>
+    <string name="live_set_audio">برای تنظیم</string>    
+
+    <string name="live_bt_disconnect">عینک تلفن همراه متصل</string>
+    <string name="live_wifi_disconnect">نوری شبکه بی سیم متصل نیست</string>
+    <string name="live_stream_down">ارتباط زنده با شکست مواجه</string>
+    <string name="live_wait_network_data">فقیر از داده های شبکه، بارگذاری...</string>
+    <string name="live_network_disconnect">از دست دادن اتصال شبکه</string>
+
+    <!--the dialog of bluetooth-->
+    <string name="dialog_title">نیاز به اتصال عینک به بلوتوث باز</string>
+    <string name="dialog_ok">حالا برو</string>
+    <string name="dialog_cancle">خروج از برنامه</string>
+    <string name="bluetooth_off">بلوتوث نمی روشن، از چشم نرم افزار دستیار خارج شده اند</string>
+    <string name="bind_timeout">اتصال دستگاه تایم، لطفا جستجو دوباره دستگاه و یا تلاش برای بستن، روشن کردن بلوتوث.</string>
+
+    <!-- weibo -->    
+    <string name="weibo_share_success">توییتر اشتراک</string>
+    <string name="weibo_share_failed">توییتر سهم با شکست مواجه</string>
+    <string name="weibo_share_canceled">لغو اشتراک توییتر</string>
+    <string name="weibo_auth_success">توییتر اجازه انجام شد</string>
+    <string name="weibo_auth_failed">توییتر اجازه انجام نشد</string>
+    <string name="weibo_auth_canceled">لغو اقتدار توییتر</string>
+    <string name="weibo_share_title">ارسال توییت</string>
+ <!-- sync_framework -->
+ <string name="service_msg">خدمات همگام سازی در حال اجراست</string>
+ <string name="fail_addr_mismatch">شیشه ای به دستگاه های دیگر محدود، کراوات راه حل و دوباره سعی کنید!</string>
+ <string name="fail_ver_mismatch">همگام سازی پروتکل نسخه عدم تطابق</string>
+ <string name="fail_unknow">خطای ناشناخته</string>
+	
+ <string name="unbond_st">بی بند و بار</string>
+ <string name="unbond_st_content">سازمان دیده بان همراه با هر دستگاه دیررس است</string>
+ <string name="lost_bond_st">حذف دولت محدود</string>
+ <string name="lost_bond_st_content">تجهیزات دیگر شکسته است و دیررس دستگاه</string>
+ 
+ <string name="other_device_dialog_content">شخص ثالث دستگاه:%1$s برای اتصال به پخش این قبول درخواست?</string>
+
+ <!-- refresh -->
+ <string name="release_refresh">جستجوی آزاد</string>  
+ <string name="pullto_refresh">رها کردن جستجو</string>  
+ <string name="refreshing">جستجو برای دستگاه های بلوتوث</string>  
+
+ <string name="tttt">تازه کردن کشویی</string>  
+ <string name="bbbb">آخرین به روز رسانی</string>  
+
+ <!-- weather -->
+ <string name="weather_tip1">اطلاعات آب و هوایی از تلفن همراه</string>
+ <string name="weather_tip2">اتصال شبکه انجام نشد, لطفا تنظیمات شبکه خود را بررسی کنید</string>
+
+	<!--wifi sync-->
+    <string name="wifi_sync">همگام سازی WLAN</string>
+    <string name="wifisync_summary">پایان WLAN عینک تنظیمات همگام سازی</string>
+    <string name="wifi_connected">عینک پایان WLAN متصل</string>
+    <!--wifi password dialog-->
+    <string name ="wifi_dialog_title">لطفا رمز عبور برای %1$s</string>
+    <string name="wifi_dialog_ok">تایید</string>
+    <string name="wifi_dialog_cancle">لغو</string>
+    <string name ="wifi_open">این گزینه، باز فای</string>
+    <string name="wifi_connect">می توان به نقاط داغ فای متصل می شود</string>
+    <string name="wifi_secured_first_item">نه به تاریخچه فای اسکن <xliff:g id="wifi_security_short">%1$s</xliff:g> </string>
+    <string name ="wifi_free">شما می توانید از WPS</string>
+    <!--wlan sync state-->
+    <string name ="wifi_sync_success">در حال حاضر متصل</string>
+    <string name ="wifi_sync_fail">اتصال انجام نشد</string>
+    <string name ="wifi_syncing">در حال اتصال٪ 1 $ s را ...</string>
+    <string name ="wifi_is_closed">عینک \'WLAN در حال حاضر بسته</string>
+    <string name ="get_wifi_state">گرفتن عینک \'حالت اتصال WLAN ...</string>
+    <string name ="get_wifi_state_timeout">گرفتن عینک \'WLAN ایست حالت اتصال</string>
+    <string name ="wlan_sync_state_title">دولت هماهنگ سازی WLAN</string>
+    <!--dialog tip for close wlan-->
+    <string name ="close_wlan">نزدیک WLAN</string>
+    <string name ="wlan_dialog_tip_title">نوک</string>
+    <string name ="wlan_dialog_tip">گرگ قدرت زمان آماده به کار خواهد شد به طور قابل توجهی پس از اتصال WLAN کاهش می یابد، خاموش کردن آن در زمانی که شما از عملکرد WLAN استفاده نمی</string>
+
+    <string name ="wifi_list_null">نه به تاریخچه فای اسکن</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_none">None</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wpa">WPA PSK</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_eap">802.1x EAP</string>
+<!--add by hky 201507010-->
+	 <string name="hello_world">سلام به دنیا!</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="photo">عکس</string>
+    <string name="video">ویدیو</string>
+    <string name="unbind">بی بند و بار</string>
+    <string name="about_glasses">در شیشه</string>
+    <string name="glasses">آینه جانبی</string>
+    <string name="native_photo_fragment">محلی</string>
+    <string name="native_photo">عکس های محلی</string>
+    <string name="remote_photo">عکس ها سمت آینه</string>
+    <string name="native_video">ویدیو های محلی</string>
+    <string name="remote_video">پایان آینه ویدیو</string>
+    <string name="delete">حذف</string>
+    <string name="wifi_ap_hint">نیاز به عینک دید برای روشن کردن WiFi از ویژگی های کانون</string>
+    <string name="download_notification_title">Coldwave</string>
+    <string name="title_activity_glasses_fragment">GlassesFragmentActivity</string>
+    
+    <string name="vedio_duration">طول قطعه</string>
+    <string name="vedio_duration_summary">انتخاب طول قطعه قطعه ویدیو</string>
+    <string name="media_pixel">قطعنامه</string>
+    <string name="photo_pixel_summary">انتخاب رزولوشن عکس</string>
+    <string name="bluetooth_error">بلوتوث اتصال قطع شده است, لطفا دوباره سعی کنید</string>
+    <string name="update_bluetooth_error">اتصال بلوتوث رفته است، رها ارتقاء.</string>
+    <string name="select_all">انتخاب همه</string>
+    <string name="vedio">ویدیو</string>
+    <string name="volume">دوره رسانه</string>
+    <string name="volume_summary">کنترل صدا برای رسانه های نوری</string>
+    <string name="glass_ssid">عینک داغ SSID</string>
+	<string name="glass_ssid_summary">مجموعه نقاط عینک SSID</string>
+	<string name="glass_ap_pw">عینک داغ رمز عبور</string>
+	<string name="glass_appw_summary">رمز عبور شیشه داغ مجموعه</string>
+	<string name="wifi_ap">نقطه داغ فای</string>
+	<string name="wifi_ap_summary">تغییر نام نقاط فای</string>
+	<string name="wifi_ap_setting">تنظیمات Wifi هات اسپات</string>
+	<string name="empty_ssid">لطفا تاریخچه SSID را وارد کنید</string>
+	<string name="pw_too_short">داغ رمز عبور نباید کمتر از 8 بیت</string>
+	<string name="password">رمز عبور:</string>
+	<string name="ssid">SSID:</string>
+	<string name="live_wifi_ap_hint">زندگی نیاز به فعال کردن قابلیت های فای کانون</string>
+	<string name="waiting_for_glass_connect">انتظار برای دستگاه برای اتصال&#8230;</string>
+	<string name="waiting_for_glass_open_camera">پایان عینک دوربین روشن&#8230;</string>
+    <string name="video_live">شماره گیری مستقیم</string>
+    <string name="bluetooth_phone">بلوتوث تلفن</string>
+    <string name="bluetooth_phone_summary">باز خاموش کردن گوشی، بلوتوث</string>
+    <string name="bluetooth_a2dp">رسانه صوتی</string>
+    <string name="bluetooth_a2dp_summary">خاموش کردن عملکرد بلوتوث موسیقی</string>
+    <string name="close_bluetooth_a2dp">نزدیک رسانه های صوتی</string>
+    <string name="current_power">عینک فعلی برق</string>
+    <string name="low_power">یادآوری ضعیف بودن باتری</string>
+    <string name="low_power_msg">عینک قدرت کم، شارژ لطفا</string>
+    <string name="glass_model">مدل</string>
+    <string name="version_code_summary">camlog V1.0</string>
+    <string name="glass_serial_number">شماره سریال</string>
+    <string name="serial_number_summary">ABCD123456789</string>
+    <string name="glass_power">عینک قدرت</string>
+    <string name="power_summary">وضعیت باتری می شود&#8230;</string>
+    <string name="glass_storage">ذخیره سازی شیشه ای</string>
+    <string name="storage_summary">ذخیره سازی فعلی دولت می شود&#8230;</string>
+    <string name="about_glass">در شیشه</string>
+    <string name="round_video">سوابق رانندگی</string>
+    <string name="round_video_summary">روشن/خاموش ترافیک حالت ضبط</string>
+    <string name="start_live">باز</string>
+    <string name="stop_live">بس کن</string>
+    <string name="turn_wifi_ap_on_now">در حال حاضر باز</string>
+    <string name="turn_wifi_ap_on">باز به نقاط فای</string>
+    <string name="turning_wifi_ap_on">باز نقاط داغ موبایل&#8230;</string>
+    <string name="wait_device_connect">منتظر اتصال نوری&#8230;</string>
+    <string name="get_file_list">دانلود لیست رسانه&#8230;</string>
+    <string name="connect_error">خطا در اتصال</string>
+    <string name="deleting">حذف&#8230;</string>
+    <string name="delete_ok">با موفقیت حذف</string>
+    <string name="turning_bluetoothheadset_on">باز&#8230;</string>
+    <string name="turning_bluetoothheadset_off">بستن&#8230;</string>
+    <string name="bluetooth_finded_devices">دستگاه connectable</string>
+    <string name="welcome_use_camlog">خوش آمدید به گرگ</string>
+    <string name="serching_camlog">عینک جستجو&#8230;</string>
+    <string name="bind_camlog">شیشه ای محدود</string>
+    <string name="rebind_camlog">Rebinding</string>
+    <string name="binding_camlog">شیشه ای محدود&#8230;</string>
+    <string name="camlog_comment">1. مطمئن شوید که عینک در مجاورت و روشن است. \n\n 2. نرم افزار به صورت خودکار متصل می شود سیگنال قوی ترین عینک. \n\n 3. عینک برای دیگر گوشی های تلفن همراه موظف هستند مطمئن شوید. \n\n 4. اگر اتصال بیش از یک بار نتواند، سعی کنید لیوان یا بلوتوث به گوشی راه اندازی مجدد.</string>
+    <string name="sync_time">هماهنگی زمان</string>
+    <string name="sync_contact">تماس با ما همگام سازی</string>
+    <string name="sync_contact_to_glass">روشن/خاموش همگام سازی مخاطبین به عینک</string>
+    <string name="sync_contact_success">تماس با ما به عینک همگام سازی می شوند</string>
+    <string name="sync_contact_fail">همگام سازی مخاطبین به عینک نشد</string>
+    <string name="syncing_contact">همگام سازی&#8230;</string>
+    <string name="no_read_contact_permission">لطفا روشن دارای مجوزهای خواندن تماس</string>
+    <string name="sync_phone_time_to_glass">روشن/خاموش تلفن همگام سازی</string>
+    <string name="get_glass_data_fail">دریافت داده نشد, لطفا دوباره سعی کنید</string>
+    <string name="glass_cpu">پردازنده</string>
+    <string name="glass_ram">رم</string>
+    <string name="glass_up_time">زمان در حال اجرا</string>
+    <string name="up_time_summary">زمان اجرا شدن&#8230;</string>
+    <string name="glass_version">نسخهٔ شیشه ای</string>
+    <string name="get_power_timeout">فاصله قدرت می شود</string>
+    <string name="get_storage_timeout">مهلت ذخیره شده دولت می شود</string>
+    <string name="get_uptime_timeout">فراتر رفتن از زمان اجرا می شود</string>
+    <string name="get_state_timeout">گرفتن وضعیت شیشه ایست</string>
+    <string name="download_task_running">کارهای برجسته وجود دارد</string>
+    <string name="video_sync_start">"فیلم شروع همگام سازی"</string>
+    <string name="photo_sync_start">"شروع همگامی عکس"</string>
+    <string name="syncing_photos">همگام سازی عکس ها(%1$d/%2$d)&#8230;</string>
+    <string name="sync_media_done">پایان همگام سازی (%1$d کامل،%2$d شکست)</string>
+    <string name="syncing_videos">ویدئو همگام سازی (%1$d/%2$d)&#8230;</string>
+    <string name="start_sync_photos">شروع همگام سازی عکس</string>
+    <string name="start_sync_videos">شروع همگام سازی ویدیو</string>
+    <string name="syncing_photos_done">تصویر پایان همگام سازی</string>
+    <string name="syncing_videos_done">فیلم پایان همگام سازی</string>
+    <string name="share">سهم</string>
+    <string name="sync_to_play">پس از دانلود بازی محلی</string>
+    <string name="delete_fail_count">عدم موفقیت در حذف پرونده %1$d</string>
+    <string name="media_downloaded">دانلود</string>
+    <string name="media_path">مسیر پرونده داخلی</string>
+    <string name="media_path_summary">SD卡/SmartGlasses/</string>
+    <string name="glass_state">عینک</string>
+    <string name="glass_state_summary">گرفتن عینک&#8230;</string>
+    <string name="turn_wifi_ap_off">تمرکز بستن</string>
+    <string name="wifi_ap_hint_off">بستن نقاط داغ موبایل و روشن کردن WiFi</string>
+    <string name="delete_message">شما می خواهید به حذف محتوای انتخاب شده</string>
+    <string name="scan_qrcode_hint">اسکن QR کد</string>
+    <string name="scan_qrcode">کد دو بعدی را در جعبه آن به طور خودکار اسکن</string>
+    <string name="not_camlog_glass">بدون عینک در بر داشت</string>
+    <string name="search_bind">جستجوی دیررس</string>
+    <string name="qr_bind">QR کد محدود</string>
+    <string name="scan_device_timeout">بدون عینک در بر داشت</string>
+    <string name="bind_fail">اتصال انجام نشد</string>
+    <string name="bluetooth_paring">تطبیق&#8230;</string>
+    <string name="operation_timeout">عملیات زمان بندی شده</string>
+    <string name="msg_camera_framework_bug">عدم موفقیت در باز کردن دوربین، چک کنید اگر ممنوع است با استفاده از مجوز دوربین.</string>
+    	<string name="user_guide"	>دستورالعمل</string>
+    	<string name="user_guide_summary">کلیک کنید برای مشاهده دستورالعمل عینک</string>
+    	<string name="no_available_player">پلیر موجود یافت نشد لطفا استفاده از باز کردن گالری</string>
+    	<string name="app_version">نسخه نرم افزار</string>
+    	<string name="unbonding">راه حل اتصال&#8230;</string>
+		<string name="language">تنظیمات زبان</string>
+	   <string name="language_summary">مجموعه پایان عینک زبان</string>
+	   <string name="language_zh">چینی</string>
+	   <string name="language_us">انگلیسی</string>
+    	<string name="camlog_photo">تصاویر&#160;&#160;عینک</string>
+    	<string name="camlog_video">عینک &#160; ویدئو</string>
+    	<string name="camlog_live">عینک&#160;مستقیم&#160;بذر</string>
+    	<string name="camlog_setting">مجموعه از &#160;&#160;عینک</string>
+    	<string name="camlog_about">در&#160;&#160; شیشه</string>
+    	<string name="camlog_unbind">شیشه&#160;&#160;بالابر</string>
+    		<string name="camlog_power_state">عینک ظرفیت های فعلی:%1$d</string>
+    	<string name="camlog_storage_state">کل:%1$.0fGB,استفاده:%2$.2fGB,در دسترس:%3$s</string>
+    	<string name="camlog_on_time_hour">عینک شده اند در حال اجرا %1$d ساعت %2$d دقیقه %3$d ثانیه</string>
+			<string name="camlog_on_time_minute">عینک برای %1$d دقیقه و %2$d ثانیه اجرا شده</string>
+			<string name="camlog_on_time_second">عینک برای %1$d ثانیه اجرا شده</string>
+			<string name="camlog_video_state_hour">ویدیو (%1$d ساعت, %2$d دقیقه و %3$d ثانیه)</string>
+			<string name="camlog_video_state_minute">ویدیو (%1$d دقیقه و %2$d ثانیه)</string>
+			<string name="camlog_video_state_second">ویدیو (%1$d ثانیه)</string>
+			<string name="updates_note">\n شیشه سمت برنامه شناسایی بروز رسانی, بروز رسانی. \n\n توجه داشته باشید: به روز رسانی برنامه جانبی عینک نیاز به WiFi شبکه. \n</string>
+			<string name="update_now">اکنون به روز رسانی شود</string>
+			<string name="update_later">بحث در مورد آن بعدا</string>
+			<string name="config_wifi">راه اندازی Wifi</string>
+			<string name="ssid_hint">نام فای موجود</string>
+			<string name="pw_hint">رمز عبور فای</string>
+			<string name="cancel_update">را به روز رسانی</string>
+			<string name="camlog_update">ارتقاء شیشه ای</string>
+			<string name="update_try_connect_wifi">تلاش برای اتصال فای.</string>
+			<string name="update_connect_wifi_timeout">سعی کنید برای اتصال به WiFi ایست، ارتقاء داده شده رها.</string>
+			<string name="update_start_download">شروع دانلود بسته ارتقا&#8230;</string>
+			<string name="update_download_progress">دانلود بسته ارتقاء:</string>
+			<string name="update_donwload_error">دانلود بسته ارتقا شکست، رها ارتقاء.</string>
+			<string name="update_invalid_package">ارتقاء غیرمعتبر بسته، ارتقاء داده شده رها.</string>
+			<string name="update_start">دانلود کامل، شروع به ارتقاء داده شده. (مانند شکست خورده، لطفا عینک راه اندازی مجدد)</string>
+			<string name="update_success">عینک ارتقاء موفق، سیستم به روز شده است.</string>
+			<string name="update_fail">ارتقاء کامل ندارد و سیستم به حالت قبل از ارتقاء بازگردانده است.</string>
+			<string name="update_power_shortage">کم قدرت، ارتقا دهد.</string>
+			<string name="update_storage_shortage">فضا را ارتقا.</string>
+			<string name="delete_error">حذف انجام نشد</string>
+			<string name="new_app_version">نسخه به روز رسانی</string>
+			<string name="new_version_comment">1. رفع اشکالات شناخته شده\n2. بهینه سازی نرم افزار</string>
+			<string name ="water_mark">تعیین میزان مد آب اثر</string>
+			<string name ="pic_water_mark">افزودن جلوه ته نقش عکس</string>
+			<string name ="video_water_mark">افزودن جلوه های تعیین میزان مد آب</string>
+			<string name="water_mark_summary">افزودن جلوه چاپسفیدیاسایهدارکردن عینک سمت تصویر/ویدئو</string>
+			<string name="delete_progress">از بین بردن...(%1$d/%2$d)</string>
+			<string name ="live_audio">صوتی زندگی می کنند</string>
+			<string name="live_audio_summary">انتخاب کنید که آیا به پخش صوتی</string>
+
+			<string name ="voice_recog">تشخیص صدا</string>
+			<string name="voice_recog_summary">انتخاب کنید که آیا برای باز کردن تشخیص صدا</string>
+			<string name="turn_off_bluetooth_a2dp">نزدیک رسانه های صوتی که زندگی می کنند</string>
+			<!-- remote camera live -->
+			<string name="remote_live_uuid">UID</string>
+			<string name="remote_live_pwd">رمز عبور</string>
+			<string name="low_clearity">SD(برای 500kbps پهنای باند)</string>
+			<string name="standard_clearity">HD(برای 1mbps پهنای باند)</string>
+			<string name="high_clearity">فوق العاده روشن(برای 2mbps در پهنای باند)</string>
+			<string name="remote_live_login">شروع زنده</string>
+			<string name="remote_live_newpwd">لطفا رمز عبور جدید را وارد کنید و تغییر زندگی می کنند توسط</string>
+			<string name="remote_live_modify_password">تغییر رمز عبور</string>
+			<string name="remote_live_cancel_modify_password">تغییرات را لغو</string>
+			<string name="remote_live">زنده از راه دور</string>
+			<string name="native_live">من زندگی می کنند محلی</string>
+			<string name="btn_bind_glass">اتصال عینک</string>
+			<string name="remote_live_msg_check_uid">تأیید به شماره سریال دستگاه و رمز عبور</string>
+			<string name="remote_live_msg_get_data">تأیید به شماره سریال دستگاه و رمز عبور</string>
+			<string name="remote_live_error_get_data">برای بارگذاری داده ها شکست خورده، لطفا بعدا دوباره امتحان</string>
+			<string name="remote_live_error_get_data_timeout">بار شبکه شکست خورده، لطفا دوباره امتحان کنید</string>
+			<string name="remote_live_error_check_uid">شماره سریال دستگاه و یا رمز عبور اشتباه است</string>
+			<string name="remote_live_error_max_seesion">تجهیزات پخش از حد رسیده اند، لطفا بعدا دوباره امتحان</string>
+			<string name="remote_live_error_get_videodata_failed">دریافت اطلاعات ویدیو شکست خورده، لطفا دوباره امتحان کنید</string>
+			<string name="remote_live_error_close_by_remote">عینک پایان خارج زنده</string>
+			<string name="remote_live_error_check_pwd">چک رمز عبور شکست خورده، لطفا دوباره سعی کنید اعلام می</string>
+			<string name="remote_live_error_speaker_failed">شکست دستگاه مخابره داخل ساختمان صدای</string>
+			<string name="remote_live_error_device_offline">هیچ دستگاهی پیدا نشد اینترنتی، لطفا بعدا دوباره امتحان</string>
+			<string name="remote_live_error_record_too_short">زمان مکالمه خیلی کوتاه است</string>
+			<string name="remote_live_error_videorecord_too_short">زمان ضبط بیش از حد کوتاه است</string>
+			<string name="remote_live_no_network">بررسی اتصال شبکه خود را و دوباره سعی کنید</string>
+			<string name="remote_live_no_uid">لطفا دستگاه درست شماره سریال را وارد کنید</string>
+			<string name="remote_live_no_pwd">لطفا رمز عبور صحیح را وارد کنید</string>
+			  <string name="remote_live_old_pwd">رمز عبور قدیمی</string>
+			  <string name="remote_live_new_pwd">رمز عبور جدید</string>
+			  <string name="remote_live_new_pwd_ensure">مجددا</string>
+			  <string name="remote_live_ensure_modify">اعلام تغییرات</string>
+			  <string name="remote_live_reset_password">بازیابی رمز عبور</string>
+			  <string name="remote_live_modifying_pwd">اصلاح</string>
+			  <string name="remote_live_modify_error">اصلاح نتواند</string>
+			  <string name="remote_live_modify_success">موفقیت اصلاح شده</string>
+			  <string name="remote_live_pwd_inconsistent">رمزهای عبور یکسان نیست، لطفا دوباره وارد کنید.</string>
+			  <string name="remote_live_use_mobile_data">ما با استفاده از داده های شبکه تلفن همراه</string>
+			  <string name="remote_live_verify_pwd_error">کلمه عبور اصلی صحیح نمی باشد، لطفا دوباره امتحان کنید.</string>
+			  <string name="remote_live_nickname">کنیه</string>
+			  <string name="remote_live_history">تاریخ</string>
+			  <string name="remote_live_clear_history">پاک کردن تاریخچه</string>
+			  <string name="remote_live_video_record_fail">شکست ضبط</string>
+			  <string name="remote_live_video_save_fail">شکست حافظه تصویری</string>
+			  <string name="video_file_name_format" translatable="false">"'LIVE_VID'_yyyyMMdd_HHmmss"</string>
+			  <string name="timer_format_minute" translatable="false"><xliff:g id="format">%02d:%02d</xliff:g></string>
+			  <string name="timer_format_hour" translatable="false"><xliff:g id="format">%02d:%02d:%02d</xliff:g></string>
+			  <string name="remote_live_no_name">لطفا یک نام مستعار وارد کنید</string>
+			  <string name="remote_live_uid_vertify_fail">تایید می افتد، وارد کردن شماره سریال درستUID</string>
+  <string name="sync_phone_wifi_hotspot">همگام داغ</string>
+  <string name="sync_phone_wifi_hotspot_success">اتصال موفقیت آمیز باشد</string>	
+  <string name="glass_connect_phone_hotspot_success">اتصال گوشی عینک کانون موفقیت خود را</string>
+    <string name="login">Enter now</string>
+    <string name="reset">Reset</string>
+    <string name="rotate">Rotate</string>
+    <string name="vertical">seesaw</string>
+    <string name="horizontally">horizontal</string>
+</resources>

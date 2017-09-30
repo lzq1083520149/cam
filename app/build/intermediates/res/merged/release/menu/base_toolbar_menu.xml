@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_filter"
+        android:title="@string/filter"
+        />
+    <item android:id="@+id/action_wrap"
+        android:title="@string/deform"
+        />
+    <item android:id="@+id/action_frame"
+        android:title="@string/frame"
+        />
+    <item android:id="@+id/action_draw"
+        android:title="@string/fraffiti"
+        />
+    <item android:id="@+id/action_mosaic"
+        android:title="@string/mosaic"
+        />
+    <item android:id="@+id/action_crop"
+        android:title="@string/cut"
+        />
+    <item android:id="@+id/action_addwm"
+        android:title="@string/watermark"
+        />
+    <item android:id="@+id/action_enchance"
+        android:title="@string/enhancement"
+        />
+    <item android:id="@+id/action_rotate"
+        android:title="@string/rotate"
+        />
+    <item android:id="@+id/action_addtv"
+        android:title="@string/addtext"
+        />
+
+</menu>

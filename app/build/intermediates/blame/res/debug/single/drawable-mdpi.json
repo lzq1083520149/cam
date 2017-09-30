@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\remotelive.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-mdpi\\remotelive.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_download.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-mdpi\\ic_download.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\show_pwd.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\show_pwd.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bdp_update_logo.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-mdpi\\bdp_update_logo.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_qr_code.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_qr_code.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_glass.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-mdpi\\ic_glass.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button_login_delete.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\button_login_delete.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_download_ntf.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-mdpi\\ic_download_ntf.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_delete.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_share.png",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\drawable-mdpi\\ic_share.png"
+    }
+]

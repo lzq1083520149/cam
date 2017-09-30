@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    		android:id="@+id/welcome_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/welcome"
+    android:orientation="vertical" >
+
+	<!--<ImageView-->
+		<!--android:layout_width="120dp"-->
+		<!--android:layout_height="120dp"-->
+		<!--android:layout_marginTop="50dp"-->
+		<!--android:layout_gravity="center"-->
+		<!--android:src="@drawable/welcome_icon"/>-->
+
+	<!--<TextView-->
+		<!--android:layout_width="match_parent"-->
+		<!--android:layout_height="wrap_content"-->
+		<!--android:text="睐虫智能眼镜"-->
+		<!--android:layout_margin="10dp"-->
+		<!--android:gravity="center"-->
+		<!--android:textSize="20sp"-->
+		<!--android:textColor="@color/white"/>-->
+
+</LinearLayout>

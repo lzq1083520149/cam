@@ -1,0 +1,724 @@
+<resources xmlns:tools="http://schemas.android.com/tools" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" tools:ignore="MissingTranslation">
+    <string name="app_name">CamlogLive</string>
+    <string name="app_label">CamlogLive</string>
+    <string name="bond">bind</string>
+    <string name="pair">Paired</string>
+    <string name="pair_fail">Bluetooth/n/n pairing failed</string>
+    <string name="pair_success">Matching success</string>
+    <string name="bond_message">bind the device %1$s ?</string>
+    <string name="open_bt">open bluetooth</string>
+    <string name="bluetooth_preference_paired_devices">can bonded device</string>
+    <string name="bluetooth_preference_devices">available devices(click to pair)</string>
+    <string name="bluetooth_pairing">"Pairing with Camlog &#8230;"</string>
+    <!-- state of call, -->
+    <string name="idle">idle</string>
+    <string name="accepting">accepting</string>
+    <string name="ring">ring</string>
+    <string name="offhook">offhook</string>
+    <string name="disconnecting">disconnecting</string>
+
+    <!-- for ota update -->
+    <string name="current_version">current version:</string>
+    <string name="latest_version">latest version:</string>
+    <string name="firstly"> 1 .</string>
+    <string name="check_update">check update</string>
+    <string name="check_update_error">Check for update failed</string>
+    <string name="secondly">2 .</string>
+    <string name="download">Download</string>
+    <string name="thirdly">3 .</string>
+    <string name="run_update">update now</string>
+    <string name="not_need_update">your version is latest, need no update</string>
+    <string name="checking_update">checking update . . .</string>
+    <string name="download_title">OTA update</string>
+    <string name="download_description">Download file for OTA update</string>
+    <string name="read_me">------------------------------------\n
+        Notices: \n
+        1. need a SD card;\n
+        2. need a network conntection;(WLAN preferred)\n
+        3. maybe you need to reboot after download successly.\n
+        ------------------------------------\n</string> <!--  -->
+
+    <string name="check_now">Check now</string>
+    <string name="get_watch_failed">failed to get information of watch \n please check bluetooth connection with wath </string>
+    <string name="scheduled_check">Scheduled check</string>
+    <string name="software_updates">Software updates</string>
+    <string name="later">Later</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="install">Install</string>
+    <string name="abandon">Abandon</string>
+    <string name="sync_failed">Sync failed!</string>
+    <string name="already_latest_version">This is already the latest version!</string>
+    <string name="no_rollback_version">no version to back!</string>
+    <string name="checking">Checking&#8230;</string>
+    <string name="version_back">version back</string>
+    <string name="product">product : </string>
+    <string name="android_version">Android version: </string>
+    <string name="system_version">system version：</string>
+    <string name="update_to_version">update to version: %s</string>
+    <string name="rollback_to_version">back to version: %s</string>
+    <string name="current_version_ps">current version</string>
+    <string name="please_choose_version">choose a version</string>
+    <string name="please_wait_moment">Please wait a moment</string>
+
+    <!-- update download -->
+    <string name="downloading">Download task is running.Please wait &#8230;</string>
+    <string name="download_any_data">Download via any available data connection</string>
+    <string name="download_only_wifi">Download via Wi-Fi only</string>
+    <string name="version">Version:</string>
+    <string name="size">Size:%s bytes</string>
+    <string name="description">Description:</string>
+    <string name="network_not_avaliable">Network not available!</string>
+
+    <!-- update install -->
+    <string name="sdcard_not_avaliable">SD card not available!</string>
+    <string name="get_watch_info">getting watch information</string>
+    <string name="install_alerting">you must keep power on,when updating </string>
+    <string name="install_notices">please backup your datas, such as contacts,sms,call log,etc</string>
+    <string name="update_later_msg">click to update</string>
+    <string name="exit_title">update later</string>
+    <string name="exit_message">you can update from status bar any time</string>
+    <string name="check_file_failed">file check failed, please Re-Download </string>
+
+    <!-- mode settings -->
+    <string-array name="mode_entries">
+        <item>save power mode</item>
+        <item>realtime mode</item>
+    </string-array>
+    <string-array name="mode_entry_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <!-- System -->
+    <string name="bond_request">Bond Request</string>
+    <string name="bond_request_message">Bond with %1$s?</string>
+    <string name="notification_title_settings">Timeout Notification</string>
+    <string name="notification_summary_settings">Enable/disable Timeout Notification</string>
+    <string name="timout_noti_title">IndroidSync Timeout</string>
+    <string name="timout_noti_content">IndroidSync running without Bluetooth connectivity ability for a long time</string>
+    <string name="time_noti_ticker">IndroidSync disable auto connect</string>
+    <string name="retry_connect">reconnect&#8230;</string>
+    <string name="retry_connect_success">reconnect success</string>
+    <string name="retry_connect_failed">reconnect failed</string>
+    <string name="retry_connect_failed_with_no_address">Lost remote device</string>
+
+    <!-- remote control -->
+    <string name="remote_ring_title">remote ring</string>
+    <string name="remote_ring_msg">command coming from ( %1$s ) .\nclick button below to stop.</string>
+    <!-- ime -->
+    <string name="ime_title">Sync IME</string>
+    <string name="ime_notice">click OK to send to watch</string>
+    <string name="ime_reconnect">reconnect</string>
+    <string name="ime_delete">delete</string>
+    <string name="please_input">Input content please!</string>
+    <!-- strings for Contacts(new) -->
+    <string name="contactslite_midtable_authority">contactslite.mid-src</string>
+    <!-- for app manager -->
+    <string name="install_app_tab">Install</string>
+    <string name="install_app_tab_description">All installed applications</string>
+    <string name="all_app_tab">All</string>
+    <string name="all_app_tab_description">All applications</string>
+    <string name="no_application_infos">No Applications</string>
+    <string name="application_manager_menu_title">Watch application manager</string>
+    <string name="bluetooth_connect_wrong_message">Bluetooth connected Failed , try again please!</string>
+    <string name="download_message">Downloading wait please !</string>
+    <string name="uninstall_dialog_title">Uninstall</string>
+    <string name="uninstall_dialog_message">Do you want uninstall this application ?</string>
+    <string name="uninstall_dialog_ok">OK</string>
+    <string name="uninstall_dialog_cancel">Cancel</string>
+    <string name="uninstall_message_send_failed">Uninstall message send failed !</string>
+    <string name="uninstall_toast">Uninstalling&#8230;</string>
+    <string name="uninstall_success">Uninstall seccess</string>
+
+    <!-- weixin info -->
+    <string name="errcode_success">send success</string>
+    <string name="errcode_cancel">send cancel</string>
+    <string name="errcode_deny">send deny</string>
+    <string name="errcode_unknown">send unknown</string>
+
+    <!-- multimedia process -->
+    <string name="processing">processing,wait please!</string>
+    <string name="error_process">original file no find!</string>
+    <string name="media_tip">Synchronous video requires a lot of time, confirm synchronization?</string>
+    <string name="media_yes">Yes</string>
+    <string name="media_no">No</string>
+    <!-- bluetooth -->
+    <string name="scan">Two dimensional code using the Glass sweep of the above binding equipment</string>
+    <string name="binding">Bonded devices</string>
+    <string name="my_text">My Qrcode</string>
+    <string name="device">Device: </string>
+    <string name="mac">MAC &#160;&#160;&#160;:</string>
+    <string name="picture_nofind">no find pictures about glass</string>
+    <string name="video_nofind">no find videos about glass</string>
+    <!-- setting -->
+    <string name="default_click">Default settings</string>
+    <string name="time">Time</string>
+    <string name="message">Message</string>
+    <string name="media_picture">Picture</string>
+    <string name="media_video">Video</string>
+    <string name="position">geographical</string>
+    <string name="phone">Mobile phone audio</string>
+    <string name="wifi">WIFI synchronization</string>
+    <string name="gps">Position Information</string>
+    <string name="contact">Contacts</string>
+    <string name="screen_control">Glass screen controller</string>
+    <string name="progress">Synchronizing data</string>
+    <string name="reflush">Click to refresh</string>
+
+    <!--seeting toast-->
+    <string name="sms_send_fail">Message data sync fail</string>
+    <string name="contact_send_fail">Contact data sync fail</string>
+    <string name="screen_control_msg">Share screen from glass and control it</string>
+    <string name="screen_transport_failed">Glass transport data failed, exit then try again </string>
+    <string name="wifi_off">Wifi sync requires wifi opened and connected</string>
+    <!-- screen_controller -->
+    <string name="controller_info">You can slide up(down,left,right), click, long press to control screen from glass.</string>
+    <string name="live_controller_info">You will see glass screen while starting live</string>
+    <string name="start">Start to experience</string>
+    <string name="live">Camera live to experience</string>
+    <!-- main_menu -->
+    <string name="setting">Settings</string>
+    <string name="media">Media browser</string>
+    <string name="bind_Glass">Binding of glasses</string>
+    <string name="unbond">Ubinding</string>
+    <string name="glass_photo">Photos</string>
+    <string name="glass_video">Videos</string>
+    <string name="glass_live">Live</string>
+    <string name="take_photo">take photo</string>
+    <string name="take_video">video/stop</string>
+    <string name="finish">Finish</string>
+    <string name="other_bind">No camera shortcut binding</string>
+    <string name="pho_bind">camera binding</string>
+    <string name="other_bind_info">A key binding glasses, you need glasses start after 2 minutes in operation, otherwise the binding will not be carried out    </string>
+    <string name="reminder">Reminder:</string>
+    <string name="key_binding">Scanning equipment</string>
+    <string name="scan_device">Find glasses equipment are matched</string>
+    <string name="bind_device">Binding is&#8230;, please try later</string>
+    <string name="disconnect">Bind failed, click Retry</string>
+    <string name="title_bind">Bind</string>
+    <string name="title_sync">Sync</string>
+    <string name="title_media">Media</string>
+    <string name="title_screen">Screen</string>
+    <string name="pair_device">Are the search&#8230;</string>
+    <string name="no_found_device">Not found the equipment, click rescan</string>
+    <string name="name_info">Have been scanned to equipment:</string>
+    <string name="address_info">Equipment MAC address:</string>
+    <!-- video play error toast -->
+    <string name="play_error">Did not find the appropriate application of play </string>
+
+    <!-- the dialog of live -->
+    <string name="live_ok">Now</string>
+    <string name="live_cancle">Exit</string>
+    <string name="live_open_bt">Enable BT, waiting&#8230;</string>
+    <string name="live_get_url">Getting live URL, waiting&#8230;</string>
+    <string name="live_loading">Getting Video, waiting&#8230;</string>
+    <string name="live_audio_hint">Live audio and needs to close Media Audio</string>
+    <string name="play_audio_hint">Needs to close Media Audio</string>
+    <string name="live_audio_nosound">Silent live</string>
+    <string name="live_set_audio">To set</string>
+
+    <string name="live_bt_disconnect">glass has not connected phone yet</string>
+    <string name="live_wifi_disconnect">glass wifi disconnect</string>
+    <string name="live_stream_down">Live connect failed</string>
+    <string name="live_wait_network_data">Network is poor, data loading &#8230;</string>
+    <string name="live_network_disconnect">Network disconnect</string>
+
+    <!--the dialog of bluetooth-->
+    <string name="dialog_title">Binding the glass need to open the Bluetooth</string>
+    <string name="dialog_ok">Now</string>
+    <string name="dialog_cancle">Exit</string>
+    <string name="bluetooth_off">Bluetooth is off, has quit the Glass Aide application</string>
+    <string name="bind_timeout">Binding device timeout, please research glass</string>
+
+    <!-- weibo -->
+    <string name="weibo_share_success">Share successfully</string>
+    <string name="weibo_share_failed">Share failed</string>
+    <string name="weibo_share_canceled">Share Canceled</string>
+    <string name="weibo_auth_success">Authorize successfully</string>
+    <string name="weibo_auth_failed">Authorize failed</string>
+    <string name="weibo_auth_canceled">Authorize Canceled</string>
+    <string name="weibo_share_title">Sending content to sina</string>
+    <!-- sync_framework -->
+    <string name="service_msg">Sync service is running</string>
+    <string name="fail_addr_mismatch">Glass has bonded other Device.Try again after Disbond</string>
+    <string name="fail_ver_mismatch">Sync Protocol version mismatch</string>
+    <string name="fail_unknow">Unknow error</string>
+
+    <string name="unbond_st">Unbond status</string>
+    <string name="unbond_st_content">Watch have not any Bond device</string>
+    <string name="lost_bond_st">Lost Bond Status</string>
+    <string name="lost_bond_st_content">This device had lost bond status with remote watch</string>
+
+    <string name="other_device_dialog_content">Third Party Device:%1$s requesting to bond with this watch, accept it?</string>
+
+    <!-- refresh -->
+    <string name="release_refresh">release</string>
+    <string name="pullto_refresh">pull to</string>
+    <string name="refreshing">scaning…</string>
+
+    <string name="tttt">pull-down refresh</string>
+    <string name="bbbb">last update</string>
+
+    <!-- weather -->
+    <string name="weather_tip1">Is get the weather information from mobile phone</string>
+    <string name="weather_tip2">The weather get failure,please make sure that wifi is available</string>
+    <string name="weather_tip3">The weather to be successful</string>
+
+    <!-- state of camera -->
+    <string name="camera_state">The camera is being used</string>
+
+    <!--wifi sync-->
+    <string name="wifi_sync">Sync with WLAN</string>
+    <string name="wifisync_summary">Sync glasses\'WLAN information</string>
+    <string name="wifi_connected">Glasses\'WLAN connected</string>
+    <string name="wifi_scaning">Scanning near WiFi</string>
+    <!--wifi password dialog-->
+    <string name="wifi_dialog_title">Please input %1$s password</string>
+    <string name="wifi_dialog_ok">OK</string>
+    <string name="wifi_dialog_cancle">Cancle</string>
+    <string name="wifi_open">wifi</string>
+    <string name="wifi_connect">Can be connected wi-fi hotspots</string>
+    <!-- Substring of wifi status for wifi with authentication.  This version is for when the
+	 string is first in the list (titlecase in english) -->
+    <string name="wifi_secured_first_item">Secured with <xliff:g id="wifi_security_short">%1$s</xliff:g></string>
+    <string name="wifi_free">The WPS can be used</string>
+    <!--wlan sync state-->
+    <string name="wifi_sync_success"> connected</string>
+    <string name="wifi_sync_fail">Connect failed</string>
+    <string name="wifi_syncing">Is connecting %1$s&#8230;</string>
+    <string name="wifi_is_closed">Glasses\'WLAN is already closed</string>
+    <string name="get_wifi_state">Getting Glasses\'WLAN connection state&#8230;</string>
+    <string name="get_wifi_state_timeout">Getting Glasses\'WLAN connection state timeout</string>
+    <string name="wlan_sync_state_title">WLAN synchronization state</string>
+    <!--dialog tip for close wlan-->
+    <string name="close_wlan">Close WLAN</string>
+    <string name="wlan_dialog_tip_title">Tip</string>
+    <string name="wlan_dialog_tip">Glasses standby time will be significantly reduced after connecting WLAN, turn off it in time When you do not use the WLAN function</string>
+
+    <string name="wifi_list_null">No wi-fi hotspots nearby</string>
+    <!-- wifi security-->
+    <!-- Do not translate.  Concise terminology for wifi with WEP security -->
+    <string name="wifi_security_short_wep">WEP</string>
+    <!-- Do not translate.  Concise terminology for wifi with WPA security -->
+    <string name="wifi_security_short_wpa">WPA</string>
+    <!-- Do not translate.  Concise terminology for wifi with WPA2 security -->
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <!-- Do not translate.  Concise terminology for wifi with both WPA/WPA2 security -->
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <!-- Do not translate.  Concise terminology for wifi with unknown PSK type -->
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <!-- Do not translate.  Concise terminology for wifi with 802.1x EAP security -->
+    <string name="wifi_security_short_eap">802.1x</string>
+    <!-- Used in Wi-Fi settings dialogs when Wi-Fi does not have any security. -->
+    <string name="wifi_security_none">None</string>
+    <!-- Do not translate.  Terminology for wifi with WEP security -->
+    <string name="wifi_security_wep">WEP</string>
+    <!-- Do not translate.  Terminology for wifi with WPA security -->
+    <string name="wifi_security_wpa">WPA PSK</string>
+    <!-- Do not translate.  Terminology for wifi with WPA2 security -->
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <!-- Do not translate.  Terminology for wifi with both WPA/WPA2 security, or unknown -->
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <!-- Do not translate.  Terminology for wifi with unknown PSK type -->
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <!-- Do not translate.  Concise terminology for wifi with 802.1x EAP security -->
+    <string name="wifi_security_eap">802.1x EAP</string>
+
+    <!--add by hky 201507010-->
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="photo">Photos</string>
+    <string name="video">Videos</string>
+    <string name="unbind">Unbind</string>
+    <string name="unbind_dialog">Unbind?</string>
+    <string name="about_glasses">About Glasses</string>
+    <string name="glasses">Glasses End</string>
+    <string name="native_photo_fragment">Local</string>
+    <string name="native_photo">Local Photos</string>
+    <string name="remote_photo">Photos</string>
+    <string name="native_video">Local Videos</string>
+    <string name="remote_video">Videos</string>
+    <string name="delete">Delete</string>
+    <string name="wifi_ap_hint">Scan glasses media need to turn hotspot on</string>
+    <string name="download_notification_title">Coldwave</string>
+    <string name="title_activity_glasses_fragment">GlassesFragmentActivity</string>
+
+    <string name="vedio_duration">Fragment Duration</string>
+    <string name="vedio_duration_summary">Video Clip Duration</string>
+    <string name="media_pixel">Pixel</string>
+    <string name="photo_pixel_summary">Choose photo pixel</string>
+    <string name="bluetooth_error">Bluetooth connection interrupt ,Try again</string>
+    <string name="update_bluetooth_error">Bluetooth connection interrupt,Give up update.</string>
+    <string name="select_all">All</string>
+    <string name="vedio">Video</string>
+    <string name="volume">Media Volume</string>
+    <string name="volume_summary">Control glasses media volume</string>
+    <string name="glass_ssid">hotspot ssid</string>
+    <string name="glass_ssid_summary">Set hotspot ssid</string>
+    <string name="glass_ap_pw">hotspot password</string>
+    <string name="glass_appw_summary">Set hotspot password</string>
+    <string name="wifi_ap">Hotspot</string>
+    <string name="wifi_ap_summary">Change hotspot ssid</string>
+    <string name="wifi_ap_setting">hotspot setting</string>
+    <string name="empty_ssid">Input hotspot ssid</string>
+    <string name="pw_too_short">Password length should not shorter than 8</string>
+    <string name="password">Password:</string>
+    <string name="ssid">SSID:</string>
+    <string name="live_wifi_ap_hint">Video live need to turn hotspot on</string>
+    <string name="waiting_for_glass_connect">Waiting for camlog to connect&#8230;</string>
+    <string name="waiting_for_glass_open_camera">Openning glasses camera&#8230;</string>
+    <string name="video_live">Live</string>
+    <string name="bluetooth_phone">Bluetooth Calling</string>
+    <string name="bluetooth_phone_summary">Switch on/off Bluetoot headset</string>
+    <string name="bluetooth_a2dp">Bluetooth Music</string>
+    <string name="bluetooth_a2dp_summary">On/Off</string>
+    <string name="close_bluetooth_a2dp">Close Media Audio</string>
+    <string name="current_power">Glasses\'current power</string>
+    <string name="low_power">Low power notification</string>
+    <string name="low_power_msg">Glasses power is low</string>
+    <string name="glass_model">Model</string>
+    <string name="version_code_summary">Glasses V1.0</string>
+    <string name="glass_serial_number">Serial</string>
+    <string name="serial_number_summary">ABCD123456789</string>
+    <string name="glass_power">Glasses power</string>
+    <string name="power_summary">Getting glasses power&#8230;</string>
+    <string name="glass_storage">Glasses Storage</string>
+    <string name="storage_summary">Getting glasses storage&#8230;</string>
+    <string name="about_glass">About</string>
+    <string name="round_video">Continuous Recording</string>
+    <string name="round_video_summary">Overwrites when memory full</string>
+    <string name="start_live">Start</string>
+    <string name="stop_live">Stop</string>
+    <string name="turn_wifi_ap_on_now">Turn on now</string>
+    <string name="turn_wifi_ap_on">Turn hotspot on</string>
+    <string name="turning_wifi_ap_on">Turning hotspot on&#8230;</string>
+    <string name="wait_device_connect">Waiting for camlog to connect&#8230;</string>
+    <string name="get_file_list">Getting media list&#8230;</string>
+    <string name="connect_error">Connection error</string>
+    <string name="deleting">Deleting&#8230;</string>
+    <string name="delete_ok">Delete done</string>
+    <string name="turning_bluetoothheadset_on">Turning on&#8230;</string>
+    <string name="turning_bluetoothheadset_off">Turning off&#8230;</string>
+    <string name="bluetooth_finded_devices">Glasses found</string>
+    <string name="welcome_use_camlog">Welcome to use Glasses</string>
+    <string name="serching_camlog">Searching Glasses&#8230;</string>
+    <string name="bind_camlog">Bind Glasses</string>
+    <string name="rebind_camlog">Rebind</string>
+    <string name="binding_camlog">Binding&#8230;</string>
+    <string name="camlog_comment">1. Turn on your Camlog.\n\n2. Select "Bluetooth" to connect to your camlog automatically.\n\n3. Select QR Code to connect via the provided QR code. You will need to scan the QR code with your device\'s camera.</string>
+    <string name="sync_time">Sync time</string>
+    <string name="sync_contact">Sync Contacts</string>
+    <string name="sync_contact_to_glass">Turn on/off contacts sync</string>
+    <string name="sync_contact_success">Sync contacts done</string>
+    <string name="sync_contact_fail">Fail to sync contacts to glasses</string>
+    <string name="syncing_contact">Syncing&#8230;</string>
+    <string name="no_read_contact_permission">Please grant the permission to read contacts</string>
+    <string name="sync_phone_time_to_glass">Turn on/off sync phone time to glasses</string>
+    <string name="get_glass_data_fail">Fail to get glasse information,Try again</string>
+    <string name="glass_cpu">CPU</string>
+    <string name="glass_ram">RAM</string>
+    <string name="glass_up_time">Running time</string>
+    <string name="up_time_summary">Getting running time&#8230;</string>
+    <string name="glass_version">Glasses version</string>
+    <string name="get_power_timeout">Get glasses power time out</string>
+    <string name="get_storage_timeout">Get glasses storage time out</string>
+    <string name="get_uptime_timeout">Get running time time out</string>
+    <string name="get_state_timeout">Get state time out</string>
+    <string name="download_task_running">Having running task</string>
+    <string name="video_sync_start">"Start syncing videos"</string>
+    <string name="photo_sync_start">"Start syncing photos"</string>
+    <string name="mediacontroller_play_pause">Play/Pause</string>
+    <string name="syncing_photos">Syncing photos(%1$d/%2$d)&#8230;</string>
+    <string name="sync_media_done">Sync done(Done%1$d,Fail%2$d)</string>
+    <string name="syncing_videos">Syncing videos(%1$d/%2$d)&#8230;</string>
+    <string name="start_sync_photos">Start syncing photos</string>
+    <string name="start_sync_videos">Start syncing videos</string>
+    <string name="syncing_photos_done">Syncing photos done</string>
+    <string name="syncing_videos_done">Syncing videos done</string>
+    <string name="share">Share</string>
+    <string name="sync_to_play">Please download it and play</string>
+    <string name="delete_fail_count">%1$d files not be deleted</string>
+    <string name="media_downloaded">Downloaded</string>
+    <string name="media_path">Native files path</string>
+    <string name="media_path_summary">SD Card/SmartGlasses/</string>
+    <string name="glass_state">Glasses state</string>
+    <string name="glass_state_summary">Getting Glasses state&#8230;</string>
+    <string name="turn_wifi_ap_off">Tunr hotspot Off</string>
+    <string name="wifi_ap_hint_off">Would you like to turn hotspot off?</string>
+    <string name="delete_message">Do you want to delete selected items?</string>
+    <string name="download_messages">Do you want to download selected items?</string>
+    <string name="scan_device_timeout">Didn\&apos;t found device</string>
+    <string name="bind_fail">Fail to bind</string>
+    <string name="bluetooth_paring">Pairing&#8230;</string>
+    <string name="operation_timeout">Operation timeout</string>
+    <string name="scan_qrcode_hint">Scan Qrcode</string>
+    <string name="scan_qrcode">Put Qrcode in the Scanning frame</string>
+    <string name="not_camlog_glass">Didn\&apos;t found device</string>
+    <string name="search_bind">Bluetooth</string>
+    <string name="qr_bind">Scan QR Code</string>
+    <string name="msg_camera_framework_bug">Sorry, failed to open camera. Please check camera permission is granted.</string>
+    <string name="user_guide">User guide</string>
+    <string name="user_guide_summary">Click to view the Glasses operation guide</string>
+    <string name="no_available_player">Find no available player,you can open in gallery</string>
+    <string name="app_version">App version</string>
+    <string name="unbonding">Unbonding&#8230;</string>
+    <string name="camlog_photo">Photos</string>
+    <string name="camlog_video">Videos</string>
+    <string name="camlog_live">Live</string>
+    <string name="camlog_setting">Settings</string>
+    <string name="camlog_about">About</string>
+    <string name="camlog_unbind">Ubinding</string>
+    <string name="camlog_power_state">Glasses current power:%1$d</string>
+    <string name="camlog_storage_state">Total capacity:%1$.0fGB,used:%2$.2fGB,available:%3$s</string>
+    <string name="camlog_on_time_hour">Glasses is on for %1$dh %2$dm %3$ds</string>
+    <string name="camlog_on_time_minute">Glasses is on for %1$dm %2$ds</string>
+    <string name="camlog_on_time_second">Glasses is on for %1$ds</string>
+    <string name="camlog_video_state_hour">Recording(%1$dh %2$dm %3$ds)</string>
+    <string name="camlog_video_state_minute">Recording(%1$dm %2$ds)</string>
+    <string name="camlog_video_state_second">Recording(%1$ds)</string>
+    <string name="updates_note">Found a new software version for glasses,would you like to update now.\nNote:Make sure of you get a wifi network when update.</string>
+    <string name="update_now">Now</string>
+    <string name="update_later">Update later</string>
+    <string name="config_wifi">Config wifi</string>
+    <string name="ssid_hint">name of the available wifi</string>
+    <string name="pw_hint">wifi password</string>
+    <string name="cancel_update">Give up upgrade</string>
+    <string name="camlog_update">Glasses Update</string>
+    <string name="update_try_connect_wifi">Try connect the given wifi.</string>
+    <string name="update_connect_wifi_timeout">Try connect wifi timeout,abandon update</string>
+    <string name="update_start_download">Start downloading upgrade package&#8230;</string>
+    <string name="update_download_progress">Downloading the upgrade package:</string>
+    <string name="update_donwload_error">Fail to download upgrade package，abandon upgrade.</string>
+    <string name="update_invalid_package">Invalid package，abandon upgrade。</string>
+    <string name="update_start">Download upgrade package done,start upgrading.\n(if it take too long,please reboot glasses)</string>
+    <string name="update_success">Upgrade successfully,the system is up-to-date now。</string>
+    <string name="update_fail">Upgrade fail，the system remain as it was。</string>
+    <string name="update_power_shortage">Power shortage,abandon upgrade。</string>
+    <string name="update_storage_shortage">Storage shortage,abandon upgrade。</string>
+    <string name="language">Language Setting</string>
+    <string name="language_summary">Set up the language of the glass</string>
+    <string name="language_summary_app">Set up the language of App</string>
+    <string name="language_zh">中文</string>
+    <string name="language_us">English</string>
+    <string name="language_fr">Français</string>
+    <string name="language_ru">русский</string>
+    <string name="language_de">Deutsch</string>
+    <string name="language_th">ภาษาไทย</string>
+    <string name="language_fa">فارسی</string>
+    <string name="language_es">español</string>
+    <string name="language_pt">Português</string>
+    <string name="language_ar">العربية</string>
+    <string name="language_it">italiana</string>
+    <string name="water_mark">Watermark</string>
+    <string name="pic_water_mark">image watermark</string>
+    <string name="video_water_mark">video watermark</string>
+    <string name="water_mark_summary">Set the picture/video watermark for glass</string>
+    <string name="delete_error">deleting fail</string>
+    <string name="new_app_version">New version</string>
+    <string name="new_version_comment">1.fix some known bugs\n2.Optimize the app</string>
+    <string name="delete_progress">deleting&#8230;(%1$d/%2$d)</string>
+    <string name="live_audio">Local Live Audio</string>
+    <string name="live_audio_summary">Turn on/off live audio</string>
+
+    <string name="voice_recog">Voice Recognition</string>
+    <string name="voice_recog_summary">Choose whether to open voice recognition</string>
+    <string name="turn_off_bluetooth_a2dp">Close media audio when live</string>
+    <!-- remote camera live -->
+    <string name="remote_live_uuid">UID</string>
+    <string name="remote_live_pwd">password</string>
+    <string name="low_clearity">SD(for 500kbps bandwidth)</string>
+    <string name="standard_clearity">HD(for 1mbps bandwidth)</string>
+    <string name="high_clearity">Ultra-clear(for 2mbps bandwidth)</string>
+    <string name="remote_live_login">Start Live</string>
+    <string name="remote_live_newpwd">Please enter a new password and modify live by</string>
+    <string name="remote_live_modify_password">Modify password</string>
+    <string name="remote_live_cancel_modify_password">Cancel the changes</string>
+    <string name="remote_live">Remote Camera Live</string>
+    <string name="native_live">Local live</string>
+    <string name="btn_bind_glass">Bind Glass</string>
+    <string name="remote_live_msg_check_uid">Checking device number and password</string>
+    <string name="remote_live_msg_get_data">Loading data, please wait</string>
+    <string name="remote_live_error_get_data">Load data failed, please try again later</string>
+    <string name="remote_live_error_get_data_timeout">Network load failed, please try again</string>
+    <string name="remote_live_error_max_seesion">camera live have reached the limit, please try again later</string>
+    <string name="remote_live_error_get_videodata_failed">Get video data failed, please try again</string>
+    <string name="remote_live_error_close_by_remote">Glass has exited live</string>
+    <string name="remote_live_error_check_uid">UID check failed, please try again confirm</string>
+    <string name="remote_live_error_check_pwd">Password check failed, please try again confirm</string>
+    <string name="remote_live_error_speaker_failed">Voice intercom failure</string>
+    <string name="remote_live_error_device_offline">No device found online, please try again later</string>
+    <string name="remote_live_error_record_too_short">Talk time is too short</string>
+    <string name="remote_live_error_videorecord_too_short">Recording time is too short</string>
+    <string name="remote_live_no_network">Please check your network connection and try again.</string>
+    <string name="remote_live_no_uid">Please enter the correct uid</string>
+    <string name="remote_live_no_pwd">Please enter the correct password.</string>
+    <string name="remote_live_old_pwd">old password</string>
+    <string name="remote_live_new_pwd">new password</string>
+    <string name="remote_live_new_pwd_ensure">double confirm</string>
+    <string name="remote_live_ensure_modify">Confirm the changes</string>
+    <string name="remote_live_reset_password">reset Password</string>
+    <string name="remote_live_modifying_pwd">under revision</string>
+    <string name="remote_live_modify_error">fail to edit</string>
+    <string name="remote_live_modify_success">Successfully modified</string>
+    <string name="remote_live_pwd_inconsistent">Passwords do not match, please re-enter.</string>
+    <string name="remote_live_use_mobile_data">We are using mobile network data</string>
+    <string name="remote_live_verify_pwd_error">The original password is not correct, please try again.</string>
+    <string name="remote_live_nickname">nickname</string>
+    <string name="remote_live_history">history record</string>
+    <string name="remote_live_clear_history">clear history</string>
+    <string name="remote_live_video_record_fail">Recording failure</string>
+    <string name="remote_live_video_save_fail">Video memory failure</string>
+    <string name="video_file_name_format">"'LIVE_VID'_yyyyMMdd_HHmmss"</string>
+    <string name="timer_format_minute"><xliff:g id="format">%1$d:%2$d</xliff:g></string>
+    <string name="timer_format_hour"><xliff:g id="format">%1$d:%2$d:%3$d</xliff:g></string>
+    <string name="remote_live_no_name">Please enter a nickname</string>
+    <string name="remote_live_uid_vertify_fail">UID verification fails, enter the correct serial number</string>
+    <string name="sync_phone_wifi_hotspot">Hotspot sync</string>
+    <string name="sync_phone_wifi_hotspot_success">Connected</string>
+    <string name="glass_connect_phone_hotspot_success">Connected to hotspot</string>
+    <string name="live_record">Save Live Video</string>
+    <string name="live_record_summary">Turn on/off save live video</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="bettery">Battery:</string>
+    <string name="storage_space">Storage:</string>
+
+    <string name="all_space">Total</string>
+    <string name="storage_space_used">Used</string>
+    <string name="pwd_note">The password format is 6&#8211;32 letters, numbers or a combination of letters and numbers</string>
+    <string name="title_activity_guide">GuideActivity</string>
+
+
+    <string name="power">Power:</string>
+    <string name="rom">ROM：</string>
+    <string name="ram">RAM：</string>
+    <string name="login">Enter now</string>
+    <string name="reset">Reset</string>
+    <string name="rotate">Rotate</string>
+    <string name="vertical">vertical</string>
+    <string name="horizontally">horizontal</string>
+    <string name="filter">Filter</string>
+    <string name="deform">deform</string>
+    <string name="frame">frame</string>
+    <string name="fraffiti">Graffiti</string>
+    <string name="mosaic">Mosaic</string>
+    <string name="cut">Cut</string>
+    <string name="watermark">Watermark</string>
+    <string name="enhancement">Enhancement</string>
+    <string name="addtext">Add text</string>
+    <string name="reselectimage">Reselect the image</string>
+    <string name="takepictures">Take a picture</string>
+    <string name="sharepic">Share</string>
+    <string name="whitening">Whitening</string>
+    <string name="gray">gray</string>
+    <string name="nostalgia">Nostalgia</string>
+    <string name="comic">Comic</string>
+    <string name="blackandwhite">Black White</string>
+    <string name="film">Film</string>
+    <string name="brown">Brown</string>
+    <string name="pencil">Pencil</string>
+    <string name="overexposure">Overexposure</string>
+    <string name="soften">Soften</string>
+    <string name="neon">Neon</string>
+    <string name="sketch">Sketch</string>
+    <string name="font">Font</string>
+    <string name="color">Color</string>
+    <string name="saturation">Saturation</string>
+    <string name="brightness">brightness</string>
+    <string name="contrast">Contrast</string>
+    <string name="pencil1">pencil1</string>
+    <string name="pencil2">pencil2</string>
+    <string name="pencilsize">pencil size</string>
+    <string name="pencilcolor">pencil color</string>
+    <string name="textures">Textures</string>
+    <string name="eraser">Eraser</string>
+    <string name="color_flower">Color</string>
+    <string name="basic">Basic</string>
+    <string name="groundglass">Ground glass</string>
+    <string name="size_action">Size</string>
+    <string name="freecutting">Free cutting</string>
+    <string name="cut1">1:1 cut</string>
+    <string name="cut2">3:2 cut</string>
+    <string name="cut3">4:3 cut</string>
+    <string name="cut4">16:9 cut</string>
+    <string name="runcut">Perform a cut</string>
+
+
+
+    <string name="close">Close</string>
+    <string name="exit">Exit</string>
+    <string name="sample">Sample</string>
+    <string name="recent">Recent</string>
+    <string name="settings">Settings</string>
+    <string name="toggle_player">Player</string>
+    <string name="toggle_render">Render</string>
+    <string name="toggle_ratio">Scale</string>
+    <string name="show_info">Info</string>
+    <string name="fps_output">fps (output)</string>
+    <string name="fps_decode">fps (decode)</string>
+    <string name="media_information">Media Information</string>
+    <string name="mi_player">Player</string>
+    <string name="mi_media">Media</string>
+    <string name="mi_profile_level">Profile level</string>
+    <string name="mi_pixel_format">Pixel format</string>
+    <string name="mi_resolution">Resolution</string>
+    <string name="mi_length">Length</string>
+    <string name="mi_stream_fmt1">Stream #%d</string>
+    <string name="mi_type">Type</string>
+    <string name="mi_codec">Codec</string>
+    <string name="mi_frame_rate">Frame rate</string>
+    <string name="mi_bit_rate">Bit rate</string>
+    <string name="mi_sample_rate">Sample rate</string>
+    <string name="mi_channels">Channels</string>
+    <string name="TrackType_video">Video</string>
+    <string name="TrackType_audio">Audio</string>
+    <string name="TrackType_subtitle">Subtitle</string>
+    <string name="TrackType_timedtext">Timed text</string>
+    <string name="TrackType_metadata">Meta data</string>
+    <string name="TrackType_unknown">Unknown</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Invalid progressive playback</string>
+    <string name="VideoView_error_text_unknown">Unknown</string>
+    <string name="VideoView_error_button">OK</string>
+    <string name="VideoView_ar_aspect_fit_parent">Aspect / Fit parent</string>
+    <string name="VideoView_ar_aspect_fill_parent">Aspect / Fill parent</string>
+    <string name="VideoView_ar_aspect_wrap_content">Aspect / Wrap content</string>
+    <string name="VideoView_ar_match_parent">Free / Fill parent</string>
+    <string name="VideoView_ar_16_9_fit_parent">16:9 / Fit parent</string>
+    <string name="VideoView_ar_4_3_fit_parent">4:3 / Fit parent</string>
+    <string name="VideoView_render_none">Render: None</string>
+    <string name="VideoView_render_surface_view">Render: SurfaceView</string>
+    <string name="VideoView_render_texture_view">Render: TextureView</string>
+    <string name="VideoView_player_none">Player: None</string>
+    <string name="VideoView_player_AndroidMediaPlayer">Player: AndroidMediaPlayer</string>
+    <string name="VideoView_player_IjkMediaPlayer">Player: IjkMediaPlayer</string>
+    <string name="VideoView_player_IjkExoMediaPlayer">Player: IjkExoMediaPlayer</string>
+
+    <string name="N_A">N/A</string>
+    <string name="rtmp_live">RTMP</string>
+    <string name="rtmp_livelist_getting">Loading the live list, please wait</string>
+    <string name="rtmp_livelist_get_fail">Load the live list failed, please check the network</string>
+    <string name="rtmp_livelist_none">No live</string>
+    <string name="rtmp_live_closed">The live is closed</string>
+    <string name="rtmp_live_may_closed">The data failed, the live may be closed</string>
+    <string name="rtmp_playurl_get_fail">Load the live list failed, please check the network</string>
+    <string name="rtmp_talkurl_requesting">Asking for intercom, please wait later</string>
+    <string name="rtmp_talkurl_get_fail">Request intercom failed</string>
+    <string name="rtmp_talkurl_inused">The anchor is talking to other viewers. Please try again later</string>
+    <string name="rtmp_qq_live">Live(On/Off)</string>
+    <string name="tencent_live">Live</string>
+
+
+    <string name="paizhao">take photos</string>
+    <string name="luxiang">video recording</string>
+    <string name="zhibo">live</string>
+    <string name="zhengzaixiazai">downloading...</string>
+    <string name="xiazaiwancheng">download completes</string>
+    <string name="xiazaishibai">download failed,please try again</string>
+</resources>

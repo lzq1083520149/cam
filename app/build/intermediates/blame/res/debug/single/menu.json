@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\setting.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\setting.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remote_photo_fragment_menu.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\remote_photo_fragment_menu.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\native_photo_fragment_menu.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\native_photo_fragment_menu.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\side_navigation_menu.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\side_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\native_video_fragment_menu.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\native_video_fragment_menu.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\base_toolbar_menu.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\base_toolbar_menu.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_draw.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\menu_draw.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\glasses.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\glasses.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\remote_video_fragment_menu.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\remote_video_fragment_menu.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_mosaic.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\menu_mosaic.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_crop.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\menu\\menu_crop.xml"
+    }
+]

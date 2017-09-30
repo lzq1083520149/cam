@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:widget="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/application_bg"
+    tools:context="com.sctek.smartglasses.ui.BindCamlogActivity">
+
+    <FrameLayout
+        android:id="@+id/progress_fl"
+        android:layout_width="270dp"
+        android:layout_height="270dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/transparent">
+
+        <com.sctek.smartglasses.utils.RadarScanView
+            android:id="@+id/bind_radarScanView"
+            android:layout_width="270dp"
+            android:layout_height="270dp"
+            android:layout_gravity="center" />
+
+        <com.sctek.smartglasses.utils.RandomTextView
+            android:id="@+id/bind_randomTextView"
+            android:layout_width="270dp"
+            android:layout_height="270dp"
+            android:layout_gravity="center" />
+
+        <TextView
+            android:id="@+id/bind_camlog_hint_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/transparent"
+            android:text="@string/welcome_use_camlog"
+            android:textColor="@color/white" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/hanlang_comment_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/camlog_comment"
+        android:textColor="@color/white" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/progress_fl"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/bind_camlog_bt"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/bordershape"
+            android:onClick="onBindHanLangButtonClicked"
+            android:text="@string/search_bind"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/scan_qrcode_bt"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/bordershape"
+            android:onClick="onBindScanQrCodeClicked"
+            android:text="@string/qr_bind"
+            android:textColor="@color/white"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/remote_live"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/bordershape"
+            android:minHeight="40dp"
+            android:onClick="onRemoteCameraLiveButtonClicked"
+            android:text="@string/remote_live"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+</RelativeLayout>

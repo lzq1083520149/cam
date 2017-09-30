@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_flower"
+        android:title="@string/color_flower"
+        />
+
+    <item android:id="@+id/action_base"
+        android:title="@string/basic"
+        />
+
+    <item android:id="@+id/action_ground_glass"
+        android:title="@string/groundglass"
+        />
+
+    <item android:id="@+id/action_size"
+        android:title="@string/size_action"
+        />
+
+
+    <item android:id="@+id/action_eraser"
+        android:title="@string/eraser"
+        />
+
+</menu>

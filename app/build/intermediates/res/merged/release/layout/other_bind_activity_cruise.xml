@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:id="@+id/globleLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#555555"
+    android:orientation="vertical" >
+  <!-- <include layout="@layout/pull_to_refresh" android:id="@+id/refresh_header" /> -->
+  <View
+      android:id="@+id/tv_bindstate"
+      android:layout_width="match_parent"
+      android:layout_height="1dp"/>
+<cn.ingenic.glasssync.ui.MyScrollView 
+    android:id="@+id/scrollView"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_weight="1">
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_below="@id/tv_bindstate" >
+    <TextView
+	android:id="@+id/paired"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:text="@string/bluetooth_finded_devices"
+	android:layout_below="@id/tv_bindstate"
+	android:layout_marginTop="10dp"
+	android:layout_marginLeft="5dp"
+	android:textColor="#eeeeee"
+	android:textSize="20sp" />
+    <TextView
+	android:id="@+id/paired_line"
+	android:layout_width="match_parent"
+	android:layout_height="1dp"
+	android:layout_below="@id/paired"
+	android:background="#0097cf"
+	android:layout_marginTop="5dp" />
+
+    <ListView 
+	android:id="@+id/paired_listView"
+	android:layout_below="@id/paired_line"
+	android:layout_marginTop="5dp"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content">
+    </ListView>
+  </RelativeLayout>
+</cn.ingenic.glasssync.ui.MyScrollView>
+
+</LinearLayout>

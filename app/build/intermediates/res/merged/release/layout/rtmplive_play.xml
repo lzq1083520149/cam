@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <tv.danmaku.ijk.media.sample.widget.media.IjkVideoView
+        android:id="@+id/video_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center" >
+    </tv.danmaku.ijk.media.sample.widget.media.IjkVideoView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center">
+        
+        <ProgressBar 
+            android:id="@+id/progress_bar"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:indeterminateBehavior="repeat"
+            android:indeterminateOnly="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:visibility="gone"
+            android:layout_marginBottom="25dp" />
+        <ImageView
+            android:id="@+id/talkback"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@id/progress_bar"
+            android:layout_centerInParent="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/talkback_selector"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+</FrameLayout>

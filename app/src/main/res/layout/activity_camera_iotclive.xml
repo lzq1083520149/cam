@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <SurfaceView
+        android:id="@+id/surfaceView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <RelativeLayout
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+	android:layout_marginTop="20dp"
+	android:layout_marginLeft="10dp">
+      <ImageView
+	  android:id="@+id/recording"
+	  android:layout_width="wrap_content"
+	  android:layout_height="wrap_content"
+	  android:layout_alignParentLeft="true"
+	  android:layout_marginTop="20dp"
+	  android:layout_marginLeft="10dp"
+	  android:layout_centerVertical="true"
+	  android:src="@drawable/rmlv_recording_indicator"
+	  android:visibility="gone" />
+
+      <TextView
+	  android:id="@+id/record_time"
+	  android:layout_toRightOf="@id/recording"
+	  android:layout_width="wrap_content"
+	  android:layout_height="wrap_content"
+	  android:layout_marginTop="20dp"
+	  android:layout_marginLeft="10dp"
+	  android:layout_centerVertical="true"
+	  android:textColor="@android:color/black"
+	  android:textSize="@dimen/side_navigation_item_text_size"
+	  android:visibility="gone" />
+    </RelativeLayout>
+    <ImageView
+        android:id="@+id/record"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="80dp"
+	android:layout_marginRight="10dp"
+        android:src="@drawable/record"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/video_button"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="80dp"
+	android:layout_marginRight="10dp"
+        android:src="@drawable/video_record"
+        android:visibility="gone" />
+
+</RelativeLayout>

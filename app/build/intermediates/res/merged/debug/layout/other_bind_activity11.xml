@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:id="@+id/globleLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f5f5f5"
+    android:orientation="vertical" >
+  <LinearLayout 
+      android:id="@+id/bott"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:background="@drawable/ot_bind_bg"
+      android:layout_alignParentBottom="true">
+    <TextView
+	android:id="@+id/other"
+	android:layout_width="match_parent"
+	android:layout_height="50dp"
+	android:text="@string/pho_bind"
+	android:textColor="#0097cf"
+	android:gravity="center"
+	android:textSize="15sp" />
+  </LinearLayout>
+
+  <TextView
+      android:id="@+id/tv_bindstate"
+      android:layout_width="match_parent"
+      android:layout_height="50dp"
+      android:gravity="center"
+      android:text="@string/key_binding"
+      android:textColor="#ffffff"
+      android:textSize="16sp" />
+<ScrollView 
+    android:id="@+id/scrollView"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_below="@id/tv_bindstate"
+      android:layout_above="@id/bott"
+      android:layout_weight="1">
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_below="@id/tv_bindstate" >
+    <TextView
+	android:id="@+id/paired"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:text="@string/bluetooth_preference_paired_devices"
+	android:layout_below="@id/tv_bindstate"
+	android:layout_marginTop="5dp"
+	android:layout_marginLeft="5dp"
+	android:textColor="#0097cf"
+	android:textSize="16sp" />
+    <TextView
+	android:id="@+id/paired_line"
+	android:layout_width="match_parent"
+	android:layout_height="1dp"
+	android:layout_below="@id/paired"
+	android:background="#d6bcbc"
+	android:layout_marginTop="5dp" />
+
+    <ListView 
+	android:id="@+id/paired_listView"
+	android:layout_below="@id/paired_line"
+	android:layout_marginTop="5dp"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content">
+    </ListView>
+
+    <TextView
+	android:id="@+id/found"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:text="@string/bluetooth_preference_devices"
+	android:layout_below="@id/paired_listView"
+	android:layout_marginTop="15dp"
+	android:layout_marginLeft="5dp"
+	android:textColor="#0097cf"
+	android:textSize="16sp" />
+    <TextView
+	android:id="@+id/found_line"
+	android:layout_width="match_parent"
+	android:layout_height="1dp"
+	android:layout_below="@id/found"
+	android:background="#d6bcbc"
+	android:layout_marginTop="5dp" />
+
+    <ListView 
+	android:id="@+id/ot_listView"
+	android:layout_weight="1"
+	android:layout_below="@id/found_line"
+	android:layout_marginTop="5dp"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content">
+    </ListView>
+  </RelativeLayout>
+</ScrollView>
+</RelativeLayout>

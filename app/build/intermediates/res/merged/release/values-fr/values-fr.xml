@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="mode_entries">
+        <item>Mode d\'économie d\'énergie</item>
+        <item>En mode en temps réel</item>
+    </string-array>
+    <string-array name="native_photo_option">
+        <item>Visualiser</item>
+        <item>Partager</item>
+        <item>Supprimer</item>
+    </string-array>
+    <string-array name="native_video_option">
+        <item>Lecture</item>
+        <item>Partager</item>
+        <item>Supprimer</item>
+    </string-array>
+    <string-array name="photo_pixel_entry">
+        <item>640*480</item>
+        <item>1024*768</item>
+        <item>1280*960</item>
+        <item>1600*1200</item>
+        <item>2048*1536</item>
+        <item>2576*1932</item>
+    </string-array>
+    <string-array name="photo_pixel_value">
+        <item>640*480</item>
+        <item>1024*768</item>
+        <item>1280*960</item>
+        <item>1600*1200</item>
+        <item>2048*1536</item>
+        <item>2576*1932</item>
+    </string-array>
+    <string-array name="remote_photo_option">
+        <item>Visualiser</item>
+        <item>Télécharger</item>
+        <item>Supprimer</item>
+    </string-array>
+    <string-array name="remote_video_option_1">
+        <item>Télécharger</item>
+        <item>Supprimer</item>
+    </string-array>
+    <string-array name="remote_video_option_2">
+        <item>Lecture</item>
+        <item>Supprimer</item>
+    </string-array>
+    <string-array name="vedio_durations">
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>20 minutes</item>
+        <item>30 minutes</item>
+	<item>illimité</item>
+    </string-array>
+    <string-array name="vedio_durations_values">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+	<item>0</item>
+    </string-array>
+    <string-array name="vedio_pixel_entry">
+        <item>768*432</item>
+        <item>1280*720</item>
+        <item>640*480</item>
+        <item>320*240</item>
+        <item>800*600</item>
+        <item>352*288</item>
+    </string-array>
+    <string-array name="vedio_pixel_value">
+        <item>768*432</item>
+        <item>1280*720</item>
+        <item>640*480</item>
+        <item>320*240</item>
+        <item>800*600</item>
+        <item>352*288</item>
+    </string-array>
+    <string name="abandon">Abandonner</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Plus d\'options"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"OK"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DÉSACTIVÉ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVÉ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partager avec %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="about_glass">Sur Lunettes</string>
+    <string name="about_glasses">Sur des lunettes</string>
+    <string name="accepting">En réponse</string>
+    <string name="action_settings">Settings</string>
+    <string name="address_info">L\'adresse MAC du dispositif:</string>
+    <string name="all_app_tab">Tout</string>
+    <string name="all_app_tab_description">Toutes les applications</string>
+    <string name="already_latest_version">A plus tard!</string>
+    <string name="android_version">Version Android:</string>
+    <string name="app_label">Lunettes intelligent</string>
+    <string name="app_name">Loup de lunettes</string>
+    <string name="app_version">La version de l\'app</string>
+    <string name="application_manager_menu_title">Le gestionnaire d\'application</string>
+    <string name="bbbb">Dernière mise à jour</string>
+    <string name="bind_Glass">La liaison de lunettes</string>
+    <string name="bind_camlog">Lunettes de liaison</string>
+    <string name="bind_device">La liaison... S\'il vous plaît plus tard</string>
+    <string name="bind_fail">La liaison défaillante</string>
+    <string name="bind_timeout">Dispositif de liaison de temporisation, essayez de recherche de dispositifs ou de tenter de la fermeture, l\'ouverture de téléphones mobiles Bluetooth.</string>
+    <string name="binding">Le dispositif est lié</string>
+    <string name="binding_camlog">La liaison de Lunettes…</string>
+    <string name="bluetooth_a2dp">Media Audio</string>
+    <string name="bluetooth_a2dp_summary">Désactivez la fonction de la musique Bluetooth</string>
+    <string name="bluetooth_connect_wrong_message">Un échec de la connexion Bluetooth, à reconnecter!</string>
+    <string name="bluetooth_error">La connexion Bluetooth a été déconnecté, Veuillez réessayer</string>
+    <string name="bluetooth_finded_devices">Le dispositif peut être connecté</string>
+    <string name="bluetooth_off">Bluetooth n\'est pas allumé, qui ont été retirés de l\'assistant de l\'oeil</string>
+    <string name="bluetooth_pairing">"En train de paires de…"</string>
+    <string name="bluetooth_paring">L\'appariement dans…</string>
+    <string name="bluetooth_phone">Téléphonie Bluetooth</string>
+    <string name="bluetooth_phone_summary">L\'ouverture et la fermeture de la fonction téléphonique Bluetooth</string>
+    <string name="bluetooth_preference_devices">Dispositif à paire</string>
+    <string name="bluetooth_preference_paired_devices">Le dispositif peut se lier</string>
+    <string name="bond">Liaison ></string>
+    <string name="bond_message">Dispositif de détermination de se lier %1$s?</string>
+    <string name="bond_request">La demande de liaison</string>
+    <string name="bond_request_message">"Dispositif de liaison?"</string>
+    <string name="btn_bind_glass">Reliure lunettes</string>
+    <string name="camlog_about">Sur Lunettes</string>
+    <string name="camlog_comment">1. Veiller à ce que le Lunettes  à proximité, et est allumé.\n \n2. Le Lunettes de l\'application est automatiquement lié le signal le plus fort.\n \n 3. Assurez - vous que le Lunettes sans d\'autres téléphones mobiles de liaison.\n \n 4. Si plusieurs fois la liaison défaillante, essayer de redémarrer les lunettes Bluetooth ou un téléphone mobile.</string>
+    <string name="camlog_live">Lunettes  en direct</string>
+    <string name="camlog_on_time_hour">Lunettes l\'exécuter %1$d heures %2$d minutes %3$d secondes</string>
+    <string name="camlog_on_time_minute">Lunettes  a été exécuté %1$dminutes %2$d secondes </string>
+    <string name="camlog_on_time_second">Lunettes a été exécuté %1$dsecondes </string>
+    <string name="camlog_photo">Lunettes Photo</string>
+    <string name="camlog_power_state">La quantité de courant électrique Lunettes:%1$d</string>
+    <string name="camlog_setting">Lunettes établir</string>
+    <string name="camlog_storage_state">capacité totale:%1$.0fGB,d\'occasion:%2$.2fGB,restant:%3$s</string>
+    <string name="camlog_unbind">Levée Lunettes</string>
+    <string name="camlog_update">Lunettes de mise à jour</string>
+    <string name="camlog_video">Lunettes vidéo</string>
+    <string name="camlog_video_state_hour">A la vidéo (%1$d heures%2$d minutes %3$d secondes)</string>
+    <string name="camlog_video_state_minute">A la vidéo(%1$d minutes%2$d secondes )</string>
+    <string name="camlog_video_state_second">A la vidéo(%1$d secondes)</string>
+    <string name="cancel">Annuler</string>
+    <string name="cancel_update">Abandonner la mise à jour</string>
+    <string name="check_file_failed">Vérification de fichier a échoué. Veuillez télécharger à nouveau</string>
+    <string name="check_now">Vérifier immédiatement</string>
+    <string name="check_update">Vérifier les mises à jour</string>
+    <string name="check_update_error">Vérifier les mises à jour ont échoué</string>
+    <string name="checking">Vérification</string>
+    <string name="checking_update">En train de vérifier des mises à jour.</string>
+    <string name="close_bluetooth_a2dp">Fermer Media Audio</string>
+    <string name="close_wlan">Fermer WLAN</string>
+    <string name="config_wifi">Ensemble WiFi</string>
+    <string name="connect_error">Erreur de connexion</string>
+    <string name="contact">Personne de contact</string>
+    <string name="contact_send_fail">L\'échec de synchroniser des données de contacts</string>
+    <string name="controller_info">Vous pouvez démarrer la synchronisation de l\'écran (Bas, gauche, droite), cliquez sur le long de la presse et coulissant, lunettes de commande gestuelle de l\'écran.</string>
+    <string name="current_power">Des lunettes d\'électricité</string>
+    <string name="current_version">La version actuelle:</string>
+    <string name="current_version_ps">(la version actuelle)</string>
+    <string name="default_click">Paramètres par défaut</string>
+    <string name="delete">Supprimer</string>
+    <string name="delete_error">Suppression de l\'échec</string>
+    <string name="delete_fail_count">%1$d une suppression de fichier a échoué</string>
+    <string name="delete_message">Pour supprimer le contenu sélectionné?</string>
+    <string name="delete_ok">Supprimé avec succès</string>
+    <string name="delete_progress">Suppression...(%1$d/%2$d)</string>
+    <string name="deleting">supprimer…</string>
+    <string name="description">Note:</string>
+    <string name="device">Le nom du dispositif: </string>
+    <string name="dialog_cancle">La sortie de l\'application</string>
+    <string name="dialog_ok">Maintenant</string>
+    <string name="dialog_title">Lunettes à ouvrir la liaison Bluetooth</string>
+    <string name="disconnect">La liaison défaillante, cliquez sur le bouton réessayer</string>
+    <string name="disconnecting">La solution est attaché.</string>
+    <string name="download"> Télécharger</string>
+    <string name="download_any_data">Par l\'intermédiaire de l\'un quelconque des données disponibles pour le téléchargement de connexion</string>
+    <string name="download_description">Le fichier de mise à jour requis pour télécharger la mise à jour</string>
+    <string name="download_message">Le chargement, s\'il vous plaît.</string>
+    <string name="download_notification_title">Coldwave</string>
+    <string name="download_only_wifi">Uniquement par le WLAN de téléchargement</string>
+    <string name="download_task_running">Il y a une tâche non terminée</string>
+    <string name="download_title">Télécharger le fichier de mise à jour</string>
+    <string name="downloading">Le téléchargement des paquets de mise à jour, veuillez patienter.</string>
+    <string name="empty_ssid">SSID introduisez point chaud</string>
+    <string name="errcode_cancel">Envoi annulé</string>
+    <string name="errcode_deny">La transmission est refusé</string>
+    <string name="errcode_success">Transmis avec succès</string>
+    <string name="errcode_unknown">Renvoie</string>
+    <string name="error_process">L\'image originale de synchronisation échoue!</string>
+    <string name="exit_message">Tu peux toujours à partir de la barre de notification dans la mise à jour</string>
+    <string name="exit_title">Après mise à jour</string>
+    <string name="fail_addr_mismatch">Verre est lié à d\'autres dispositifs, s\'il vous plaît, attaché de solvabilité et réessayez!</string>
+    <string name="fail_unknow">Erreur inconnue</string>
+    <string name="fail_ver_mismatch">Protocole de synchronisation de version ne correspondent pas</string>
+    <string name="finish">Finir</string>
+    <string name="firstly">  Un.</string>
+    <string name="get_file_list">Téléchargement de la liste de Media…</string>
+    <string name="get_glass_data_fail">Les données d\'échec, Veuillez réessayer</string>
+    <string name="get_power_timeout">La quantité de temporisation d\'acquisition</string>
+    <string name="get_state_timeout">Défendre le Lunettes pour obtenir l\'état de temporisation</string>
+    <string name="get_storage_timeout">L\'état de stockage de la temporisation d\'acquisition</string>
+    <string name="get_uptime_timeout">Le temps de fonctionnement d\'acquisition de temporisation</string>
+    <string name="get_watch_failed">Pour obtenir des informations de défaillance de lunettes Bluetooth \ n de vérifier et de connexion de lunettes</string>
+    <string name="get_watch_info">L\'acquisition d\'informations de version de montre</string>
+    <string name="get_wifi_state">Des lunettes \'WLAN lien...</string>
+    <string name="get_wifi_state_timeout">L\'État \'WLAN temps connexion lunettes</string>
+    <string name="glass_ap_pw">Lunettes à chaud de mot de passe</string>
+    <string name="glass_appw_summary">Mot de passe de lunettes à chaud</string>
+    <string name="glass_connect_phone_hotspot_success">Connectez votre téléphone lunettes hotspot succès</string>
+    <string name="glass_cpu">Un processeur</string>
+    <string name="glass_live">Lunettes vidéo en direct</string>
+    <string name="glass_model">Modèles</string>
+    <string name="glass_photo">Lunettes de photos  </string>
+    <string name="glass_power">Lunettes de l\'électricité.</string>
+    <string name="glass_ram">RAM</string>
+    <string name="glass_serial_number">Numéro de séquence</string>
+    <string name="glass_ssid">Lunettes à chaud SSID</string>
+    <string name="glass_ssid_summary">Ensemble de lunettes à chaud le SSID</string>
+    <string name="glass_state">L\'état de Lunettes</string>
+    <string name="glass_state_summary">à extraire l\'état de Lunettes…</string>
+    <string name="glass_storage">Lunettes de stockage</string>
+    <string name="glass_up_time">Le temps de fonctionnement</string>
+    <string name="glass_version">Version de Lunettes </string>
+    <string name="glass_video">Lunettes de vidéo  </string>
+    <string name="glasses">Miroir d\'extrémité</string>
+    <string name="gps">Des informations de position</string>
+    <string name="hello_world">Bonjour tout le monde!</string>
+    <string name="high_clearity">Ultra-clair(pour 2mbps bande passante)</string>
+    <string name="horizontally">horizontal</string>
+    <string name="idle">Libre</string>
+    <string name="ime_delete">Supprimer</string>
+    <string name="ime_notice">D\'entrée, cliquez sur OK et envoyées à des lunettes</string>
+    <string name="ime_reconnect">Reconnexion</string>
+    <string name="ime_title">Procédé d\'entrée de Bluetooth</string>
+    <string name="install">Installer</string>
+    <string name="install_alerting">Votre appel ne peut être utilisé dans le processus de mise à jour, il ne peut composer le numéro de téléphone d\'urgence.Lors de la mise à jour de ne pas fermer le téléphone, ou de retirer la batterie ou de la carte mémoire.</string>
+    <string name="install_app_tab">Est installé</string>
+    <string name="install_app_tab_description">Toutes les applications installées</string>
+    <string name="install_notices">La mise à jour des données de sauvegarde avant (par exemple, des contacts, des informations, des enregistrements d\'appels, etc.) et de garantir suffisamment d\'électricité</string>
+    <string name="key_binding">La recherche de dispositifs Bluetooth</string>
+    <string name="language">Paramètres de langue</string>
+    <string name="language_summary">Paramètres de langue de lunettes d\'extrémité</string>
+    <string name="language_us">En anglais</string>
+    <string name="language_zh">Chinois</string>
+    <string name="later">Installer plus tard</string>
+    <string name="latest_version"> La version la plus récente:</string>
+    <string name="live">La vidéo en direct</string>
+    <string name="live_audio">audio en direct</string>
+    <string name="live_audio_hint">Audio en direct et doit fermer Media Audio</string>
+    <string name="live_audio_nosound">Silencieux en direct</string>
+    <string name="live_audio_summary">Choisissez de diffusion audio</string>
+    <string name="live_bt_disconnect">Il n\'y a pas de lunettes sur une connexion de téléphone</string>
+    <string name="live_cancle">En direct de sortie</string>
+    <string name="live_controller_info">L\'écran de démarrage de vidéo en direct, vous pouvez voir la vidéo actuel.</string>
+    <string name="live_get_url">L\'acquisition de l\'adresse de diffusion.</string>
+    <string name="live_loading">Pour la vidéo, veuillez patienter.</string>
+    <string name="live_network_disconnect">Perte de connexion de réseau</string>
+    <string name="live_ok">Maintenant.</string>
+    <string name="live_open_bt">Attendre le Bluetooth.</string>
+    <string name="live_set_audio">Pour définir</string>
+    <string name="live_stream_down">En direct de l\'échec de connexion</string>
+    <string name="live_wait_network_data">Le réseau est faible, le chargement de données.</string>
+    <string name="live_wifi_ap_hint">En direct à fonction d\'ouverture de point chaud WiFi</string>
+    <string name="live_wifi_disconnect">Lunettes sans connexion de réseau sans fil</string>
+    <string name="login">Enter now</string>
+    <string name="lost_bond_st">Hors d\'état de liaison</string>
+    <string name="lost_bond_st_content">Le dispositif d\'extrémité a levé la relation de liaison avec l\'appareil</string>
+    <string name="low_clearity">SD(pour 500kbps bande passante)</string>
+    <string name="low_power">Rappel de faible puissance</string>
+    <string name="low_power_msg">Lunettes de faible puissance, veuillez la charge dans le temps</string>
+    <string name="mac">MAC    :</string>
+    <string name="media">Explorateur de support</string>
+    <string name="media_downloaded">Téléchargé</string>
+    <string name="media_no">Oublie ça.</string>
+    <string name="media_path">Un fichier local de trajet</string>
+    <string name="media_path_summary">SD卡/SmartGlasses/</string>
+    <string name="media_picture">Photo</string>
+    <string name="media_pixel">Résolution</string>
+    <string name="media_tip">Synchronisation vidéo nécessite beaucoup de temps, de confirmer que la synchronisation?</string>
+    <string name="media_video">Vidéo</string>
+    <string name="media_yes">Synchrone</string>
+    <string name="message">SMS</string>
+    <string name="msg_camera_framework_bug">Ouvrez la caméra a échoué. Veuillez vérifier l\'utilisation de caméras de permission est interdit</string>
+    <string name="name_info">Le dispositif est balayé à:</string>
+    <string name="native_live">I local en direct</string>
+    <string name="native_photo">Photo local</string>
+    <string name="native_photo_fragment">Local</string>
+    <string name="native_video">Vidéo locale</string>
+    <string name="network_not_avaliable">Le réseau n\'est pas disponible!！</string>
+    <string name="new_app_version">Mises à jour de version</string>
+    <string name="new_version_comment">1. Correction d\'un Bug connu\n2. optimiser l\'application</string>
+    <string name="no_application_infos">Aucune application</string>
+    <string name="no_available_player">Non disponible par l\'intermédiaire de la galerie de lecteur, veuillez ouvrir</string>
+    <string name="no_found_device">Pas trouvé de dispositif, cliquez de nouveau balayage
+</string>
+    <string name="no_read_contact_permission">Veuillez lire la permission d\'ouverture des contacts</string>
+    <string name="no_rollback_version">Il n\'y a pas de version de repli!</string>
+    <string name="not_camlog_glass">Le Lunettes n\'a été trouvé</string>
+    <string name="not_need_update">Ta version est la plus récente, ne nécessitant pas de mise à jour</string>
+    <string name="notification_summary_settings">Ouverture / de désactiver la temporisation de notification</string>
+    <string name="notification_title_settings">Notification de temporisation</string>
+    <string name="offhook">Appel.</string>
+    <string name="ok">Déterminer</string>
+    <string name="open_bt">- Bluetooth</string>
+    <string name="operation_timeout">L\'opération de temporisation</string>
+    <string name="other_bind">Pas de caméra rapide de liaison</string>
+    <string name="other_bind_info">Une clé de liaison de lunettes, vous avez besoin de lunettes dans 2 minutes après le démarrage de l\'opération, sinon il ne sera pas de liaison.</string>
+    <string name="other_device_dialog_content">Dispositif tiers:% 1 $s est une demande de liaison de cette montre, s\'il accepte?</string>
+    <string name="pair">message > </string>
+    <string name="pair_device">Recherche de...</string>
+    <string name="pair_fail">L\'appariement de l\'échec</string>
+    <string name="pair_success">Correspondance</string>
+    <string name="password">Mot de passe:</string>
+    <string name="pho_bind">Caméra de liaison</string>
+    <string name="phone">Audio de téléphone mobile</string>
+    <string name="photo">Photo</string>
+    <string name="photo_pixel_summary">Résolution de sélection de photos</string>
+    <string name="photo_sync_start">"Photo de début de synchronisation"</string>
+    <string name="pic_water_mark">Ajouter effet de filigrane d\'image</string>
+    <string name="picture_nofind">Il n\'y a pas de trouver des ressources des images sur le dispositif de lunettes</string>
+    <string name="play_error"> Il n\'y a pas de trouver une application appropriée de lecture </string>
+    <string name="please_choose_version">Veuillez sélectionner la version</string>
+    <string name="please_input">Saisissez le contenu!</string>
+    <string name="please_wait_moment">S\'il vous plaît attendez un moment</string>
+    <string name="position">La position géographique</string>
+    <string name="power_summary">En l\'état actuel de la batterie…</string>
+    <string name="processing">Chargement.</string>
+    <string name="product">Modèle:</string>
+    <string name="progress">Synchronisation de données</string>
+    <string name="pullto_refresh">Recherche déroulante</string>
+    <string name="pw_hint">wifi Mot de passe </string>
+    <string name="pw_too_short">Mot de passe de point chaud de pas moins de 8 bits</string>
+    <string name="qr_bind">Le Code bidimensionnel de liaison</string>
+    <string name="read_me">------------------------------------\n
+    Note: \n
+    1. Afin de garantir que la carte SD est installé, et un espace suffisant est disponible; \n
+    2. Afin d\'assurer la connexion réseau; (recommandation WLAN) \n
+    3. Le succès de télécharger le fichier de mise à jour après le redémarrage. \n        ------------------------------------\n</string>
+    <string name="rebind_camlog">Relier</string>
+    <string name="reflush">Cliquez sur un rafraîchissement</string>
+    <string name="refreshing">La recherche de dispositifs Bluetooth</string>
+    <string name="release_refresh">Desserrer de recherche</string>
+    <string name="reminder">Petit rappel:</string>
+    <string name="remote_live">en direct à distance</string>
+    <string name="remote_live_cancel_modify_password">Annuler les modifications</string>
+    <string name="remote_live_clear_history">Effacer l\'historique</string>
+    <string name="remote_live_ensure_modify">Confirmez les modifications</string>
+    <string name="remote_live_error_check_pwd">Vérification de mot de passe a échoué, s\'il vous plaît essayer à nouveau confirmer</string>
+    <string name="remote_live_error_check_uid">Chèque UID a échoué, s\'il vous plaît essayer à nouveau confirmé</string>
+    <string name="remote_live_error_close_by_remote">Verres finis sont sortis en direct</string>
+    <string name="remote_live_error_device_offline">Aucun appareil trouvé en ligne, s\'il vous plaît réessayer plus tard</string>
+    <string name="remote_live_error_get_data">Impossible de charger les données, s\'il vous plaît réessayer plus tard</string>
+    <string name="remote_live_error_get_data_timeout">La charge du réseau a échoué, s\'il vous plaît essayer à nouveau</string>
+    <string name="remote_live_error_get_videodata_failed">Obtenir des données vidéo ont échoué, s\'il vous plaît essayer à nouveau</string>
+    <string name="remote_live_error_max_seesion">Broadcast Equipment ont atteint la limite, s\'il vous plaît réessayer plus tard</string>
+    <string name="remote_live_error_record_too_short">Le temps de conversation est trop courte</string>
+    <string name="remote_live_error_speaker_failed">Voix insuffisance intercom</string>
+    <string name="remote_live_error_videorecord_too_short">Le temps d\'enregistrement est trop court</string>
+    <string name="remote_live_history">histoire</string>
+    <string name="remote_live_login">Démarrer en direct</string>
+    <string name="remote_live_modify_error">Modification échoue</string>
+    <string name="remote_live_modify_password">Changer mot de passe</string>
+    <string name="remote_live_modify_success">réussir modifié</string>
+    <string name="remote_live_modifying_pwd">Modification</string>
+    <string name="remote_live_msg_check_uid">Vérification de numéro de série de l\'appareil et le mot de passe</string>
+    <string name="remote_live_msg_get_data">Chargement des données, s\'il vous plaît attendre</string>
+    <string name="remote_live_new_pwd">Nouveau mot de passe</string>
+    <string name="remote_live_new_pwd_ensure">Reconfirmer</string>
+    <string name="remote_live_newpwd">S\'il vous plaît entrer un nouveau mot de passe et de modifier en direct par</string>
+    <string name="remote_live_nickname">surnom</string>
+    <string name="remote_live_no_name">S\'il vous plaît entrer un pseudo</string>
+    <string name="remote_live_no_network">Vérifiez votre connexion réseau et réessayez</string>
+    <string name="remote_live_no_pwd">S\'il vous plaît entrer le mot de passe correct</string>
+    <string name="remote_live_no_uid">S\'il vous plaît entrer le numéro de série correct de l\'appareil</string>
+    <string name="remote_live_old_pwd">Ancien mot de passe</string>
+    <string name="remote_live_pwd">mot de passe</string>
+    <string name="remote_live_pwd_inconsistent">Les mots de passe ne correspondent pas, s\'il vous plaît ré-entrer.</string>
+    <string name="remote_live_reset_password">Réinitialiser mot de passe</string>
+    <string name="remote_live_uid_vertify_fail">UID vérification échoue, entrez le numéro de série correct</string>
+    <string name="remote_live_use_mobile_data">Nous utilisons les données de réseau mobile</string>
+    <string name="remote_live_uuid">UID</string>
+    <string name="remote_live_verify_pwd_error">Le mot de passe d\'origine est incorrect, s\'il vous plaît essayer à nouveau.</string>
+    <string name="remote_live_video_record_fail">l\'échec d\'enregistrement</string>
+    <string name="remote_live_video_save_fail">l\'échec d\'enregistrement</string>
+    <string name="remote_photo">Le miroir terminal de photos</string>
+    <string name="remote_ring_msg">C\'est( %1$s )par commande à distance. Cliquez sur le bouton pour arrêter \ n</string>
+    <string name="remote_ring_title">à distance de la cloche</string>
+    <string name="remote_video">Le miroir terminal vidéo</string>
+    <string name="reset">Reset</string>
+    <string name="retry_connect">Connexion…</string>
+    <string name="retry_connect_failed">Un échec de la connexion</string>
+    <string name="retry_connect_failed_with_no_address">Perdre des dispositifs à distance</string>
+    <string name="retry_connect_success">Connexion réussie</string>
+    <string name="ring">En réponse</string>
+    <string name="rollback_to_version">Revenir à la version:%s</string>
+    <string name="rotate">Rotate</string>
+    <string name="round_video">Entraînement de disque</string>
+    <string name="round_video_summary">Le mode d\'enregistrement d\'entraînement d\'ouverture / de fermeture</string>
+    <string name="run_update"> Mise à jour</string>
+    <string name="scan">Balayer au - dessus du Code bidimensionnel, un motif de liaison de lunettes</string>
+    <string name="scan_device">Cherchez des lunettes d\'appariement de dispositifs</string>
+    <string name="scan_device_timeout">Lunettes n\'a été trouvé</string>
+    <string name="scan_qrcode">Le Code bidimensionnel est placé dans le cadre, peut être automatiquement de balayage</string>
+    <string name="scan_qrcode_hint">Le balayage d\'un Code bidimensionnel</string>
+    <string name="scheduled_check">Vérifier régulièrement</string>
+    <string name="screen_control">Avec l\'écran de contrôle</string>
+    <string name="screen_control_msg">Le partage de l\'écran et commande de lunettes</string>
+    <string name="screen_transport_failed">Des lunettes sur l\'écran de l\'échec de la synchronisation, Veuillez réessayer</string>
+    <string name="sdcard_not_avaliable">La carte mémoire n\'est pas disponible!</string>
+    <string name="search_bind">Recherche de liaison</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Rechercher"</string>
+    <string name="secondly"> II.</string>
+    <string name="select_all">Tout sélectionner</string>
+    <string name="serching_camlog">Recherche Lunettes…</string>
+    <string name="serial_number_summary">ABCD123456789</string>
+    <string name="service_msg">La synchronisation est en service</string>
+    <string name="setting">Ensemble</string>
+    <string name="share">Partager</string>
+    <string name="size">Taille:%s bytes</string>
+    <string name="sms_send_fail">Un message de défaillance de synchronisation de données</string>
+    <string name="software_updates">La mise à jour de logiciel</string>
+    <string name="ssid">SSID:</string>
+    <string name="ssid_hint">Nom disponible WiFi</string>
+    <string name="standard_clearity">HD(pour 1mbps bande passante)</string>
+    <string name="start">La synchronisation de l\'écran</string>
+    <string name="start_live">Ouvrir</string>
+    <string name="start_sync_photos">Synchronisation de départ de photos</string>
+    <string name="start_sync_videos">De début de synchronisation vidéo</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="stop_live">Arrêter</string>
+    <string name="storage_summary">Qui reçoit le courant de stockage d\'état de…</string>
+    <string name="sync_contact">Synchronisation de contact</string>
+    <string name="sync_contact_fail">Contacts de synchronisation à des lunettes a échoué</string>
+    <string name="sync_contact_success">Le contact est synchronisé à lunettes</string>
+    <string name="sync_contact_to_glass">Synchronisation d\'ouverture / fermeture de contacts à des lunettes</string>
+    <string name="sync_failed">Un échec de la synchronisation.</string>
+    <string name="sync_media_done">Fin de synchronisation(Finir%1$d L\'échec %2$d)</string>
+    <string name="sync_phone_time_to_glass">Synchronisation de temps d\'ouverture / de fermeture mobile</string>
+    <string name="sync_phone_wifi_hotspot">sync Hot</string>
+    <string name="sync_phone_wifi_hotspot_success">La connexion est réussie</string>
+    <string name="sync_time">Synchronisation de temps</string>
+    <string name="sync_to_play">Local téléchargées pour jouer</string>
+    <string name="syncing_contact">Synchronisation dans…</string>
+    <string name="syncing_photos">Des photos de synchronisation (% 1% 2 $$D / d)…</string>
+    <string name="syncing_photos_done">Des photos de fin de synchronisation</string>
+    <string name="syncing_videos">Synchronisation vidéo(%1$d/%2$d)…</string>
+    <string name="syncing_videos_done">Fin de synchronisation vidéo</string>
+    <string name="system_version">La version du système:</string>
+    <string name="take_photo">Photo</string>
+    <string name="take_video">Vidéo/d\'arrêt</string>
+    <string name="thirdly"> Trois.</string>
+    <string name="time">Le temps</string>
+    <string name="time_noti_ticker">Désactiver la connexion automatique de synchronisation</string>
+    <string name="timer_format_hour" translatable="false"><ns1:g id="format">%02d:%02d:%02d</ns1:g></string>
+    <string name="timer_format_minute" translatable="false"><ns1:g id="format">%02d:%02d</ns1:g></string>
+    <string name="timout_noti_content">A longtemps perdu la capacité de connexion Bluetooth</string>
+    <string name="timout_noti_title">La synchronisation de la temporisation</string>
+    <string name="title_activity_glasses_fragment">GlassesFragmentActivity</string>
+    <string name="title_bind">Liaison</string>
+    <string name="title_media">Les médias</string>
+    <string name="title_screen">Le même écran</string>
+    <string name="title_sync">Synchrone</string>
+    <string name="tttt">Rafraîchissement d\'excursion basse</string>
+    <string name="turn_off_bluetooth_a2dp">Fermer Media Audio quand en direct</string>
+    <string name="turn_wifi_ap_off">La fermeture de points chauds</string>
+    <string name="turn_wifi_ap_on">Ouvrir un point d\'accès WiFi</string>
+    <string name="turn_wifi_ap_on_now">Est ouvert</string>
+    <string name="turning_bluetoothheadset_off">Fermer…</string>
+    <string name="turning_bluetoothheadset_on">Ouvrir dans…</string>
+    <string name="turning_wifi_ap_on">L\'ouverture mobile de points chauds dans…</string>
+    <string name="unbind">Annuler</string>
+    <string name="unbond">Annuler le courant de liaison</string>
+    <string name="unbond_st">Un état non lié</string>
+    <string name="unbond_st_content">Montre - bracelet non arbitraire et associée à un dispositif de liaison</string>
+    <string name="unbonding">La solution est attaché…</string>
+    <string name="uninstall_dialog_cancel">Annuler</string>
+    <string name="uninstall_dialog_message">Voulez - vous vraiment désinstaller le Programme d\'application?</string>
+    <string name="uninstall_dialog_ok">Déterminer</string>
+    <string name="uninstall_dialog_title">De déchargement</string>
+    <string name="uninstall_message_send_failed">Désinstaller des applications de transmission d\'informationsa échoué!</string>
+    <string name="uninstall_success">Le succès de déchargement</string>
+    <string name="uninstall_toast">Est déchargé, veuillez patienter.</string>
+    <string name="up_time_summary">Pour le temps d\'exécution…</string>
+    <string name="update_bluetooth_error">La connexion Bluetooth a été déconnecté, de renoncer à la mise à jour.</string>
+    <string name="update_connect_wifi_timeout">Une tentative de connexion wifi de temporisation, de renoncer à la mise à jour</string>
+    <string name="update_donwload_error">Télécharger des paquets de mise à jour de l\'échec, de renoncer à la mise à jour</string>
+    <string name="update_download_progress">Téléchargement du package de mise à jour:</string>
+    <string name="update_fail">La mise à jour n\'est pas terminée, le système a été rétablie à l\'état avant la mise à jour</string>
+    <string name="update_invalid_package">Vide le paquet de mise à niveau, de renoncer à la mise à jour</string>
+    <string name="update_later">Plus tard</string>
+    <string name="update_later_msg">Cliquez dans le système de mise à jour</string>
+    <string name="update_now">Maintenant, la mise à jour</string>
+    <string name="update_power_shortage">Manque d\'électricité, de renoncer à la mise à jour</string>
+    <string name="update_start">Téléchargement terminé, le début de la mise à jour.(par exemple de l\'échec, veuillez redémarrer de lunettes)</string>
+    <string name="update_start_download">Commence le téléchargement des paquets de mise à jour…</string>
+    <string name="update_storage_shortage">Manque d\'espace, de renoncer à la mise à jour</string>
+    <string name="update_success">Mise à jour avec succès. Lunettes des lunettes, le système a été mis à jour</string>
+    <string name="update_to_version">La version mise à jour:%s</string>
+    <string name="update_try_connect_wifi">Essaie de connexion wifi</string>
+    <string name="updates_note">Programme côté \n détecte des lunettes mises à jour, si la mise à jour de. \n \n Note: mise à jour de programme a besoin de lunettes d\'extrémité de réseau Wifi. \n</string>
+    <string name="user_guide">Des instructions de fonctionnement</string>
+    <string name="user_guide_summary">Cliquez pour voir Lunettes des instructions de fonctionnement</string>
+    <string name="vedio">Vidéo</string>
+    <string name="vedio_duration">Du Secrétaire général</string>
+    <string name="vedio_duration_summary">Sélectionner la vidéo du Secrétaire général</string>
+    <string name="version">Version:</string>
+    <string name="version_back">Version de repli</string>
+    <string name="version_code_summary">camlog V1.0</string>
+    <string name="vertical">vertical</string>
+    <string name="video">Vidéo</string>
+    <string name="video_file_name_format" translatable="false">"'LIVE_VID'_yyyyMMdd_HHmmss"</string>
+    <string name="video_live">En direct</string>
+    <string name="video_nofind">Il n\'y a pas de trouver des ressources vidéo sur un dispositif de lunettes</string>
+    <string name="video_sync_start">"La vidéo de début de synchronisation"</string>
+    <string name="video_water_mark">Ajouter un effet vidéo filigrane</string>
+    <string name="voice_recog">la reconnaissance vocale</string>
+    <string name="voice_recog_summary">choisir d\'ouvrir la reconnaissance vocale</string>
+    <string name="volume">Volume de supports</string>
+    <string name="volume_summary">Commande de volume de support de lunettes</string>
+    <string name="wait_device_connect">Attendre de connexion…</string>
+    <string name="waiting_for_glass_connect">Attendre des dispositifs de connexion…</string>
+    <string name="waiting_for_glass_open_camera">L\'extrémité ouverte de lunettes caméras dans…</string>
+    <string name="water_mark">Effet de filigrane</string>
+    <string name="water_mark_summary">Ajouter effet de filigrane de verres-côté image/vidéo</string>
+    <string name="weather_tip1">Est d\'obtenir des informations météorologiques à partir du téléphone mobile</string>
+    <string name="weather_tip2">Un échec de la connexion de réseau, veuillez vérifier votre configuration de réseau</string>
+    <string name="weibo_auth_canceled">Annuler l\'autorisation de micro - blog</string>
+    <string name="weibo_auth_failed">Microblog l\'autorisation a échoué</string>
+    <string name="weibo_auth_success">Weibo autorisation réussie</string>
+    <string name="weibo_share_canceled">L\'annulation de micro - blog de partage</string>
+    <string name="weibo_share_failed">Micro-blog de partager l\'échec</string>
+    <string name="weibo_share_success">Micro-blog de partage de succès</string>
+    <string name="weibo_share_title">En cours de transmission micro - blog</string>
+    <string name="welcome_use_camlog">Bienvenue au Lunettes</string>
+    <string name="wifi">Wifi de synchronisation</string>
+    <string name="wifi_ap">Wifi à chaud</string>
+    <string name="wifi_ap_hint">Lunettes de visualisation de contenu à fonction d\'ouverture de point chaud WiFi</string>
+    <string name="wifi_ap_hint_off">Si le téléphone et ouvre la fermeture de points chauds WiFi</string>
+    <string name="wifi_ap_setting">Paramètres de point d\'accès sans fil WiFi</string>
+    <string name="wifi_ap_summary">Modifier le nom de wifi de point chaud</string>
+    <string name="wifi_connect">Chaud peut être de connexion wifi</string>
+    <string name="wifi_connected">WLAN Lunettes de fin connecté</string>
+    <string name="wifi_dialog_cancle">Annuler</string>
+    <string name="wifi_dialog_ok">Déterminer</string>
+    <string name="wifi_dialog_title">Saisissez le mot de passe de% 1 $s</string>
+    <string name="wifi_free">WPS peut être utilisé</string>
+    <string name="wifi_is_closed">Lunettes \'WLAN est déjà fermée</string>
+    <string name="wifi_list_null">Il n\'y a pas de balayage à un point d\'accès WiFi</string>
+    <string name="wifi_off">Wifi de synchronisation doit ouvrir WiFi</string>
+    <string name="wifi_open">Cette option ouvre WiFi</string>
+    <string name="wifi_secured_first_item">Par <ns1:g id="wifi_security_short">%1$s</ns1:g> De la protection</string>
+    <string name="wifi_security_eap">802.1x EAP</string>
+    <string name="wifi_security_none">None</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
+    <string name="wifi_security_short_eap">802.1x</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
+    <string name="wifi_security_short_wep">WEP</string>
+    <string name="wifi_security_short_wpa">WPA</string>
+    <string name="wifi_security_short_wpa2">WPA2</string>
+    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_wep">WEP</string>
+    <string name="wifi_security_wpa">WPA PSK</string>
+    <string name="wifi_security_wpa2">WPA2 PSK</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_sync">sync WLAN</string>
+    <string name="wifi_sync_fail">Connect a échoué</string>
+    <string name="wifi_sync_success">Déjà connectés</string>
+    <string name="wifi_syncing">Relie% 1 $...</string>
+    <string name="wifisync_summary">Fin WLAN lunettes paramètres de synchronisation</string>
+    <string name="wlan_dialog_tip">Power wolf le temps d\'attente sera considérablement réduit après reliant WLAN, éteins ça dans le temps lorsque vous n\'utilisez pas le WLAN function</string>
+    <string name="wlan_dialog_tip_title">Tip</string>
+    <string name="wlan_sync_state_title">WLAN synchronisation État</string>
+</resources>

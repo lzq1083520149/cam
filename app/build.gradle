@@ -1,0 +1,93 @@
+import java.text.SimpleDateFormat
+
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.1'
+    defaultConfig {
+        applicationId "com.cn.zhongdun110.camlog"
+        minSdkVersion 18
+        targetSdkVersion 20
+        versionCode 2200
+        versionName "2.4.6"
+    }
+//    android.applicationVariants.all { variant ->
+//        variant.outputs.each { output ->
+//            def outputFile = output.outputFile
+//            if (outputFile != null && outputFile.name.endsWith('.apk')) {
+//                //这里修改apk文件名
+//                def fileName = outputFile.name.replace("app", "${buildTime()}_${defaultConfig.versionName}")
+////                def fileName = outputFile.name.replace("app", "${buildTime()}")
+//                output.outputFile = new File(outputFile.parent, fileName)
+//            }
+//        }
+//    }
+
+    //签名配置
+    signingConfigs {
+        debug {
+            storeFile file("E:\\资料\\中盾\\android_studioKEY\\android_studio_camlog_key.jks")
+            storePassword "18728026"
+            keyAlias "zhongdun"
+            keyPassword "18728026"
+        }
+
+        release {
+            storeFile file("E:\\资料\\中盾\\android_studioKEY\\android_studio_camlog_key.jks")
+            storePassword "18728026"
+            keyAlias "zhongdun"
+            keyPassword "18728026"
+        }
+    }
+
+
+
+    buildTypes {
+//        debug {
+//            minifyEnabled false
+//            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+//            signingConfig signingConfigs.debug
+//        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+    useLibrary 'org.apache.http.legacy'
+
+
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false // 禁用lint
+    }
+
+
+}
+
+//日期
+def buildTime() {
+    def df = new SimpleDateFormat("yyyyMMddHH")
+    df.setTimeZone(TimeZone.getTimeZone("Asia/Shanghai"))
+    return df.format(new Date())
+}
+
+
+dependencies {
+    compile fileTree(includes: ['*.jar'], dir: 'libs')
+    compile 'com.android.support:support-v4:25.0.1'
+    compile 'com.android.support:appcompat-v7:25.0.1'
+    compile 'com.android.support:design:25.0.1'
+    compile 'com.android.support:support-v13:25.0.1'
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha5'
+    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.4'
+    compile project(':photoedit')
+    compile 'com.getbase:floatingactionbutton:1.10.1'
+    compile 'com.squareup.okhttp:okhttp:2.6.0'
+    compile 'com.squareup.okio:okio:1.5.0'
+}

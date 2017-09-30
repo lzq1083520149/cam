@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vedio_durations">
+        <item>5分钟</item>
+        <item>10分钟</item>
+        <item>20分钟</item>
+        <item>30分钟</item>
+	<item>无限制</item>
+    </string-array>
+    
+    <string-array name="vedio_durations_values">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>0</item>
+    </string-array>
+    
+    <string-array name="vedio_pixel_entry">
+        <item>768*432</item>
+        <item>1280*720</item>
+        <item>640*480</item>
+        <item>320*240</item>
+        <item>800*600</item>
+        <item>352*288</item>
+    </string-array>
+    
+    <string-array name="vedio_pixel_value">
+        <item>768*432</item>
+        <item>1280*720</item>
+        <item>640*480</item>
+        <item>320*240</item>
+        <item>800*600</item>
+        <item>352*288</item>
+    </string-array>
+    
+    <string-array name="photo_pixel_entry">
+        <item>640*480</item>
+        <item>1024*768</item>
+        <item>1280*960</item>
+        <item>1600*1200</item>
+        <item>2048*1536</item>
+        <item>2576*1932</item>
+    </string-array>
+    
+     <string-array name="photo_pixel_value">
+        <item>640*480</item>
+        <item>1024*768</item>
+        <item>1280*960</item>
+        <item>1600*1200</item>
+        <item>2048*1536</item>
+        <item>2576*1932</item>
+    </string-array>
+    
+         
+     <string-array name="remote_video_option_1">
+        <item>下载</item>
+        <item >删除</item>
+    </string-array>
+    
+    <string-array name="remote_video_option_2">
+        <item>播放</item>
+        <item >删除</item>
+    </string-array>
+    
+    <string-array name="native_video_option">
+        <item>播放</item>
+        <item>分享</item>
+        <item>删除</item>
+    </string-array>
+    
+    <string-array name="native_photo_option">
+        <item>查看</item>
+        <item>分享</item>
+        <item>删除</item>
+    </string-array>
+    
+    <string-array name="remote_photo_option">
+        <item>查看</item>
+        <item>下载</item>
+        <item>删除</item>
+    </string-array>
+    
+</resources>

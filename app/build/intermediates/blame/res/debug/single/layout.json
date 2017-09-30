@@ -1,0 +1,546 @@
+[
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_glasses.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\fragment_glasses.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item_bind.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\fragment_item_bind.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\57bdfd5e3a82dedc2ab05e59560b3c1a404a6068\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_item.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\image_grid_item.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_pager_image.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\item_pager_image.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mulstyle.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\mulstyle.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crop_image.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\crop_image.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_guide_pager.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\user_guide_pager.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\crop_image_view.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\photoedit\\build\\intermediates\\bundles\\default\\res\\layout\\crop_image_view.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_display.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_display.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_remlive_modifypwd.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_remlive_modifypwd.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bind_activity_cruise.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\other_bind_activity_cruise.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\multimedia.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\multimedia.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\table_media_info_section.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\table_media_info_section.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_common_top_bar.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\layout_common_top_bar.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_media.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\layout_media.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_revolve.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\layout_revolve.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\57bdfd5e3a82dedc2ab05e59560b3c1a404a6068\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_menu1.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\fragment_menu1.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_mosaic.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\layout_mosaic.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guide.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_color.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\select_color.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rtmplive_main.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\rtmplive_main.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_info_screen.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\device_info_screen.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\screen_controller.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\screen_controller.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\volume_seekbar.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\volume_seekbar.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addwatermark.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\addwatermark.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addtext.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\addtext.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bind_activity11.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\other_bind_activity11.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\57bdfd5e3a82dedc2ab05e59560b3c1a404a6068\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weibo.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_weibo.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_activity.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\welcome_activity.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\57bdfd5e3a82dedc2ab05e59560b3c1a404a6068\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\config_wifi.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\config_wifi.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_enhance.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\layout_enhance.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_image_pager.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\fragment_image_pager.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\57bdfd5e3a82dedc2ab05e59560b3c1a404a6068\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\table_media_info_row2.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\table_media_info_row2.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_filter.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\layout_filter.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\57bdfd5e3a82dedc2ab05e59560b3c1a404a6068\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_remote_cameralive.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_remote_cameralive.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\other_bind_activity_item.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\other_bind_activity_item.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\57bdfd5e3a82dedc2ab05e59560b3c1a404a6068\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\57bdfd5e3a82dedc2ab05e59560b3c1a404a6068\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_view.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\notification_view.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_dialog.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\my_dialog.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_frame.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\photo_frame.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\remote_video_option_item.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\remote_video_option_item.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\checkbox.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\checkbox.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\media_default_view.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\media_default_view.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\version_list_view.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\version_list_view.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\version_info_screen.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\version_info_screen.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_download.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_update_download.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\57bdfd5e3a82dedc2ab05e59560b3c1a404a6068\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_warp.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\layout_warp.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\57bdfd5e3a82dedc2ab05e59560b3c1a404a6068\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\57bdfd5e3a82dedc2ab05e59560b3c1a404a6068\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_remlive_selectuid.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_remlive_selectuid.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_potoedit.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_potoedit.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_install.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_update_install.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bind_slide_menu.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\bind_slide_menu.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\remote_video_dialog.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\remote_video_dialog.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_drawer.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\57bdfd5e3a82dedc2ab05e59560b3c1a404a6068\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_image_grid.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\fragment_image_grid.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_guide.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\fragment_guide.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\myactivity_main.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\myactivity_main.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item_setting.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\fragment_item_setting.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ime_input.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\ime_input.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rtmplive_list_item.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\rtmplive_list_item.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\table_media_info.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\table_media_info.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bdp_update_activity_confirm_dialog.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\bdp_update_activity_confirm_dialog.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_update_check.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_update_check.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\57bdfd5e3a82dedc2ab05e59560b3c1a404a6068\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\openfile.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\openfile.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_header.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\lv_header.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\57bdfd5e3a82dedc2ab05e59560b3c1a404a6068\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rtmplive_play.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\rtmplive_play.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\d738691460972a624f7d8090239d7c4b7b6f9978\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_glasses_fragment.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_glasses_fragment.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_draw.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\layout_draw.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filter_test.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\filter_test.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_item.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\dialog_item.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\table_media_info_row1.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\table_media_info_row1.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera_iotclive.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_camera_iotclive.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bind_camlog.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\activity_bind_camlog.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_scan_list.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\wifi_scan_list.xml"
+    },
+    {
+        "merged": "D:\\Code\\CamlogLive2017.4.5\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wifi_scan_item.xml",
+        "source": "D:\\Code\\CamlogLive2017.4.5\\app\\src\\main\\res\\layout\\wifi_scan_item.xml"
+    }
+]

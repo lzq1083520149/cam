@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"    
+	      android:layout_width="match_parent"    
+	      android:layout_height="match_parent"
+	      android:orientation="vertical">
+  <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:layout_marginLeft="20dp"
+      android:layout_marginRight="20dp"
+      android:orientation="horizontal" >
+
+    <TextView
+	android:id="@+id/wifi_title"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="12dp"
+	android:text="@string/wifi_scaning"
+	android:textColor="@color/wifi_list_title_color"
+	android:textSize="22dp"/>
+
+    <Button
+	android:id="@+id/close_wlan_bt"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="5dp"
+	android:layout_alignParentRight="true"
+	android:textColor="@color/wifi_list_title_color"
+	android:background="@drawable/close_wlan_btn_bg"
+	android:gravity="center"
+	android:textSize="12dp"
+	android:padding="3dp"
+	android:text="@string/close_wlan" />
+
+  </RelativeLayout>
+
+  <TextView
+      android:id="@+id/found_line"
+      android:layout_width="match_parent"
+      android:layout_height="2dp"
+      android:background="@color/wifi_list_title_color"
+      android:layout_marginTop="5dp"
+      android:layout_marginLeft="20dp"
+      android:layout_marginRight="20dp"/>
+
+  <ListView android:id="@+id/scan_list"     
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:divider="@drawable/list_divider"
+	    android:dividerHeight="0.5dp"/>
+</LinearLayout>

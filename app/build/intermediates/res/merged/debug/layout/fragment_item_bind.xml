@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/root"
+    android:background="#fafafa"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/layout_unbind"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="8.5"
+            android:gravity="center"
+            android:text="@string/my_text"
+            android:textColor="#0097cf"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1.5"
+            android:background="@drawable/round_bg"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/image_view"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_marginBottom="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1" />
+
+            <TextView
+                android:id="@+id/tv_sacnMessage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="2.5"
+                android:gravity="center_horizontal"
+                android:text="@string/scan"
+                android:textColor="#0097cf"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/ic_stub"
+            android:id="@+id/other">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+            
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="5dp"
+                android:textColor="#0097cf"
+                android:textSize="15sp" />
+    <!-- android:text="@string/other_bind" -->
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_bind"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fafafa"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_gravity="center_vertical"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/bind_glass"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/binding"
+		    android:textColor="@color/text_color"
+                    android:textSize="18sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginTop="5dp"
+                    android:background="#b7b7b7" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round_bind_info"
+		android:layout_marginTop="10dp"
+		android:layout_marginLeft="5dp"
+		android:layout_marginRight="5dp"
+		android:gravity="center"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:src="@drawable/ic_stub" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+			android:layout_gravity="center_vertical"
+                        android:orientation="vertical" >
+
+
+		      <!-- <LinearLayout -->
+		      <!-- 	  android:id="@+id/tv_name" -->
+		      <!-- 	  android:layout_width="match_parent" -->
+		      <!-- 	  android:layout_height="wrap_content" -->
+		      <!-- 	  android:orientation="horizontal" > -->
+
+		      <!-- 	<TextView -->
+                      <!--       android:id="@+id/tv_name" -->
+                      <!--       android:layout_width="70dp" -->
+                      <!--       android:layout_height="wrap_content" -->
+                      <!--       android:layout_marginTop="15dp" -->
+		      <!-- 	    android:text="@string/device" -->
+                      <!--       android:textSize="20sp" /> -->
+                        <TextView
+                            android:id="@+id/tv_bindAddress"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="21sp" />
+		      <!-- </LinearLayout> -->
+
+		      <!-- <LinearLayout -->
+		      <!-- 	  android:layout_width="match_parent" -->
+		      <!-- 	  android:layout_height="wrap_content" -->
+		      <!-- 	  android:layout_below="@id/tv_name" -->
+		      <!-- 	  android:orientation="horizontal" > -->
+
+		      <!-- 	<TextView -->
+                      <!--       android:id="@+id/tv_name" -->
+                      <!--       android:layout_width="70dp" -->
+                      <!--       android:layout_height="wrap_content" -->
+                      <!--       android:layout_marginTop="10dp" -->
+		      <!-- 	    android:text="@string/mac" -->
+                      <!--       android:textSize="20sp" /> -->
+
+			<TextView
+                            android:id="@+id/tv_bindMac"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignLeft="@id/tv_bindAddress"              
+                            android:layout_marginTop="10dp"
+			    android:layout_below="@id/tv_bindAddress"
+                            android:textSize="19sp" />
+		      <!-- </LinearLayout> -->
+           
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <!-- <LinearLayout -->
+                <!--     android:layout_width="match_parent" -->
+                <!--     android:layout_height="1dp" -->
+                <!--     android:layout_marginTop="10dp" -->
+                <!--     android:background="#b7b7b7" /> -->
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:layout_weight="3" >
+
+            <TextView
+                android:id="@+id/tv_exit"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/round_exit_selector"
+                android:clickable="true"
+                android:gravity="center"
+                android:text="@string/unbond"
+                android:textColor="#ffffff"
+                android:textSize="15sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

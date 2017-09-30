@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\libammsdk.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a5f20a9010df32cb73db28ec33964ed8b4c503cc">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\libammsdk_bd57ba0e3da813a212378f332b358b091a6d32a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\mid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bd77e178ed51708d0b7205faf63e974bfbe99b3a">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\mid_61d3f3cc37be50b8cc5792ad8f4642c6e51ed2fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.6.0\212387a39088ecd3daff8e3bfc3bdc4123e33c67\okhttp-2.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\okhttp-2.6.0_540bf3759d699c9ac0675b07f40caa8c29c91998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\AVAPIs_and_IOTCAPIs.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f9aac6f0d723862bfa1e26d44cd3b8e20c595695">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\AVAPIs_and_IOTCAPIs_f769fb04bcf5899b48deb42957c117fe3b792d61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\vcard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="33ab373af25ec537b83a5201b8d94bab4e4ea8c4">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\vcard_9159634c217a304d51cf0095828e1bbe24469583.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\sync_framework.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="498ffc321fdca8987f8edf119a42b7a167271601">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\sync_framework_e3587b93e64f6a2ee26211a2f030e3b39d123c68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\android_api.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="31e96463966af2da0f7f40687396086d24b96a3e">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\android_api_cbdd6a785627c948fb288da1b55244619a13bcd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\patchupdate.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="311e10769e9bf8db15f166b8196e8c18b6238c27">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\patchupdate_fc2555d2c91ffa14e15b40eb8198ae54535ce4bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\iport.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f89236e6d985438c78d405da2359cb7b0c130f34">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\iport_1991d9b368b2c2adc5ce26af466909f60d501257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\need_lib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="58de9ecfba229dbb2c3eb3f45dbe284ba58100ea">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\need_lib_8274adbf4b7e43dee99d51146dd53cb0ed5f7bc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\zxing-core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1c8eca1094cfd198887d9fbacf727070cd0e8f83">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\zxing-core_21b29f219361e6e3a61bc56a60e8408cc2be1667.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\photoedit\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2c6b4646820fee84b3178a78c6e6ea4585746fdf">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\classes_1a469c860f548c68b983bc1b33a5b4c8f4814897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\okio-1.6.0_c410569bd3ae660f2a7eceb3af69efc833b46b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\ijkplayer-java.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e3763e26060e18b32df605a89244faba25bcf3c6">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\ijkplayer-java_7b392c0023d90672197ce97d1c4735226318fbdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\otto-1.3.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\otto-1.3.8_61e2e1e8f71daaaf5bcf8d315912fba34460f49a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\BDAutoUpdateSDK_20150605_V1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5b5e4923e09dda3f3e98026c1c8c1c2ed7d04541">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\BDAutoUpdateSDK_20150605_V1.2.0_3e4daa9584029d7ee90648308a3cafac06522299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\pgyer_sdk_2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9d257f78eb7f532da7850ccaf1b14555221ab8b0">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\pgyer_sdk_2.2.2_38e7efc1c45abe5c797df9a44214aa2dd3acc16f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Code\CamlogLive2017.4.5\app\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e8be97a233bd8370639045bef1ba73c18feca873">
+        <dex dex="D:\Code\CamlogLive2017.4.5\app\build\intermediates\pre-dexed\debug\zxing_f9264bcced12db14973a869b6c4dc7f5ab0aa056.jar" />
+    </item>
+
+</items>

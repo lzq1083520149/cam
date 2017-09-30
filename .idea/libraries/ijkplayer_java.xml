@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ijkplayer-java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/ijkplayer-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

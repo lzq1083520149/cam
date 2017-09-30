@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TestIME" >
+
+    <TextView android:id="@+id/tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ime_notice"
+        android:textColor="#00ee00"
+        android:textSize="20sp"/>
+    <EditText android:id="@+id/et1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv1"
+        android:inputType="text"
+        android:singleLine="false"
+         />
+    <Button android:id="@+id/ime_ok"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et1"
+        android:layout_alignParentRight="true"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="@string/ok"
+        />
+    <Button android:id="@+id/ime_re"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et1"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="@string/ime_reconnect"/>
+
+    <Button android:id="@+id/ime_del"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/et1"
+	android:layout_toLeftOf="@id/ime_ok"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="@string/ime_delete"/>
+
+</RelativeLayout>

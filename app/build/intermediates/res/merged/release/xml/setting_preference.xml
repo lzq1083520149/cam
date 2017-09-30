@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+        
+       <CheckBoxPreference 
+		    android:title="@string/round_video"
+		    android:key="round_video"
+		    android:defaultValue="false"
+		    android:summary="@string/round_video_summary"
+            android:widgetLayout="@layout/checkbox"/>
+       
+       <ListPreference 
+           android:title="@string/vedio_duration"
+           android:defaultValue="10"
+           android:entries="@array/vedio_durations"
+           android:entryValues="@array/vedio_durations_values"
+           android:key="duration"
+           android:summary="@string/vedio_duration_summary"/>
+
+       <Preference 
+	   android:title="@string/wifi_sync"
+	   android:key="wifi_sync"
+	   android:summary="@string/wifisync_summary"/>
+
+    <CheckBoxPreference 
+        android:title="@string/bluetooth_phone"
+        android:key="phone_on"
+        android:defaultValue="false"
+        android:summary="@string/bluetooth_phone_summary"
+        android:widgetLayout="@layout/checkbox"/>
+
+    <CheckBoxPreference 
+        android:title="@string/bluetooth_a2dp"
+        android:key="a2dp_on"
+        android:defaultValue="false"
+        android:summary="@string/bluetooth_a2dp_summary"
+        android:widgetLayout="@layout/checkbox"/>
+
+	<CheckBoxPreference 
+        android:title="@string/sync_contact"
+        android:key="sync_contact"
+        android:defaultValue="true"
+        android:summary="@string/sync_contact_to_glass"
+        android:widgetLayout="@layout/checkbox"/>
+	
+	<ListPreference 
+           android:title="@string/language"
+           android:defaultValue="@string/language_zh"
+           android:entries="@array/language"
+           android:entryValues="@array/language_values"
+           android:key="language"
+           android:summary="@string/language_summary"/>
+
+	<Preference 
+	    android:title="@string/water_mark"
+	    android:key="water_mark"
+	    android:summary="@string/water_mark_summary"/>
+
+	<CheckBoxPreference 
+	    android:title="@string/live_audio"
+	    android:key="live_audio"
+	    android:defaultValue="false"
+	    android:summary="@string/live_audio_summary"
+        android:widgetLayout="@layout/checkbox"/>
+
+	<CheckBoxPreference 
+	    android:title="@string/voice_recog"
+	    android:key="voice_recog"
+	    android:defaultValue="false"
+	    android:summary="@string/voice_recog_summary"
+        android:widgetLayout="@layout/checkbox"/>
+
+	<CheckBoxPreference 
+	    android:title="@string/live_record"
+	    android:key="live_record"
+	    android:defaultValue="true"
+	    android:summary="@string/live_record_summary"
+	    android:widgetLayout="@layout/checkbox"/>
+</PreferenceScreen>
